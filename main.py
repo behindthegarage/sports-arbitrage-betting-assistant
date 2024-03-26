@@ -10,6 +10,10 @@ load_dotenv()
 # Access the API key
 API_KEY = os.getenv('ODDS_API_KEY')
 
+# Clear the error.log file before running the script
+with open('error.log', 'w') as file:
+    file.write('')
+
 def present_data(odds_data, sport, combined_df):
     # Initialize an empty list to hold the flattened data
     flattened_data = []
@@ -80,10 +84,16 @@ def main():
         markets = 'h2h'  # Markets
         odds_format = 'decimal'  # Using decimal format for odds
         date_format = 'iso'  # ISO date format
-        # You might choose specific bookmakers based on the sport or use a general list
-        # bookmakers_list = "betfair_sb_uk,betmgm,betonlineag,betparx,betrivers,betus,betvictor,betway,bovada,boylesports,casumo,coral,draftkings,espnbet,everygame,fanduel,fliff,grosvenor,hardrockbet,ladbrokes_uk,leovegas,livescorebet,lowvig,marathonbet,matchbook,mybookieag,nordicbet,onexbet,paddypower,pointsbetus,sisportsbook,skybet,sport888,superbook,suprabets,tipico_us,virginbet,williamhill_us,windcreek,wynnbet" # All bookmakers (limit 40)
-        bookmakers_list = "betmgm,betrivers,draftkings,fanduel,wynnbet,espnbet,sisportsbook,williamhill_us,pointsbetus,betparx" # us,us2 bookmakers (odds-api token usage = 66)
-        # bookmakers_list = "betmgm,draftkings,fanduel,williamhill_us" # Seeded bookmakers (odds-api token usage = 66)
+        # Bookmakers lists
+        
+        # Max bookmakers (limit 40)
+        # bookmakers_list = "betfair_sb_uk,betmgm,betonlineag,betparx,betrivers,betus,betvictor,betway,bovada,boylesports,casumo,coral,draftkings,espnbet,everygame,fanduel,fliff,grosvenor,hardrockbet,ladbrokes_uk,leovegas,livescorebet,lowvig,marathonbet,matchbook,mybookieag,nordicbet,onexbet,paddypower,pointsbetus,sisportsbook,skybet,sport888,superbook,suprabets,tipico_us,virginbet,williamhill_us,windcreek,wynnbet"
+        
+        # Michigan legal bookmakers
+        # bookmakers_list = "betmgm,betrivers,draftkings,fanduel,wynnbet,espnbet,sisportsbook,williamhill_us,pointsbetus,betparx"
+        
+        # Current user funded bookmakers
+        bookmakers_list = "betmgm,draftkings,fanduel" # Seeded bookmakers (odds-api token usage = 66)
  
         odds_data = fetch_odds(sport, regions, markets, odds_format, date_format, bookmakers_list)
         

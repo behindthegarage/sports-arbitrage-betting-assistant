@@ -9,8 +9,6 @@ load_dotenv()
 # Retrieve API key from environment variables
 API_KEY = os.getenv('ODDS_API_KEY')
 
-
-
 def log_error(message):
     # Get the current timestamp
     now = datetime.now()
@@ -20,7 +18,7 @@ def log_error(message):
     log_message = f"{timestamp} - {message}\n"
 
     # Append the log message to the file
-    with open('error_log.txt', 'a') as log_file:
+    with open('error.log', 'a') as log_file:
         log_file.write(log_message)
 
 
