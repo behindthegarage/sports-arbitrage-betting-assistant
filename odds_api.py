@@ -1,12 +1,28 @@
 import requests
 import os
 from dotenv import load_dotenv
+from datetime import datetime
 
 # Load environment variables
 load_dotenv()
 
 # Retrieve API key from environment variables
 API_KEY = os.getenv('ODDS_API_KEY')
+
+
+
+def log_error(message):
+    # Get the current timestamp
+    now = datetime.now()
+    timestamp = now.strftime("%Y-%m-%d %H:%M:%S")  # Format as desired
+
+    # Construct the log message with the timestamp
+    log_message = f"{timestamp} - {message}\n"
+
+    # Append the log message to the file
+    with open('error_log.txt', 'a') as log_file:
+        log_file.write(log_message)
+
 
 def fetch_sports(key: str) -> set[str]:
     sports_response = requests.get(
@@ -18,7 +34,9 @@ def fetch_sports(key: str) -> set[str]:
         # Directly iterate over sports_data as it's already a list
         return {sport['key'] for sport in sports_data}
     else:
-        print(f"Error fetching sports: {sports_response.status_code}")
+        error_message = f"Error fetching odds: {sports_response.status_code}, Response: {sports_response.json()['message']}"
+        log_error(error_message)
+        # print(error_message)  # Optionally, you can still print it out or remove this line.
         return set()
 
 def fetch_odds(sport, regions='us,us2', markets='h2h', odds_format='decimal', date_format='iso', bookmakers: str = ''):
@@ -41,6 +59,9 @@ def fetch_odds(sport, regions='us,us2', markets='h2h', odds_format='decimal', da
         # print(odds_data)
         return odds_data
     else:
-        response_content = odds_response.text  # or odds_response.json() if the response is JSON
-        print(f"Error fetching odds: {odds_response.status_code}, Response: {response_content}")
+        error_message = f"Error fetching odds: {odds_response.status_code}, Response: {odds_response.json()['message']}"
+        log_error(error_message)
+        # print(error_message)  # Optionally, you can still print it out or remove this line.
+        return None
+
 
