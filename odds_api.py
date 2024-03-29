@@ -29,15 +29,15 @@ def fetch_sports(key: str) -> set[str]:
     )
     if sports_response.status_code == 200:
         sports_data = sports_response.json()
-        # Directly iterate over sports_data as it's already a list
-        return {sport['key'] for sport in sports_data}
+        # Filter out sports with 'soccer' in their 'key'
+        return {sport['key'] for sport in sports_data if 'soccer' not in sport['key'] and 'boxing' not in sport['key']}
     else:
         error_message = f"Error fetching odds: {sports_response.status_code}, Response: {sports_response.json()['message']}"
         log_error(error_message)
         # print(error_message)  # Optionally, you can still print it out or remove this line.
         return set()
 
-def fetch_odds(sport, regions='us,us2', markets='h2h', odds_format='decimal', date_format='iso', bookmakers: str = ''):
+def fetch_odds(sport, regions='us,us2', markets='h2h', odds_format='decimal', date_format='iso', bookmakers: str = ''): # ,spreads,totals for testing
     params = {
         'api_key': API_KEY,
         'regions': regions,

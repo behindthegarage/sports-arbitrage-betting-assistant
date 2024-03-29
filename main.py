@@ -13,60 +13,75 @@ API_KEY = os.getenv('ODDS_API_KEY')
 # Clear the error.log file before running the script
 with open('error.log', 'w') as file:
     file.write('')
+    
+# Clear the odds_data.csv file before running the script
+with open('odds_data.csv', 'w') as file:
+    file.write('')
 
 def present_data(odds_data, sport, combined_df):
-    # Initialize an empty list to hold the flattened data
     flattened_data = []
 
-    # Iterate over each event in the fetched odds data
     for event in odds_data:
         event_id = event.get('id')
-        event_name = f"{event.get('home_team')} vs {event.get('away_team')}"  # Construct event name
-        # Extract data from each bookmaker within the event
+        event_name = f"{event.get('home_team')} vs {event.get('away_team')}"
         for bookmaker in event.get('bookmakers', []):
             bookmaker_name = bookmaker.get('title')
-            # And now extract and handle each market within the bookmaker data
             for market in bookmaker.get('markets', []):
-                if market.get('key') == 'h2h':  # Assuming we're interested in 'h2h' markets
+                market_key = market.get('key')
+                if market_key in ['h2h', 'spreads', 'totals']:
                     for outcome in market.get('outcomes', []):
-                        # Here, you might want to handle how you present the odds and outcomes
-                        flattened_data.append({
+                        data = {
                             'sport': sport,
                             'event_id': event_id,
                             'event_name': event_name,
                             'bookmaker': bookmaker_name,
+                            'market_type': market_key,
                             'team': outcome.get('name'),
-                            'price': outcome.get('price')
-                        })
+                            'price': outcome.get('price'),
+                            'point': outcome.get('point', None)  # None if not applicable
+                        }
+                        flattened_data.append(data)
 
-    # Convert the list of dictionaries to a DataFrame
     df = pd.DataFrame(flattened_data)
-
-    # Append this DataFrame to the combined DataFrame
     combined_df = pd.concat([combined_df, df], ignore_index=True)
-
     return combined_df
 
 def present_opportunities(opportunities):
-    # Convert the list of dictionaries to a DataFrame
+    if not opportunities:
+        print("No arbitrage opportunities found.")
+        return
+
+    # Convert the list of opportunity dictionaries to a DataFrame
     df = pd.DataFrame(opportunities)
     
-    # Specify the order of columns, now including 'bookmaker_a' and 'bookmaker_b'
-    columns_order = ['event_name', 'bookmaker_a', 'odds_a', 'bookmaker_b', 'odds_b', 'arb_percentage']
+    # Convert arb_percentage to a formatted string only when displaying it
+    if not df.empty:
+        df['arb_percentage'] = df['arb_percentage'].apply(lambda x: f"{x:.2f}%")
+
+    # Ensure all expected columns are present, adding defaults for any that might be missing
+    for column in ['event_name', 'market_type', 'outcome_name', 'point', 'bookmaker', 'odds', 'comparison_bookmaker', 'comparison_odds', 'arb_percentage']:
+        if column not in df.columns:
+            df[column] = 'N/A'  # Use an appropriate default value
+
+    # Handle potential missing values in 'point' column for h2h markets
+    df['point'] = df['point'].fillna('N/A')
+
+    # Define the order of columns for display
+    columns_order = ['event_name', 'market_type', 'outcome_name', 'point', 'bookmaker', 'odds', 'comparison_bookmaker', 'comparison_odds', 'arb_percentage']
+
+    # Reorder the DataFrame according to 'columns_order', ensuring it matches our desired output structure
     df = df[columns_order]
 
-    # Format the 'arb_percentage' to two decimal places
-    df['arb_percentage'] = df['arb_percentage'].apply(lambda x: f"{x:.2f}%")
-
-    # Correct way to fill NaN values in 'event_name' without triggering a warning
-    df['event_name'] = df['event_name'].fillna('N/A')
-
-    # Print the DataFrame
+    # Convert DataFrame to a string and print it for presentation
     print(df.to_string(index=False))
+
+# Example usage (assuming 'opportunities' is populated with arbitrage opportunities according to the new structure)
+# present_opportunities(opportunities)
 
 def main():
     # Fetch list of all available sports
-    available_sports = fetch_sports(API_KEY)
+    # available_sports = fetch_sports(API_KEY)
+    available_sports = fetch_sports(API_KEY) # For testing purposes, limit to ['basketball_nba']
     
     # Initialize an empty DataFrame to hold data for all sports
     combined_df = pd.DataFrame()
@@ -81,7 +96,7 @@ def main():
     for sport in available_sports:
         # print(f"Fetching odds for {sport}...")
         regions = 'us,us2'  # Focusing on US region
-        markets = 'h2h'  # Markets
+        markets = 'h2h' # ,spreads,totals'  # Markets
         odds_format = 'decimal'  # Using decimal format for odds
         date_format = 'iso'  # ISO date format
         # Bookmakers lists
@@ -93,12 +108,13 @@ def main():
         # bookmakers_list = "betmgm,betrivers,draftkings,fanduel,wynnbet,espnbet,sisportsbook,williamhill_us,pointsbetus,betparx"
         
         # Current user funded bookmakers
-        bookmakers_list = "betmgm,draftkings,fanduel" # Seeded bookmakers (odds-api token usage = 66)
+        bookmakers_list = "betmgm,draftkings,fanduel,williamhill_us" ## betparx,betrivers,espnbet to be added
  
-        odds_data = fetch_odds(sport, regions, markets, odds_format, date_format, bookmakers_list)
+        # markets='h2h,spreaed,totals' for testing
+        odds_data = fetch_odds(sport=sport, regions=regions, markets='h2h', odds_format=odds_format, date_format=date_format, bookmakers=bookmakers_list)
         
         if odds_data:
-            # print(f"Fetched odds data for {sport}.")
+            print(f"Fetched odds data for {sport}.")
             combined_df = present_data(odds_data, sport, combined_df)
             opportunities = find_arbitrage_opportunities(odds_data)
             if opportunities:
@@ -120,8 +136,8 @@ def main():
             # print(error_message)  # Optionally, you can still print it out or remove this line.
 
     # Write the combined DataFrame to a single CSV file after processing all sports
-    combined_df.to_csv('all_sports_odds_data.csv', index=False)
-    print("All sports data has been written to all_sports_odds_data.csv")
+    combined_df.to_csv('odds_data.csv', index=False)
+    print("All sports data has been written to odds_data.csv")
     
     # Display all arbitrage opportunities found
     if all_opportunities:
