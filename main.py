@@ -43,7 +43,15 @@ def present_data(odds_data, sport, combined_df):
                         flattened_data.append(data)
 
     df = pd.DataFrame(flattened_data)
-    combined_df = pd.concat([combined_df, df], ignore_index=True)
+
+    # If combined_df is empty, directly assign df to it. Otherwise, concatenate.
+    if combined_df.empty:
+        combined_df = df.copy()
+    else:
+        # Concatenate df with combined_df without reindexing, ensuring all columns in df are included
+        # Using 'sort=False' to avoid alphabetically sorting columns
+        combined_df = pd.concat([combined_df, df], ignore_index=True, sort=False)
+
     return combined_df
 
 def present_opportunities(opportunities):
@@ -96,7 +104,7 @@ def main():
     for sport in available_sports:
         # print(f"Fetching odds for {sport}...")
         regions = 'us,us2'  # Focusing on US region
-        markets = 'h2h' # ,spreads,totals'  # Markets
+        markets = 'h2h,spreads,totals' # ,spreads,totals'  # Markets
         odds_format = 'decimal'  # Using decimal format for odds
         date_format = 'iso'  # ISO date format
         # Bookmakers lists
@@ -110,8 +118,8 @@ def main():
         # Current user funded bookmakers
         bookmakers_list = "betmgm,draftkings,fanduel,williamhill_us" ## betparx,betrivers,espnbet to be added
  
-        # markets='h2h,spreaed,totals' for testing
-        odds_data = fetch_odds(sport=sport, regions=regions, markets='h2h', odds_format=odds_format, date_format=date_format, bookmakers=bookmakers_list)
+        # markets='h2h,spreads,totals' for testing
+        odds_data = fetch_odds(sport=sport, regions=regions, markets='h2h,spreads,totals', odds_format=odds_format, date_format=date_format, bookmakers=bookmakers_list)
         
         if odds_data:
             print(f"Fetched odds data for {sport}.")
@@ -136,6 +144,7 @@ def main():
             # print(error_message)  # Optionally, you can still print it out or remove this line.
 
     # Write the combined DataFrame to a single CSV file after processing all sports
+    print (combined_df)
     combined_df.to_csv('odds_data.csv', index=False)
     print("All sports data has been written to odds_data.csv")
     
