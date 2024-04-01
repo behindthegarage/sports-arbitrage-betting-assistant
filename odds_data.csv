@@ -1,365 +1,191 @@
 sport,event_id,event_name,bookmaker,market_type,team,price,point
-basketball_nba,9af70b97cfe27c5174fa88c13942a1e8,Denver Nuggets vs Cleveland Cavaliers,DraftKings,h2h,Cleveland Cavaliers,2.6,
-basketball_nba,9af70b97cfe27c5174fa88c13942a1e8,Denver Nuggets vs Cleveland Cavaliers,DraftKings,h2h,Denver Nuggets,1.52,
-basketball_nba,9af70b97cfe27c5174fa88c13942a1e8,Denver Nuggets vs Cleveland Cavaliers,DraftKings,spreads,Cleveland Cavaliers,1.87,5.0
-basketball_nba,9af70b97cfe27c5174fa88c13942a1e8,Denver Nuggets vs Cleveland Cavaliers,DraftKings,spreads,Denver Nuggets,1.95,-5.0
-basketball_nba,9af70b97cfe27c5174fa88c13942a1e8,Denver Nuggets vs Cleveland Cavaliers,DraftKings,totals,Over,1.91,215.5
-basketball_nba,9af70b97cfe27c5174fa88c13942a1e8,Denver Nuggets vs Cleveland Cavaliers,DraftKings,totals,Under,1.91,215.5
-basketball_nba,9af70b97cfe27c5174fa88c13942a1e8,Denver Nuggets vs Cleveland Cavaliers,FanDuel,h2h,Cleveland Cavaliers,2.66,
-basketball_nba,9af70b97cfe27c5174fa88c13942a1e8,Denver Nuggets vs Cleveland Cavaliers,FanDuel,h2h,Denver Nuggets,1.51,
-basketball_nba,9af70b97cfe27c5174fa88c13942a1e8,Denver Nuggets vs Cleveland Cavaliers,FanDuel,spreads,Cleveland Cavaliers,1.89,5.0
-basketball_nba,9af70b97cfe27c5174fa88c13942a1e8,Denver Nuggets vs Cleveland Cavaliers,FanDuel,spreads,Denver Nuggets,1.93,-5.0
-basketball_nba,9af70b97cfe27c5174fa88c13942a1e8,Denver Nuggets vs Cleveland Cavaliers,FanDuel,totals,Over,1.91,215.5
-basketball_nba,9af70b97cfe27c5174fa88c13942a1e8,Denver Nuggets vs Cleveland Cavaliers,FanDuel,totals,Under,1.91,215.5
-basketball_nba,9af70b97cfe27c5174fa88c13942a1e8,Denver Nuggets vs Cleveland Cavaliers,Caesars,h2h,Cleveland Cavaliers,2.62,
-basketball_nba,9af70b97cfe27c5174fa88c13942a1e8,Denver Nuggets vs Cleveland Cavaliers,Caesars,h2h,Denver Nuggets,1.51,
-basketball_nba,9af70b97cfe27c5174fa88c13942a1e8,Denver Nuggets vs Cleveland Cavaliers,Caesars,spreads,Cleveland Cavaliers,1.87,5.0
-basketball_nba,9af70b97cfe27c5174fa88c13942a1e8,Denver Nuggets vs Cleveland Cavaliers,Caesars,spreads,Denver Nuggets,1.95,-5.0
-basketball_nba,9af70b97cfe27c5174fa88c13942a1e8,Denver Nuggets vs Cleveland Cavaliers,Caesars,totals,Over,1.91,215.5
-basketball_nba,9af70b97cfe27c5174fa88c13942a1e8,Denver Nuggets vs Cleveland Cavaliers,Caesars,totals,Under,1.91,215.5
-basketball_nba,9af70b97cfe27c5174fa88c13942a1e8,Denver Nuggets vs Cleveland Cavaliers,BetMGM,h2h,Cleveland Cavaliers,2.55,
-basketball_nba,9af70b97cfe27c5174fa88c13942a1e8,Denver Nuggets vs Cleveland Cavaliers,BetMGM,h2h,Denver Nuggets,1.53,
-basketball_nba,9af70b97cfe27c5174fa88c13942a1e8,Denver Nuggets vs Cleveland Cavaliers,BetMGM,spreads,Cleveland Cavaliers,1.91,4.5
-basketball_nba,9af70b97cfe27c5174fa88c13942a1e8,Denver Nuggets vs Cleveland Cavaliers,BetMGM,spreads,Denver Nuggets,1.91,-4.5
-basketball_nba,9af70b97cfe27c5174fa88c13942a1e8,Denver Nuggets vs Cleveland Cavaliers,BetMGM,totals,Over,1.91,215.5
-basketball_nba,9af70b97cfe27c5174fa88c13942a1e8,Denver Nuggets vs Cleveland Cavaliers,BetMGM,totals,Under,1.91,215.5
-basketball_nba,10ec472040ee7d1cf9124a6da48efec5,Brooklyn Nets vs Los Angeles Lakers,DraftKings,h2h,Brooklyn Nets,2.9,
-basketball_nba,10ec472040ee7d1cf9124a6da48efec5,Brooklyn Nets vs Los Angeles Lakers,DraftKings,h2h,Los Angeles Lakers,1.43,
-basketball_nba,10ec472040ee7d1cf9124a6da48efec5,Brooklyn Nets vs Los Angeles Lakers,DraftKings,spreads,Brooklyn Nets,1.93,6.0
-basketball_nba,10ec472040ee7d1cf9124a6da48efec5,Brooklyn Nets vs Los Angeles Lakers,DraftKings,spreads,Los Angeles Lakers,1.89,-6.0
-basketball_nba,10ec472040ee7d1cf9124a6da48efec5,Brooklyn Nets vs Los Angeles Lakers,DraftKings,totals,Over,1.91,226.5
-basketball_nba,10ec472040ee7d1cf9124a6da48efec5,Brooklyn Nets vs Los Angeles Lakers,DraftKings,totals,Under,1.91,226.5
-basketball_nba,10ec472040ee7d1cf9124a6da48efec5,Brooklyn Nets vs Los Angeles Lakers,FanDuel,h2h,Brooklyn Nets,3.0,
-basketball_nba,10ec472040ee7d1cf9124a6da48efec5,Brooklyn Nets vs Los Angeles Lakers,FanDuel,h2h,Los Angeles Lakers,1.41,
-basketball_nba,10ec472040ee7d1cf9124a6da48efec5,Brooklyn Nets vs Los Angeles Lakers,FanDuel,spreads,Brooklyn Nets,1.91,6.0
-basketball_nba,10ec472040ee7d1cf9124a6da48efec5,Brooklyn Nets vs Los Angeles Lakers,FanDuel,spreads,Los Angeles Lakers,1.91,-6.0
-basketball_nba,10ec472040ee7d1cf9124a6da48efec5,Brooklyn Nets vs Los Angeles Lakers,FanDuel,totals,Over,1.91,226.5
-basketball_nba,10ec472040ee7d1cf9124a6da48efec5,Brooklyn Nets vs Los Angeles Lakers,FanDuel,totals,Under,1.91,226.5
-basketball_nba,10ec472040ee7d1cf9124a6da48efec5,Brooklyn Nets vs Los Angeles Lakers,Caesars,h2h,Brooklyn Nets,3.05,
-basketball_nba,10ec472040ee7d1cf9124a6da48efec5,Brooklyn Nets vs Los Angeles Lakers,Caesars,h2h,Los Angeles Lakers,1.4,
-basketball_nba,10ec472040ee7d1cf9124a6da48efec5,Brooklyn Nets vs Los Angeles Lakers,Caesars,spreads,Brooklyn Nets,1.91,6.0
-basketball_nba,10ec472040ee7d1cf9124a6da48efec5,Brooklyn Nets vs Los Angeles Lakers,Caesars,spreads,Los Angeles Lakers,1.91,-6.0
-basketball_nba,10ec472040ee7d1cf9124a6da48efec5,Brooklyn Nets vs Los Angeles Lakers,Caesars,totals,Over,1.91,227.0
-basketball_nba,10ec472040ee7d1cf9124a6da48efec5,Brooklyn Nets vs Los Angeles Lakers,Caesars,totals,Under,1.91,227.0
-basketball_nba,10ec472040ee7d1cf9124a6da48efec5,Brooklyn Nets vs Los Angeles Lakers,BetMGM,h2h,Brooklyn Nets,2.95,
-basketball_nba,10ec472040ee7d1cf9124a6da48efec5,Brooklyn Nets vs Los Angeles Lakers,BetMGM,h2h,Los Angeles Lakers,1.4,
-basketball_nba,10ec472040ee7d1cf9124a6da48efec5,Brooklyn Nets vs Los Angeles Lakers,BetMGM,spreads,Brooklyn Nets,1.87,6.5
-basketball_nba,10ec472040ee7d1cf9124a6da48efec5,Brooklyn Nets vs Los Angeles Lakers,BetMGM,spreads,Los Angeles Lakers,1.95,-6.5
-basketball_nba,10ec472040ee7d1cf9124a6da48efec5,Brooklyn Nets vs Los Angeles Lakers,BetMGM,totals,Over,1.87,226.5
-basketball_nba,10ec472040ee7d1cf9124a6da48efec5,Brooklyn Nets vs Los Angeles Lakers,BetMGM,totals,Under,1.95,226.5
-basketball_nba,9a0fb240f3f4db66d5ef34a3f5eb1c5f,Charlotte Hornets vs Los Angeles Clippers,DraftKings,h2h,Charlotte Hornets,9.0,
-basketball_nba,9a0fb240f3f4db66d5ef34a3f5eb1c5f,Charlotte Hornets vs Los Angeles Clippers,DraftKings,h2h,Los Angeles Clippers,1.07,
-basketball_nba,9a0fb240f3f4db66d5ef34a3f5eb1c5f,Charlotte Hornets vs Los Angeles Clippers,DraftKings,spreads,Charlotte Hornets,1.93,14.5
-basketball_nba,9a0fb240f3f4db66d5ef34a3f5eb1c5f,Charlotte Hornets vs Los Angeles Clippers,DraftKings,spreads,Los Angeles Clippers,1.89,-14.5
-basketball_nba,9a0fb240f3f4db66d5ef34a3f5eb1c5f,Charlotte Hornets vs Los Angeles Clippers,DraftKings,totals,Over,1.93,214.5
-basketball_nba,9a0fb240f3f4db66d5ef34a3f5eb1c5f,Charlotte Hornets vs Los Angeles Clippers,DraftKings,totals,Under,1.89,214.5
-basketball_nba,9a0fb240f3f4db66d5ef34a3f5eb1c5f,Charlotte Hornets vs Los Angeles Clippers,FanDuel,h2h,Charlotte Hornets,9.3,
-basketball_nba,9a0fb240f3f4db66d5ef34a3f5eb1c5f,Charlotte Hornets vs Los Angeles Clippers,FanDuel,h2h,Los Angeles Clippers,1.07,
-basketball_nba,9a0fb240f3f4db66d5ef34a3f5eb1c5f,Charlotte Hornets vs Los Angeles Clippers,FanDuel,spreads,Charlotte Hornets,1.91,14.5
-basketball_nba,9a0fb240f3f4db66d5ef34a3f5eb1c5f,Charlotte Hornets vs Los Angeles Clippers,FanDuel,spreads,Los Angeles Clippers,1.91,-14.5
-basketball_nba,9a0fb240f3f4db66d5ef34a3f5eb1c5f,Charlotte Hornets vs Los Angeles Clippers,FanDuel,totals,Over,1.91,214.5
-basketball_nba,9a0fb240f3f4db66d5ef34a3f5eb1c5f,Charlotte Hornets vs Los Angeles Clippers,FanDuel,totals,Under,1.91,214.5
-basketball_nba,9a0fb240f3f4db66d5ef34a3f5eb1c5f,Charlotte Hornets vs Los Angeles Clippers,Caesars,h2h,Charlotte Hornets,9.0,
-basketball_nba,9a0fb240f3f4db66d5ef34a3f5eb1c5f,Charlotte Hornets vs Los Angeles Clippers,Caesars,h2h,Los Angeles Clippers,1.07,
-basketball_nba,9a0fb240f3f4db66d5ef34a3f5eb1c5f,Charlotte Hornets vs Los Angeles Clippers,Caesars,spreads,Charlotte Hornets,1.91,14.5
-basketball_nba,9a0fb240f3f4db66d5ef34a3f5eb1c5f,Charlotte Hornets vs Los Angeles Clippers,Caesars,spreads,Los Angeles Clippers,1.91,-14.5
-basketball_nba,9a0fb240f3f4db66d5ef34a3f5eb1c5f,Charlotte Hornets vs Los Angeles Clippers,Caesars,totals,Over,1.91,214.0
-basketball_nba,9a0fb240f3f4db66d5ef34a3f5eb1c5f,Charlotte Hornets vs Los Angeles Clippers,Caesars,totals,Under,1.91,214.0
-basketball_nba,9a0fb240f3f4db66d5ef34a3f5eb1c5f,Charlotte Hornets vs Los Angeles Clippers,BetMGM,h2h,Charlotte Hornets,9.0,
-basketball_nba,9a0fb240f3f4db66d5ef34a3f5eb1c5f,Charlotte Hornets vs Los Angeles Clippers,BetMGM,h2h,Los Angeles Clippers,1.07,
-basketball_nba,9a0fb240f3f4db66d5ef34a3f5eb1c5f,Charlotte Hornets vs Los Angeles Clippers,BetMGM,spreads,Charlotte Hornets,1.91,14.5
-basketball_nba,9a0fb240f3f4db66d5ef34a3f5eb1c5f,Charlotte Hornets vs Los Angeles Clippers,BetMGM,spreads,Los Angeles Clippers,1.91,-14.5
-basketball_nba,9a0fb240f3f4db66d5ef34a3f5eb1c5f,Charlotte Hornets vs Los Angeles Clippers,BetMGM,totals,Over,1.91,214.5
-basketball_nba,9a0fb240f3f4db66d5ef34a3f5eb1c5f,Charlotte Hornets vs Los Angeles Clippers,BetMGM,totals,Under,1.91,214.5
-basketball_nba,a64e07a473570af03a3607c518584ab3,Washington Wizards vs Miami Heat,DraftKings,h2h,Miami Heat,1.17,
-basketball_nba,a64e07a473570af03a3607c518584ab3,Washington Wizards vs Miami Heat,DraftKings,h2h,Washington Wizards,5.25,
-basketball_nba,a64e07a473570af03a3607c518584ab3,Washington Wizards vs Miami Heat,DraftKings,spreads,Miami Heat,1.93,-11.0
-basketball_nba,a64e07a473570af03a3607c518584ab3,Washington Wizards vs Miami Heat,DraftKings,spreads,Washington Wizards,1.89,11.0
-basketball_nba,a64e07a473570af03a3607c518584ab3,Washington Wizards vs Miami Heat,DraftKings,totals,Over,1.89,217.0
-basketball_nba,a64e07a473570af03a3607c518584ab3,Washington Wizards vs Miami Heat,DraftKings,totals,Under,1.93,217.0
-basketball_nba,a64e07a473570af03a3607c518584ab3,Washington Wizards vs Miami Heat,Caesars,h2h,Miami Heat,1.17,
-basketball_nba,a64e07a473570af03a3607c518584ab3,Washington Wizards vs Miami Heat,Caesars,h2h,Washington Wizards,5.3,
-basketball_nba,a64e07a473570af03a3607c518584ab3,Washington Wizards vs Miami Heat,Caesars,spreads,Miami Heat,1.91,-11.0
-basketball_nba,a64e07a473570af03a3607c518584ab3,Washington Wizards vs Miami Heat,Caesars,spreads,Washington Wizards,1.91,11.0
-basketball_nba,a64e07a473570af03a3607c518584ab3,Washington Wizards vs Miami Heat,Caesars,totals,Over,1.91,217.0
-basketball_nba,a64e07a473570af03a3607c518584ab3,Washington Wizards vs Miami Heat,Caesars,totals,Under,1.91,217.0
-basketball_nba,a64e07a473570af03a3607c518584ab3,Washington Wizards vs Miami Heat,FanDuel,h2h,Miami Heat,1.17,
-basketball_nba,a64e07a473570af03a3607c518584ab3,Washington Wizards vs Miami Heat,FanDuel,h2h,Washington Wizards,5.3,
-basketball_nba,a64e07a473570af03a3607c518584ab3,Washington Wizards vs Miami Heat,FanDuel,spreads,Miami Heat,1.91,-11.0
-basketball_nba,a64e07a473570af03a3607c518584ab3,Washington Wizards vs Miami Heat,FanDuel,spreads,Washington Wizards,1.91,11.0
-basketball_nba,a64e07a473570af03a3607c518584ab3,Washington Wizards vs Miami Heat,FanDuel,totals,Over,1.89,217.0
-basketball_nba,a64e07a473570af03a3607c518584ab3,Washington Wizards vs Miami Heat,FanDuel,totals,Under,1.93,217.0
-basketball_nba,a64e07a473570af03a3607c518584ab3,Washington Wizards vs Miami Heat,BetMGM,h2h,Miami Heat,1.17,
-basketball_nba,a64e07a473570af03a3607c518584ab3,Washington Wizards vs Miami Heat,BetMGM,h2h,Washington Wizards,5.25,
-basketball_nba,a64e07a473570af03a3607c518584ab3,Washington Wizards vs Miami Heat,BetMGM,spreads,Miami Heat,1.87,-10.5
-basketball_nba,a64e07a473570af03a3607c518584ab3,Washington Wizards vs Miami Heat,BetMGM,spreads,Washington Wizards,1.95,10.5
-basketball_nba,a64e07a473570af03a3607c518584ab3,Washington Wizards vs Miami Heat,BetMGM,totals,Over,1.95,217.5
-basketball_nba,a64e07a473570af03a3607c518584ab3,Washington Wizards vs Miami Heat,BetMGM,totals,Under,1.87,217.5
-basketball_nba,61e8c9aef77b250a0f8570b40355442e,Toronto Raptors vs Philadelphia 76ers,DraftKings,h2h,Philadelphia 76ers,1.17,
-basketball_nba,61e8c9aef77b250a0f8570b40355442e,Toronto Raptors vs Philadelphia 76ers,DraftKings,h2h,Toronto Raptors,5.4,
-basketball_nba,61e8c9aef77b250a0f8570b40355442e,Toronto Raptors vs Philadelphia 76ers,DraftKings,spreads,Philadelphia 76ers,1.93,-11.0
-basketball_nba,61e8c9aef77b250a0f8570b40355442e,Toronto Raptors vs Philadelphia 76ers,DraftKings,spreads,Toronto Raptors,1.89,11.0
-basketball_nba,61e8c9aef77b250a0f8570b40355442e,Toronto Raptors vs Philadelphia 76ers,DraftKings,totals,Over,1.91,218.5
-basketball_nba,61e8c9aef77b250a0f8570b40355442e,Toronto Raptors vs Philadelphia 76ers,DraftKings,totals,Under,1.91,218.5
-basketball_nba,61e8c9aef77b250a0f8570b40355442e,Toronto Raptors vs Philadelphia 76ers,FanDuel,h2h,Philadelphia 76ers,1.17,
-basketball_nba,61e8c9aef77b250a0f8570b40355442e,Toronto Raptors vs Philadelphia 76ers,FanDuel,h2h,Toronto Raptors,5.4,
-basketball_nba,61e8c9aef77b250a0f8570b40355442e,Toronto Raptors vs Philadelphia 76ers,FanDuel,spreads,Philadelphia 76ers,1.91,-11.0
-basketball_nba,61e8c9aef77b250a0f8570b40355442e,Toronto Raptors vs Philadelphia 76ers,FanDuel,spreads,Toronto Raptors,1.91,11.0
-basketball_nba,61e8c9aef77b250a0f8570b40355442e,Toronto Raptors vs Philadelphia 76ers,FanDuel,totals,Over,1.91,218.5
-basketball_nba,61e8c9aef77b250a0f8570b40355442e,Toronto Raptors vs Philadelphia 76ers,FanDuel,totals,Under,1.91,218.5
-basketball_nba,61e8c9aef77b250a0f8570b40355442e,Toronto Raptors vs Philadelphia 76ers,Caesars,h2h,Philadelphia 76ers,1.17,
-basketball_nba,61e8c9aef77b250a0f8570b40355442e,Toronto Raptors vs Philadelphia 76ers,Caesars,h2h,Toronto Raptors,5.3,
-basketball_nba,61e8c9aef77b250a0f8570b40355442e,Toronto Raptors vs Philadelphia 76ers,Caesars,spreads,Philadelphia 76ers,1.91,-11.0
-basketball_nba,61e8c9aef77b250a0f8570b40355442e,Toronto Raptors vs Philadelphia 76ers,Caesars,spreads,Toronto Raptors,1.91,11.0
-basketball_nba,61e8c9aef77b250a0f8570b40355442e,Toronto Raptors vs Philadelphia 76ers,Caesars,totals,Over,1.91,218.5
-basketball_nba,61e8c9aef77b250a0f8570b40355442e,Toronto Raptors vs Philadelphia 76ers,Caesars,totals,Under,1.91,218.5
-basketball_nba,61e8c9aef77b250a0f8570b40355442e,Toronto Raptors vs Philadelphia 76ers,BetMGM,h2h,Philadelphia 76ers,1.15,
-basketball_nba,61e8c9aef77b250a0f8570b40355442e,Toronto Raptors vs Philadelphia 76ers,BetMGM,h2h,Toronto Raptors,5.5,
-basketball_nba,61e8c9aef77b250a0f8570b40355442e,Toronto Raptors vs Philadelphia 76ers,BetMGM,spreads,Philadelphia 76ers,1.87,-10.5
-basketball_nba,61e8c9aef77b250a0f8570b40355442e,Toronto Raptors vs Philadelphia 76ers,BetMGM,spreads,Toronto Raptors,1.95,10.5
-basketball_nba,61e8c9aef77b250a0f8570b40355442e,Toronto Raptors vs Philadelphia 76ers,BetMGM,totals,Over,1.91,218.5
-basketball_nba,61e8c9aef77b250a0f8570b40355442e,Toronto Raptors vs Philadelphia 76ers,BetMGM,totals,Under,1.91,218.5
-basketball_nba,ff88f778f1aca4397116db8ee499957e,Minnesota Timberwolves vs Chicago Bulls,DraftKings,h2h,Chicago Bulls,3.95,
-basketball_nba,ff88f778f1aca4397116db8ee499957e,Minnesota Timberwolves vs Chicago Bulls,DraftKings,h2h,Minnesota Timberwolves,1.27,
-basketball_nba,ff88f778f1aca4397116db8ee499957e,Minnesota Timberwolves vs Chicago Bulls,DraftKings,spreads,Chicago Bulls,1.93,8.5
-basketball_nba,ff88f778f1aca4397116db8ee499957e,Minnesota Timberwolves vs Chicago Bulls,DraftKings,spreads,Minnesota Timberwolves,1.89,-8.5
-basketball_nba,ff88f778f1aca4397116db8ee499957e,Minnesota Timberwolves vs Chicago Bulls,DraftKings,totals,Over,1.89,214.0
-basketball_nba,ff88f778f1aca4397116db8ee499957e,Minnesota Timberwolves vs Chicago Bulls,DraftKings,totals,Under,1.93,214.0
+basketball_nba,9a0fb240f3f4db66d5ef34a3f5eb1c5f,Charlotte Hornets vs Los Angeles Clippers,DraftKings,h2h,Charlotte Hornets,15.0,
+basketball_nba,9a0fb240f3f4db66d5ef34a3f5eb1c5f,Charlotte Hornets vs Los Angeles Clippers,DraftKings,h2h,Los Angeles Clippers,1.03,
+basketball_nba,9a0fb240f3f4db66d5ef34a3f5eb1c5f,Charlotte Hornets vs Los Angeles Clippers,FanDuel,h2h,Charlotte Hornets,14.0,
+basketball_nba,9a0fb240f3f4db66d5ef34a3f5eb1c5f,Charlotte Hornets vs Los Angeles Clippers,FanDuel,h2h,Los Angeles Clippers,1.02,
+basketball_nba,9a0fb240f3f4db66d5ef34a3f5eb1c5f,Charlotte Hornets vs Los Angeles Clippers,Caesars,h2h,Charlotte Hornets,12.0,
+basketball_nba,9a0fb240f3f4db66d5ef34a3f5eb1c5f,Charlotte Hornets vs Los Angeles Clippers,Caesars,h2h,Los Angeles Clippers,1.03,
+basketball_nba,9a0fb240f3f4db66d5ef34a3f5eb1c5f,Charlotte Hornets vs Los Angeles Clippers,BetMGM,h2h,Charlotte Hornets,16.5,
+basketball_nba,9a0fb240f3f4db66d5ef34a3f5eb1c5f,Charlotte Hornets vs Los Angeles Clippers,BetMGM,h2h,Los Angeles Clippers,1.01,
+basketball_nba,61e8c9aef77b250a0f8570b40355442e,Toronto Raptors vs Philadelphia 76ers,DraftKings,h2h,Philadelphia 76ers,1.02,
+basketball_nba,61e8c9aef77b250a0f8570b40355442e,Toronto Raptors vs Philadelphia 76ers,DraftKings,h2h,Toronto Raptors,19.0,
+basketball_nba,61e8c9aef77b250a0f8570b40355442e,Toronto Raptors vs Philadelphia 76ers,FanDuel,h2h,Philadelphia 76ers,1.02,
+basketball_nba,61e8c9aef77b250a0f8570b40355442e,Toronto Raptors vs Philadelphia 76ers,FanDuel,h2h,Toronto Raptors,15.0,
+basketball_nba,61e8c9aef77b250a0f8570b40355442e,Toronto Raptors vs Philadelphia 76ers,Caesars,h2h,Philadelphia 76ers,1.02,
+basketball_nba,61e8c9aef77b250a0f8570b40355442e,Toronto Raptors vs Philadelphia 76ers,Caesars,h2h,Toronto Raptors,13.0,
+basketball_nba,61e8c9aef77b250a0f8570b40355442e,Toronto Raptors vs Philadelphia 76ers,BetMGM,h2h,Philadelphia 76ers,1.01,
+basketball_nba,61e8c9aef77b250a0f8570b40355442e,Toronto Raptors vs Philadelphia 76ers,BetMGM,h2h,Toronto Raptors,15.5,
+basketball_nba,a64e07a473570af03a3607c518584ab3,Washington Wizards vs Miami Heat,DraftKings,h2h,Miami Heat,1.14,
+basketball_nba,a64e07a473570af03a3607c518584ab3,Washington Wizards vs Miami Heat,DraftKings,h2h,Washington Wizards,5.5,
+basketball_nba,a64e07a473570af03a3607c518584ab3,Washington Wizards vs Miami Heat,Caesars,h2h,Miami Heat,1.14,
+basketball_nba,a64e07a473570af03a3607c518584ab3,Washington Wizards vs Miami Heat,Caesars,h2h,Washington Wizards,5.5,
+basketball_nba,a64e07a473570af03a3607c518584ab3,Washington Wizards vs Miami Heat,FanDuel,h2h,Miami Heat,1.12,
+basketball_nba,a64e07a473570af03a3607c518584ab3,Washington Wizards vs Miami Heat,FanDuel,h2h,Washington Wizards,6.0,
+basketball_nba,a64e07a473570af03a3607c518584ab3,Washington Wizards vs Miami Heat,BetMGM,h2h,Miami Heat,1.13,
+basketball_nba,a64e07a473570af03a3607c518584ab3,Washington Wizards vs Miami Heat,BetMGM,h2h,Washington Wizards,6.0,
+basketball_nba,10ec472040ee7d1cf9124a6da48efec5,Brooklyn Nets vs Los Angeles Lakers,DraftKings,h2h,Brooklyn Nets,13.0,
+basketball_nba,10ec472040ee7d1cf9124a6da48efec5,Brooklyn Nets vs Los Angeles Lakers,DraftKings,h2h,Los Angeles Lakers,1.04,
+basketball_nba,10ec472040ee7d1cf9124a6da48efec5,Brooklyn Nets vs Los Angeles Lakers,FanDuel,h2h,Brooklyn Nets,16.0,
+basketball_nba,10ec472040ee7d1cf9124a6da48efec5,Brooklyn Nets vs Los Angeles Lakers,FanDuel,h2h,Los Angeles Lakers,1.01,
+basketball_nba,10ec472040ee7d1cf9124a6da48efec5,Brooklyn Nets vs Los Angeles Lakers,Caesars,h2h,Brooklyn Nets,15.0,
+basketball_nba,10ec472040ee7d1cf9124a6da48efec5,Brooklyn Nets vs Los Angeles Lakers,Caesars,h2h,Los Angeles Lakers,1.02,
+basketball_nba,10ec472040ee7d1cf9124a6da48efec5,Brooklyn Nets vs Los Angeles Lakers,BetMGM,h2h,Brooklyn Nets,19.0,
+basketball_nba,10ec472040ee7d1cf9124a6da48efec5,Brooklyn Nets vs Los Angeles Lakers,BetMGM,h2h,Los Angeles Lakers,1.01,
+basketball_nba,ba1db52470fcf89f37df032a905cecce,San Antonio Spurs vs Golden State Warriors,DraftKings,h2h,Golden State Warriors,1.19,
+basketball_nba,ba1db52470fcf89f37df032a905cecce,San Antonio Spurs vs Golden State Warriors,DraftKings,h2h,San Antonio Spurs,4.9,
+basketball_nba,ba1db52470fcf89f37df032a905cecce,San Antonio Spurs vs Golden State Warriors,FanDuel,h2h,Golden State Warriors,1.19,
+basketball_nba,ba1db52470fcf89f37df032a905cecce,San Antonio Spurs vs Golden State Warriors,FanDuel,h2h,San Antonio Spurs,5.0,
+basketball_nba,ba1db52470fcf89f37df032a905cecce,San Antonio Spurs vs Golden State Warriors,Caesars,h2h,Golden State Warriors,1.18,
+basketball_nba,ba1db52470fcf89f37df032a905cecce,San Antonio Spurs vs Golden State Warriors,Caesars,h2h,San Antonio Spurs,5.0,
+basketball_nba,ba1db52470fcf89f37df032a905cecce,San Antonio Spurs vs Golden State Warriors,BetMGM,h2h,Golden State Warriors,1.18,
+basketball_nba,ba1db52470fcf89f37df032a905cecce,San Antonio Spurs vs Golden State Warriors,BetMGM,h2h,San Antonio Spurs,5.0,
+basketball_nba,037397a79667854289dfd06671aad824,New York Knicks vs Oklahoma City Thunder,DraftKings,h2h,New York Knicks,2.02,
+basketball_nba,037397a79667854289dfd06671aad824,New York Knicks vs Oklahoma City Thunder,DraftKings,h2h,Oklahoma City Thunder,1.82,
+basketball_nba,037397a79667854289dfd06671aad824,New York Knicks vs Oklahoma City Thunder,FanDuel,h2h,New York Knicks,2.1,
+basketball_nba,037397a79667854289dfd06671aad824,New York Knicks vs Oklahoma City Thunder,FanDuel,h2h,Oklahoma City Thunder,1.77,
+basketball_nba,037397a79667854289dfd06671aad824,New York Knicks vs Oklahoma City Thunder,Caesars,h2h,New York Knicks,2.05,
+basketball_nba,037397a79667854289dfd06671aad824,New York Knicks vs Oklahoma City Thunder,Caesars,h2h,Oklahoma City Thunder,1.8,
+basketball_nba,037397a79667854289dfd06671aad824,New York Knicks vs Oklahoma City Thunder,BetMGM,h2h,New York Knicks,2.1,
+basketball_nba,037397a79667854289dfd06671aad824,New York Knicks vs Oklahoma City Thunder,BetMGM,h2h,Oklahoma City Thunder,1.74,
+basketball_nba,ff88f778f1aca4397116db8ee499957e,Minnesota Timberwolves vs Chicago Bulls,DraftKings,h2h,Chicago Bulls,4.0,
+basketball_nba,ff88f778f1aca4397116db8ee499957e,Minnesota Timberwolves vs Chicago Bulls,DraftKings,h2h,Minnesota Timberwolves,1.26,
 basketball_nba,ff88f778f1aca4397116db8ee499957e,Minnesota Timberwolves vs Chicago Bulls,FanDuel,h2h,Chicago Bulls,4.0,
 basketball_nba,ff88f778f1aca4397116db8ee499957e,Minnesota Timberwolves vs Chicago Bulls,FanDuel,h2h,Minnesota Timberwolves,1.27,
-basketball_nba,ff88f778f1aca4397116db8ee499957e,Minnesota Timberwolves vs Chicago Bulls,FanDuel,spreads,Chicago Bulls,1.91,8.5
-basketball_nba,ff88f778f1aca4397116db8ee499957e,Minnesota Timberwolves vs Chicago Bulls,FanDuel,spreads,Minnesota Timberwolves,1.91,-8.5
-basketball_nba,ff88f778f1aca4397116db8ee499957e,Minnesota Timberwolves vs Chicago Bulls,FanDuel,totals,Over,1.89,214.0
-basketball_nba,ff88f778f1aca4397116db8ee499957e,Minnesota Timberwolves vs Chicago Bulls,FanDuel,totals,Under,1.93,214.0
-basketball_nba,ff88f778f1aca4397116db8ee499957e,Minnesota Timberwolves vs Chicago Bulls,Caesars,h2h,Chicago Bulls,3.85,
-basketball_nba,ff88f778f1aca4397116db8ee499957e,Minnesota Timberwolves vs Chicago Bulls,Caesars,h2h,Minnesota Timberwolves,1.27,
-basketball_nba,ff88f778f1aca4397116db8ee499957e,Minnesota Timberwolves vs Chicago Bulls,Caesars,spreads,Chicago Bulls,1.91,8.5
-basketball_nba,ff88f778f1aca4397116db8ee499957e,Minnesota Timberwolves vs Chicago Bulls,Caesars,spreads,Minnesota Timberwolves,1.91,-8.5
-basketball_nba,ff88f778f1aca4397116db8ee499957e,Minnesota Timberwolves vs Chicago Bulls,Caesars,totals,Over,1.91,214.0
-basketball_nba,ff88f778f1aca4397116db8ee499957e,Minnesota Timberwolves vs Chicago Bulls,Caesars,totals,Under,1.91,214.0
-basketball_nba,ff88f778f1aca4397116db8ee499957e,Minnesota Timberwolves vs Chicago Bulls,BetMGM,h2h,Chicago Bulls,3.9,
-basketball_nba,ff88f778f1aca4397116db8ee499957e,Minnesota Timberwolves vs Chicago Bulls,BetMGM,h2h,Minnesota Timberwolves,1.27,
-basketball_nba,ff88f778f1aca4397116db8ee499957e,Minnesota Timberwolves vs Chicago Bulls,BetMGM,spreads,Chicago Bulls,1.91,8.5
-basketball_nba,ff88f778f1aca4397116db8ee499957e,Minnesota Timberwolves vs Chicago Bulls,BetMGM,spreads,Minnesota Timberwolves,1.91,-8.5
-basketball_nba,ff88f778f1aca4397116db8ee499957e,Minnesota Timberwolves vs Chicago Bulls,BetMGM,totals,Over,1.91,213.5
-basketball_nba,ff88f778f1aca4397116db8ee499957e,Minnesota Timberwolves vs Chicago Bulls,BetMGM,totals,Under,1.91,213.5
-basketball_nba,334977eee0d00129b598bc762211ebf7,Houston Rockets vs Dallas Mavericks,DraftKings,h2h,Dallas Mavericks,1.74,
-basketball_nba,334977eee0d00129b598bc762211ebf7,Houston Rockets vs Dallas Mavericks,DraftKings,h2h,Houston Rockets,2.14,
-basketball_nba,334977eee0d00129b598bc762211ebf7,Houston Rockets vs Dallas Mavericks,DraftKings,spreads,Dallas Mavericks,1.91,-2.5
-basketball_nba,334977eee0d00129b598bc762211ebf7,Houston Rockets vs Dallas Mavericks,DraftKings,spreads,Houston Rockets,1.91,2.5
-basketball_nba,334977eee0d00129b598bc762211ebf7,Houston Rockets vs Dallas Mavericks,DraftKings,totals,Over,1.89,230.5
-basketball_nba,334977eee0d00129b598bc762211ebf7,Houston Rockets vs Dallas Mavericks,DraftKings,totals,Under,1.93,230.5
-basketball_nba,334977eee0d00129b598bc762211ebf7,Houston Rockets vs Dallas Mavericks,FanDuel,h2h,Dallas Mavericks,1.74,
-basketball_nba,334977eee0d00129b598bc762211ebf7,Houston Rockets vs Dallas Mavericks,FanDuel,h2h,Houston Rockets,2.16,
-basketball_nba,334977eee0d00129b598bc762211ebf7,Houston Rockets vs Dallas Mavericks,FanDuel,spreads,Dallas Mavericks,1.89,-2.0
-basketball_nba,334977eee0d00129b598bc762211ebf7,Houston Rockets vs Dallas Mavericks,FanDuel,spreads,Houston Rockets,1.93,2.0
-basketball_nba,334977eee0d00129b598bc762211ebf7,Houston Rockets vs Dallas Mavericks,FanDuel,totals,Over,1.93,230.5
-basketball_nba,334977eee0d00129b598bc762211ebf7,Houston Rockets vs Dallas Mavericks,FanDuel,totals,Under,1.89,230.5
-basketball_nba,334977eee0d00129b598bc762211ebf7,Houston Rockets vs Dallas Mavericks,Caesars,h2h,Dallas Mavericks,1.71,
-basketball_nba,334977eee0d00129b598bc762211ebf7,Houston Rockets vs Dallas Mavericks,Caesars,h2h,Houston Rockets,2.18,
-basketball_nba,334977eee0d00129b598bc762211ebf7,Houston Rockets vs Dallas Mavericks,Caesars,spreads,Dallas Mavericks,1.91,-2.5
-basketball_nba,334977eee0d00129b598bc762211ebf7,Houston Rockets vs Dallas Mavericks,Caesars,spreads,Houston Rockets,1.91,2.5
-basketball_nba,334977eee0d00129b598bc762211ebf7,Houston Rockets vs Dallas Mavericks,Caesars,totals,Over,1.91,231.0
-basketball_nba,334977eee0d00129b598bc762211ebf7,Houston Rockets vs Dallas Mavericks,Caesars,totals,Under,1.91,231.0
-basketball_nba,334977eee0d00129b598bc762211ebf7,Houston Rockets vs Dallas Mavericks,BetMGM,h2h,Dallas Mavericks,1.71,
-basketball_nba,334977eee0d00129b598bc762211ebf7,Houston Rockets vs Dallas Mavericks,BetMGM,h2h,Houston Rockets,2.15,
-basketball_nba,334977eee0d00129b598bc762211ebf7,Houston Rockets vs Dallas Mavericks,BetMGM,spreads,Dallas Mavericks,1.91,-2.5
-basketball_nba,334977eee0d00129b598bc762211ebf7,Houston Rockets vs Dallas Mavericks,BetMGM,spreads,Houston Rockets,1.91,2.5
-basketball_nba,334977eee0d00129b598bc762211ebf7,Houston Rockets vs Dallas Mavericks,BetMGM,totals,Over,1.87,230.5
-basketball_nba,334977eee0d00129b598bc762211ebf7,Houston Rockets vs Dallas Mavericks,BetMGM,totals,Under,1.95,230.5
-basketball_nba,ba1db52470fcf89f37df032a905cecce,San Antonio Spurs vs Golden State Warriors,DraftKings,h2h,Golden State Warriors,1.27,
-basketball_nba,ba1db52470fcf89f37df032a905cecce,San Antonio Spurs vs Golden State Warriors,DraftKings,h2h,San Antonio Spurs,3.95,
-basketball_nba,ba1db52470fcf89f37df032a905cecce,San Antonio Spurs vs Golden State Warriors,DraftKings,spreads,Golden State Warriors,1.87,-8.5
-basketball_nba,ba1db52470fcf89f37df032a905cecce,San Antonio Spurs vs Golden State Warriors,DraftKings,spreads,San Antonio Spurs,1.95,8.5
-basketball_nba,ba1db52470fcf89f37df032a905cecce,San Antonio Spurs vs Golden State Warriors,DraftKings,totals,Over,1.91,227.0
-basketball_nba,ba1db52470fcf89f37df032a905cecce,San Antonio Spurs vs Golden State Warriors,DraftKings,totals,Under,1.91,227.0
-basketball_nba,ba1db52470fcf89f37df032a905cecce,San Antonio Spurs vs Golden State Warriors,FanDuel,h2h,Golden State Warriors,1.28,
-basketball_nba,ba1db52470fcf89f37df032a905cecce,San Antonio Spurs vs Golden State Warriors,FanDuel,h2h,San Antonio Spurs,3.9,
-basketball_nba,ba1db52470fcf89f37df032a905cecce,San Antonio Spurs vs Golden State Warriors,FanDuel,spreads,Golden State Warriors,1.93,-9.0
-basketball_nba,ba1db52470fcf89f37df032a905cecce,San Antonio Spurs vs Golden State Warriors,FanDuel,spreads,San Antonio Spurs,1.89,9.0
-basketball_nba,ba1db52470fcf89f37df032a905cecce,San Antonio Spurs vs Golden State Warriors,FanDuel,totals,Over,1.91,227.0
-basketball_nba,ba1db52470fcf89f37df032a905cecce,San Antonio Spurs vs Golden State Warriors,FanDuel,totals,Under,1.91,227.0
-basketball_nba,ba1db52470fcf89f37df032a905cecce,San Antonio Spurs vs Golden State Warriors,Caesars,h2h,Golden State Warriors,1.27,
-basketball_nba,ba1db52470fcf89f37df032a905cecce,San Antonio Spurs vs Golden State Warriors,Caesars,h2h,San Antonio Spurs,3.85,
-basketball_nba,ba1db52470fcf89f37df032a905cecce,San Antonio Spurs vs Golden State Warriors,Caesars,spreads,Golden State Warriors,1.91,-8.5
-basketball_nba,ba1db52470fcf89f37df032a905cecce,San Antonio Spurs vs Golden State Warriors,Caesars,spreads,San Antonio Spurs,1.91,8.5
-basketball_nba,ba1db52470fcf89f37df032a905cecce,San Antonio Spurs vs Golden State Warriors,Caesars,totals,Over,1.91,227.0
-basketball_nba,ba1db52470fcf89f37df032a905cecce,San Antonio Spurs vs Golden State Warriors,Caesars,totals,Under,1.91,227.0
-basketball_nba,ba1db52470fcf89f37df032a905cecce,San Antonio Spurs vs Golden State Warriors,BetMGM,h2h,Golden State Warriors,1.27,
-basketball_nba,ba1db52470fcf89f37df032a905cecce,San Antonio Spurs vs Golden State Warriors,BetMGM,h2h,San Antonio Spurs,3.9,
-basketball_nba,ba1db52470fcf89f37df032a905cecce,San Antonio Spurs vs Golden State Warriors,BetMGM,spreads,Golden State Warriors,1.87,-8.5
-basketball_nba,ba1db52470fcf89f37df032a905cecce,San Antonio Spurs vs Golden State Warriors,BetMGM,spreads,San Antonio Spurs,1.95,8.5
-basketball_nba,ba1db52470fcf89f37df032a905cecce,San Antonio Spurs vs Golden State Warriors,BetMGM,totals,Over,1.87,226.5
-basketball_nba,ba1db52470fcf89f37df032a905cecce,San Antonio Spurs vs Golden State Warriors,BetMGM,totals,Under,1.95,226.5
-basketball_nba,037397a79667854289dfd06671aad824,New York Knicks vs Oklahoma City Thunder,DraftKings,h2h,New York Knicks,1.65,
-basketball_nba,037397a79667854289dfd06671aad824,New York Knicks vs Oklahoma City Thunder,DraftKings,h2h,Oklahoma City Thunder,2.3,
-basketball_nba,037397a79667854289dfd06671aad824,New York Knicks vs Oklahoma City Thunder,DraftKings,spreads,New York Knicks,1.91,-3.5
-basketball_nba,037397a79667854289dfd06671aad824,New York Knicks vs Oklahoma City Thunder,DraftKings,spreads,Oklahoma City Thunder,1.91,3.5
-basketball_nba,037397a79667854289dfd06671aad824,New York Knicks vs Oklahoma City Thunder,DraftKings,totals,Over,1.93,215.0
-basketball_nba,037397a79667854289dfd06671aad824,New York Knicks vs Oklahoma City Thunder,DraftKings,totals,Under,1.89,215.0
-basketball_nba,037397a79667854289dfd06671aad824,New York Knicks vs Oklahoma City Thunder,FanDuel,h2h,New York Knicks,1.63,
-basketball_nba,037397a79667854289dfd06671aad824,New York Knicks vs Oklahoma City Thunder,FanDuel,h2h,Oklahoma City Thunder,2.34,
-basketball_nba,037397a79667854289dfd06671aad824,New York Knicks vs Oklahoma City Thunder,FanDuel,spreads,New York Knicks,1.89,-3.5
-basketball_nba,037397a79667854289dfd06671aad824,New York Knicks vs Oklahoma City Thunder,FanDuel,spreads,Oklahoma City Thunder,1.93,3.5
-basketball_nba,037397a79667854289dfd06671aad824,New York Knicks vs Oklahoma City Thunder,FanDuel,totals,Over,1.91,214.5
-basketball_nba,037397a79667854289dfd06671aad824,New York Knicks vs Oklahoma City Thunder,FanDuel,totals,Under,1.91,214.5
-basketball_nba,037397a79667854289dfd06671aad824,New York Knicks vs Oklahoma City Thunder,Caesars,h2h,New York Knicks,1.61,
-basketball_nba,037397a79667854289dfd06671aad824,New York Knicks vs Oklahoma City Thunder,Caesars,h2h,Oklahoma City Thunder,2.4,
-basketball_nba,037397a79667854289dfd06671aad824,New York Knicks vs Oklahoma City Thunder,Caesars,spreads,New York Knicks,1.91,-4.0
-basketball_nba,037397a79667854289dfd06671aad824,New York Knicks vs Oklahoma City Thunder,Caesars,spreads,Oklahoma City Thunder,1.91,4.0
-basketball_nba,037397a79667854289dfd06671aad824,New York Knicks vs Oklahoma City Thunder,Caesars,totals,Over,1.91,215.0
-basketball_nba,037397a79667854289dfd06671aad824,New York Knicks vs Oklahoma City Thunder,Caesars,totals,Under,1.91,215.0
-basketball_nba,037397a79667854289dfd06671aad824,New York Knicks vs Oklahoma City Thunder,BetMGM,h2h,New York Knicks,1.61,
-basketball_nba,037397a79667854289dfd06671aad824,New York Knicks vs Oklahoma City Thunder,BetMGM,h2h,Oklahoma City Thunder,2.35,
-basketball_nba,037397a79667854289dfd06671aad824,New York Knicks vs Oklahoma City Thunder,BetMGM,spreads,New York Knicks,1.87,-3.5
-basketball_nba,037397a79667854289dfd06671aad824,New York Knicks vs Oklahoma City Thunder,BetMGM,spreads,Oklahoma City Thunder,1.95,3.5
-basketball_nba,037397a79667854289dfd06671aad824,New York Knicks vs Oklahoma City Thunder,BetMGM,totals,Over,1.87,214.5
-basketball_nba,037397a79667854289dfd06671aad824,New York Knicks vs Oklahoma City Thunder,BetMGM,totals,Under,1.95,214.5
+basketball_nba,ff88f778f1aca4397116db8ee499957e,Minnesota Timberwolves vs Chicago Bulls,Caesars,h2h,Chicago Bulls,4.1,
+basketball_nba,ff88f778f1aca4397116db8ee499957e,Minnesota Timberwolves vs Chicago Bulls,Caesars,h2h,Minnesota Timberwolves,1.25,
+basketball_nba,ff88f778f1aca4397116db8ee499957e,Minnesota Timberwolves vs Chicago Bulls,BetMGM,h2h,Chicago Bulls,4.1,
+basketball_nba,ff88f778f1aca4397116db8ee499957e,Minnesota Timberwolves vs Chicago Bulls,BetMGM,h2h,Minnesota Timberwolves,1.25,
+basketball_nba,334977eee0d00129b598bc762211ebf7,Houston Rockets vs Dallas Mavericks,DraftKings,h2h,Dallas Mavericks,1.6,
+basketball_nba,334977eee0d00129b598bc762211ebf7,Houston Rockets vs Dallas Mavericks,DraftKings,h2h,Houston Rockets,2.4,
+basketball_nba,334977eee0d00129b598bc762211ebf7,Houston Rockets vs Dallas Mavericks,FanDuel,h2h,Dallas Mavericks,1.58,
+basketball_nba,334977eee0d00129b598bc762211ebf7,Houston Rockets vs Dallas Mavericks,FanDuel,h2h,Houston Rockets,2.44,
+basketball_nba,334977eee0d00129b598bc762211ebf7,Houston Rockets vs Dallas Mavericks,Caesars,h2h,Dallas Mavericks,1.61,
+basketball_nba,334977eee0d00129b598bc762211ebf7,Houston Rockets vs Dallas Mavericks,Caesars,h2h,Houston Rockets,2.4,
+basketball_nba,334977eee0d00129b598bc762211ebf7,Houston Rockets vs Dallas Mavericks,BetMGM,h2h,Dallas Mavericks,1.61,
+basketball_nba,334977eee0d00129b598bc762211ebf7,Houston Rockets vs Dallas Mavericks,BetMGM,h2h,Houston Rockets,2.4,
 basketball_nba,701550171abbecc509088af8e73168c5,Sacramento Kings vs Utah Jazz,DraftKings,h2h,Sacramento Kings,1.11,
 basketball_nba,701550171abbecc509088af8e73168c5,Sacramento Kings vs Utah Jazz,DraftKings,h2h,Utah Jazz,7.0,
-basketball_nba,701550171abbecc509088af8e73168c5,Sacramento Kings vs Utah Jazz,DraftKings,spreads,Sacramento Kings,1.93,-12.5
-basketball_nba,701550171abbecc509088af8e73168c5,Sacramento Kings vs Utah Jazz,DraftKings,spreads,Utah Jazz,1.89,12.5
-basketball_nba,701550171abbecc509088af8e73168c5,Sacramento Kings vs Utah Jazz,DraftKings,totals,Over,1.89,222.0
-basketball_nba,701550171abbecc509088af8e73168c5,Sacramento Kings vs Utah Jazz,DraftKings,totals,Under,1.93,222.0
 basketball_nba,701550171abbecc509088af8e73168c5,Sacramento Kings vs Utah Jazz,FanDuel,h2h,Sacramento Kings,1.1,
 basketball_nba,701550171abbecc509088af8e73168c5,Sacramento Kings vs Utah Jazz,FanDuel,h2h,Utah Jazz,7.6,
-basketball_nba,701550171abbecc509088af8e73168c5,Sacramento Kings vs Utah Jazz,FanDuel,spreads,Sacramento Kings,1.89,-12.5
-basketball_nba,701550171abbecc509088af8e73168c5,Sacramento Kings vs Utah Jazz,FanDuel,spreads,Utah Jazz,1.93,12.5
-basketball_nba,701550171abbecc509088af8e73168c5,Sacramento Kings vs Utah Jazz,FanDuel,totals,Over,1.91,222.5
-basketball_nba,701550171abbecc509088af8e73168c5,Sacramento Kings vs Utah Jazz,FanDuel,totals,Under,1.91,222.5
 basketball_nba,701550171abbecc509088af8e73168c5,Sacramento Kings vs Utah Jazz,Caesars,h2h,Sacramento Kings,1.11,
 basketball_nba,701550171abbecc509088af8e73168c5,Sacramento Kings vs Utah Jazz,Caesars,h2h,Utah Jazz,7.0,
-basketball_nba,701550171abbecc509088af8e73168c5,Sacramento Kings vs Utah Jazz,Caesars,spreads,Sacramento Kings,1.91,-12.5
-basketball_nba,701550171abbecc509088af8e73168c5,Sacramento Kings vs Utah Jazz,Caesars,spreads,Utah Jazz,1.91,12.5
-basketball_nba,701550171abbecc509088af8e73168c5,Sacramento Kings vs Utah Jazz,Caesars,totals,Over,1.91,222.5
-basketball_nba,701550171abbecc509088af8e73168c5,Sacramento Kings vs Utah Jazz,Caesars,totals,Under,1.91,222.5
 basketball_nba,701550171abbecc509088af8e73168c5,Sacramento Kings vs Utah Jazz,BetMGM,h2h,Sacramento Kings,1.11,
-basketball_nba,701550171abbecc509088af8e73168c5,Sacramento Kings vs Utah Jazz,BetMGM,h2h,Utah Jazz,6.75,
-basketball_nba,701550171abbecc509088af8e73168c5,Sacramento Kings vs Utah Jazz,BetMGM,spreads,Sacramento Kings,1.91,-12.5
-basketball_nba,701550171abbecc509088af8e73168c5,Sacramento Kings vs Utah Jazz,BetMGM,spreads,Utah Jazz,1.91,12.5
-basketball_nba,701550171abbecc509088af8e73168c5,Sacramento Kings vs Utah Jazz,BetMGM,totals,Over,1.91,222.5
-basketball_nba,701550171abbecc509088af8e73168c5,Sacramento Kings vs Utah Jazz,BetMGM,totals,Under,1.91,222.5
-basketball_ncaab,0d3fed8fb76959d2e44c7993eb5e6110,Purdue Boilermakers vs Tennessee Volunteers,FanDuel,h2h,Purdue Boilermakers,1.58,
-basketball_ncaab,0d3fed8fb76959d2e44c7993eb5e6110,Purdue Boilermakers vs Tennessee Volunteers,FanDuel,h2h,Tennessee Volunteers,2.4,
-basketball_ncaab,0d3fed8fb76959d2e44c7993eb5e6110,Purdue Boilermakers vs Tennessee Volunteers,FanDuel,spreads,Purdue Boilermakers,1.91,-3.5
-basketball_ncaab,0d3fed8fb76959d2e44c7993eb5e6110,Purdue Boilermakers vs Tennessee Volunteers,FanDuel,spreads,Tennessee Volunteers,1.91,3.5
-basketball_ncaab,0d3fed8fb76959d2e44c7993eb5e6110,Purdue Boilermakers vs Tennessee Volunteers,FanDuel,totals,Over,1.95,147.5
-basketball_ncaab,0d3fed8fb76959d2e44c7993eb5e6110,Purdue Boilermakers vs Tennessee Volunteers,FanDuel,totals,Under,1.87,147.5
-basketball_ncaab,0d3fed8fb76959d2e44c7993eb5e6110,Purdue Boilermakers vs Tennessee Volunteers,DraftKings,h2h,Purdue Boilermakers,1.56,
-basketball_ncaab,0d3fed8fb76959d2e44c7993eb5e6110,Purdue Boilermakers vs Tennessee Volunteers,DraftKings,h2h,Tennessee Volunteers,2.5,
-basketball_ncaab,0d3fed8fb76959d2e44c7993eb5e6110,Purdue Boilermakers vs Tennessee Volunteers,DraftKings,spreads,Purdue Boilermakers,1.91,-3.5
-basketball_ncaab,0d3fed8fb76959d2e44c7993eb5e6110,Purdue Boilermakers vs Tennessee Volunteers,DraftKings,spreads,Tennessee Volunteers,1.91,3.5
-basketball_ncaab,0d3fed8fb76959d2e44c7993eb5e6110,Purdue Boilermakers vs Tennessee Volunteers,DraftKings,totals,Over,1.89,147.5
-basketball_ncaab,0d3fed8fb76959d2e44c7993eb5e6110,Purdue Boilermakers vs Tennessee Volunteers,DraftKings,totals,Under,1.93,147.5
-basketball_ncaab,0d3fed8fb76959d2e44c7993eb5e6110,Purdue Boilermakers vs Tennessee Volunteers,Caesars,h2h,Purdue Boilermakers,1.56,
-basketball_ncaab,0d3fed8fb76959d2e44c7993eb5e6110,Purdue Boilermakers vs Tennessee Volunteers,Caesars,h2h,Tennessee Volunteers,2.52,
-basketball_ncaab,0d3fed8fb76959d2e44c7993eb5e6110,Purdue Boilermakers vs Tennessee Volunteers,Caesars,spreads,Purdue Boilermakers,1.95,-4.0
-basketball_ncaab,0d3fed8fb76959d2e44c7993eb5e6110,Purdue Boilermakers vs Tennessee Volunteers,Caesars,spreads,Tennessee Volunteers,1.87,4.0
-basketball_ncaab,0d3fed8fb76959d2e44c7993eb5e6110,Purdue Boilermakers vs Tennessee Volunteers,Caesars,totals,Over,1.91,148.0
-basketball_ncaab,0d3fed8fb76959d2e44c7993eb5e6110,Purdue Boilermakers vs Tennessee Volunteers,Caesars,totals,Under,1.91,148.0
-basketball_ncaab,0d3fed8fb76959d2e44c7993eb5e6110,Purdue Boilermakers vs Tennessee Volunteers,BetMGM,h2h,Purdue Boilermakers,1.57,
-basketball_ncaab,0d3fed8fb76959d2e44c7993eb5e6110,Purdue Boilermakers vs Tennessee Volunteers,BetMGM,h2h,Tennessee Volunteers,2.45,
-basketball_ncaab,0d3fed8fb76959d2e44c7993eb5e6110,Purdue Boilermakers vs Tennessee Volunteers,BetMGM,spreads,Purdue Boilermakers,1.91,-3.5
-basketball_ncaab,0d3fed8fb76959d2e44c7993eb5e6110,Purdue Boilermakers vs Tennessee Volunteers,BetMGM,spreads,Tennessee Volunteers,1.91,3.5
-basketball_ncaab,0d3fed8fb76959d2e44c7993eb5e6110,Purdue Boilermakers vs Tennessee Volunteers,BetMGM,totals,Over,1.91,147.5
-basketball_ncaab,0d3fed8fb76959d2e44c7993eb5e6110,Purdue Boilermakers vs Tennessee Volunteers,BetMGM,totals,Under,1.91,147.5
-basketball_ncaab,06a33ee05051945a726c3f196d2a7c1a,Duke Blue Devils vs NC State Wolfpack,FanDuel,h2h,Duke Blue Devils,1.32,
-basketball_ncaab,06a33ee05051945a726c3f196d2a7c1a,Duke Blue Devils vs NC State Wolfpack,FanDuel,h2h,NC State Wolfpack,3.45,
-basketball_ncaab,06a33ee05051945a726c3f196d2a7c1a,Duke Blue Devils vs NC State Wolfpack,FanDuel,spreads,Duke Blue Devils,1.95,-7.5
-basketball_ncaab,06a33ee05051945a726c3f196d2a7c1a,Duke Blue Devils vs NC State Wolfpack,FanDuel,spreads,NC State Wolfpack,1.87,7.5
-basketball_ncaab,06a33ee05051945a726c3f196d2a7c1a,Duke Blue Devils vs NC State Wolfpack,FanDuel,totals,Over,1.87,142.5
-basketball_ncaab,06a33ee05051945a726c3f196d2a7c1a,Duke Blue Devils vs NC State Wolfpack,FanDuel,totals,Under,1.95,142.5
-basketball_ncaab,06a33ee05051945a726c3f196d2a7c1a,Duke Blue Devils vs NC State Wolfpack,DraftKings,h2h,Duke Blue Devils,1.33,
-basketball_ncaab,06a33ee05051945a726c3f196d2a7c1a,Duke Blue Devils vs NC State Wolfpack,DraftKings,h2h,NC State Wolfpack,3.45,
-basketball_ncaab,06a33ee05051945a726c3f196d2a7c1a,Duke Blue Devils vs NC State Wolfpack,DraftKings,spreads,Duke Blue Devils,1.91,-7.0
-basketball_ncaab,06a33ee05051945a726c3f196d2a7c1a,Duke Blue Devils vs NC State Wolfpack,DraftKings,spreads,NC State Wolfpack,1.91,7.0
-basketball_ncaab,06a33ee05051945a726c3f196d2a7c1a,Duke Blue Devils vs NC State Wolfpack,DraftKings,totals,Over,1.91,143.0
-basketball_ncaab,06a33ee05051945a726c3f196d2a7c1a,Duke Blue Devils vs NC State Wolfpack,DraftKings,totals,Under,1.91,143.0
-basketball_ncaab,06a33ee05051945a726c3f196d2a7c1a,Duke Blue Devils vs NC State Wolfpack,Caesars,h2h,Duke Blue Devils,1.35,
-basketball_ncaab,06a33ee05051945a726c3f196d2a7c1a,Duke Blue Devils vs NC State Wolfpack,Caesars,h2h,NC State Wolfpack,3.28,
-basketball_ncaab,06a33ee05051945a726c3f196d2a7c1a,Duke Blue Devils vs NC State Wolfpack,Caesars,spreads,Duke Blue Devils,1.95,-7.0
-basketball_ncaab,06a33ee05051945a726c3f196d2a7c1a,Duke Blue Devils vs NC State Wolfpack,Caesars,spreads,NC State Wolfpack,1.87,7.0
-basketball_ncaab,06a33ee05051945a726c3f196d2a7c1a,Duke Blue Devils vs NC State Wolfpack,Caesars,totals,Over,1.91,143.0
-basketball_ncaab,06a33ee05051945a726c3f196d2a7c1a,Duke Blue Devils vs NC State Wolfpack,Caesars,totals,Under,1.91,143.0
-basketball_ncaab,06a33ee05051945a726c3f196d2a7c1a,Duke Blue Devils vs NC State Wolfpack,BetMGM,h2h,Duke Blue Devils,1.33,
-basketball_ncaab,06a33ee05051945a726c3f196d2a7c1a,Duke Blue Devils vs NC State Wolfpack,BetMGM,h2h,NC State Wolfpack,3.5,
-basketball_ncaab,06a33ee05051945a726c3f196d2a7c1a,Duke Blue Devils vs NC State Wolfpack,BetMGM,spreads,Duke Blue Devils,2.0,-7.5
-basketball_ncaab,06a33ee05051945a726c3f196d2a7c1a,Duke Blue Devils vs NC State Wolfpack,BetMGM,spreads,NC State Wolfpack,1.83,7.5
-basketball_ncaab,06a33ee05051945a726c3f196d2a7c1a,Duke Blue Devils vs NC State Wolfpack,BetMGM,totals,Over,1.95,143.5
-basketball_ncaab,06a33ee05051945a726c3f196d2a7c1a,Duke Blue Devils vs NC State Wolfpack,BetMGM,totals,Under,1.87,143.5
+basketball_nba,701550171abbecc509088af8e73168c5,Sacramento Kings vs Utah Jazz,BetMGM,h2h,Utah Jazz,7.0,
+basketball_nba,216590fe70aabd1630ad884fa996b7d9,Charlotte Hornets vs Boston Celtics,DraftKings,h2h,Boston Celtics,1.06,
+basketball_nba,216590fe70aabd1630ad884fa996b7d9,Charlotte Hornets vs Boston Celtics,DraftKings,h2h,Charlotte Hornets,10.0,
+basketball_nba,216590fe70aabd1630ad884fa996b7d9,Charlotte Hornets vs Boston Celtics,FanDuel,h2h,Boston Celtics,1.05,
+basketball_nba,216590fe70aabd1630ad884fa996b7d9,Charlotte Hornets vs Boston Celtics,FanDuel,h2h,Charlotte Hornets,12.0,
+basketball_nba,67577af1e344d542b8a36393414b79c6,Indiana Pacers vs Brooklyn Nets,DraftKings,h2h,Brooklyn Nets,4.5,
+basketball_nba,67577af1e344d542b8a36393414b79c6,Indiana Pacers vs Brooklyn Nets,DraftKings,h2h,Indiana Pacers,1.22,
+basketball_nba,67577af1e344d542b8a36393414b79c6,Indiana Pacers vs Brooklyn Nets,FanDuel,h2h,Brooklyn Nets,4.85,
+basketball_nba,67577af1e344d542b8a36393414b79c6,Indiana Pacers vs Brooklyn Nets,FanDuel,h2h,Indiana Pacers,1.2,
+basketball_nba,26f534a196f1345519e841b2e8122763,Detroit Pistons vs Memphis Grizzlies,DraftKings,h2h,Detroit Pistons,1.7,
+basketball_nba,26f534a196f1345519e841b2e8122763,Detroit Pistons vs Memphis Grizzlies,DraftKings,h2h,Memphis Grizzlies,2.14,
+basketball_nba,26f534a196f1345519e841b2e8122763,Detroit Pistons vs Memphis Grizzlies,FanDuel,h2h,Detroit Pistons,1.69,
+basketball_nba,26f534a196f1345519e841b2e8122763,Detroit Pistons vs Memphis Grizzlies,FanDuel,h2h,Memphis Grizzlies,2.22,
+basketball_nba,71a374d3f594281f46d022ecb9875370,Orlando Magic vs Portland Trail Blazers,DraftKings,h2h,Orlando Magic,1.07,
+basketball_nba,71a374d3f594281f46d022ecb9875370,Orlando Magic vs Portland Trail Blazers,DraftKings,h2h,Portland Trail Blazers,9.0,
+basketball_nba,71a374d3f594281f46d022ecb9875370,Orlando Magic vs Portland Trail Blazers,FanDuel,h2h,Orlando Magic,1.06,
+basketball_nba,71a374d3f594281f46d022ecb9875370,Orlando Magic vs Portland Trail Blazers,FanDuel,h2h,Portland Trail Blazers,10.8,
+basketball_nba,7dfdba59b13fe0dcece92eaa81e602b0,Chicago Bulls vs Atlanta Hawks,DraftKings,h2h,Atlanta Hawks,2.2,
+basketball_nba,7dfdba59b13fe0dcece92eaa81e602b0,Chicago Bulls vs Atlanta Hawks,DraftKings,h2h,Chicago Bulls,1.7,
+basketball_nba,7dfdba59b13fe0dcece92eaa81e602b0,Chicago Bulls vs Atlanta Hawks,FanDuel,h2h,Atlanta Hawks,2.16,
+basketball_nba,7dfdba59b13fe0dcece92eaa81e602b0,Chicago Bulls vs Atlanta Hawks,FanDuel,h2h,Chicago Bulls,1.75,
+basketball_nba,fb7e73589036339e3276d32ada2dc133,New Orleans Pelicans vs Phoenix Suns,DraftKings,h2h,New Orleans Pelicans,1.91,
+basketball_nba,fb7e73589036339e3276d32ada2dc133,New Orleans Pelicans vs Phoenix Suns,DraftKings,h2h,Phoenix Suns,1.91,
+basketball_nba,fb7e73589036339e3276d32ada2dc133,New Orleans Pelicans vs Phoenix Suns,FanDuel,h2h,New Orleans Pelicans,1.89,
+basketball_nba,fb7e73589036339e3276d32ada2dc133,New Orleans Pelicans vs Phoenix Suns,FanDuel,h2h,Phoenix Suns,1.96,
+basketball_ncaab,06a33ee05051945a726c3f196d2a7c1a,Duke Blue Devils vs NC State Wolfpack,FanDuel,h2h,Duke Blue Devils,7.8,
+basketball_ncaab,06a33ee05051945a726c3f196d2a7c1a,Duke Blue Devils vs NC State Wolfpack,FanDuel,h2h,NC State Wolfpack,1.07,
+basketball_ncaab,06a33ee05051945a726c3f196d2a7c1a,Duke Blue Devils vs NC State Wolfpack,DraftKings,h2h,Duke Blue Devils,17.0,
+basketball_ncaab,06a33ee05051945a726c3f196d2a7c1a,Duke Blue Devils vs NC State Wolfpack,DraftKings,h2h,NC State Wolfpack,1.02,
+basketball_ncaab,06a33ee05051945a726c3f196d2a7c1a,Duke Blue Devils vs NC State Wolfpack,Caesars,h2h,Duke Blue Devils,19.0,
+basketball_ncaab,06a33ee05051945a726c3f196d2a7c1a,Duke Blue Devils vs NC State Wolfpack,Caesars,h2h,NC State Wolfpack,1.02,
+basketball_ncaab,06a33ee05051945a726c3f196d2a7c1a,Duke Blue Devils vs NC State Wolfpack,BetMGM,h2h,Duke Blue Devils,12.0,
+basketball_ncaab,06a33ee05051945a726c3f196d2a7c1a,Duke Blue Devils vs NC State Wolfpack,BetMGM,h2h,NC State Wolfpack,1.03,
 basketball_ncaab,d84df342fee6eae4c2d07fc672280703,Indiana St Sycamores vs Utah Utes,FanDuel,h2h,Indiana St Sycamores,1.69,
 basketball_ncaab,d84df342fee6eae4c2d07fc672280703,Indiana St Sycamores vs Utah Utes,FanDuel,h2h,Utah Utes,2.2,
-basketball_ncaab,d84df342fee6eae4c2d07fc672280703,Indiana St Sycamores vs Utah Utes,FanDuel,spreads,Indiana St Sycamores,1.91,-2.5
-basketball_ncaab,d84df342fee6eae4c2d07fc672280703,Indiana St Sycamores vs Utah Utes,FanDuel,spreads,Utah Utes,1.91,2.5
-basketball_ncaab,d84df342fee6eae4c2d07fc672280703,Indiana St Sycamores vs Utah Utes,FanDuel,totals,Over,1.95,164.5
-basketball_ncaab,d84df342fee6eae4c2d07fc672280703,Indiana St Sycamores vs Utah Utes,FanDuel,totals,Under,1.87,164.5
-basketball_ncaab,d84df342fee6eae4c2d07fc672280703,Indiana St Sycamores vs Utah Utes,DraftKings,h2h,Indiana St Sycamores,1.68,
-basketball_ncaab,d84df342fee6eae4c2d07fc672280703,Indiana St Sycamores vs Utah Utes,DraftKings,h2h,Utah Utes,2.24,
-basketball_ncaab,d84df342fee6eae4c2d07fc672280703,Indiana St Sycamores vs Utah Utes,DraftKings,spreads,Indiana St Sycamores,1.91,-2.5
-basketball_ncaab,d84df342fee6eae4c2d07fc672280703,Indiana St Sycamores vs Utah Utes,DraftKings,spreads,Utah Utes,1.91,2.5
-basketball_ncaab,d84df342fee6eae4c2d07fc672280703,Indiana St Sycamores vs Utah Utes,DraftKings,totals,Over,1.93,164.0
-basketball_ncaab,d84df342fee6eae4c2d07fc672280703,Indiana St Sycamores vs Utah Utes,DraftKings,totals,Under,1.89,164.0
+basketball_ncaab,d84df342fee6eae4c2d07fc672280703,Indiana St Sycamores vs Utah Utes,DraftKings,h2h,Indiana St Sycamores,1.7,
+basketball_ncaab,d84df342fee6eae4c2d07fc672280703,Indiana St Sycamores vs Utah Utes,DraftKings,h2h,Utah Utes,2.2,
 basketball_ncaab,d84df342fee6eae4c2d07fc672280703,Indiana St Sycamores vs Utah Utes,Caesars,h2h,Indiana St Sycamores,1.69,
 basketball_ncaab,d84df342fee6eae4c2d07fc672280703,Indiana St Sycamores vs Utah Utes,Caesars,h2h,Utah Utes,2.22,
-basketball_ncaab,d84df342fee6eae4c2d07fc672280703,Indiana St Sycamores vs Utah Utes,Caesars,spreads,Indiana St Sycamores,1.91,-2.5
-basketball_ncaab,d84df342fee6eae4c2d07fc672280703,Indiana St Sycamores vs Utah Utes,Caesars,spreads,Utah Utes,1.91,2.5
-basketball_ncaab,d84df342fee6eae4c2d07fc672280703,Indiana St Sycamores vs Utah Utes,Caesars,totals,Over,1.91,163.5
-basketball_ncaab,d84df342fee6eae4c2d07fc672280703,Indiana St Sycamores vs Utah Utes,Caesars,totals,Under,1.91,163.5
 basketball_ncaab,d84df342fee6eae4c2d07fc672280703,Indiana St Sycamores vs Utah Utes,BetMGM,h2h,Indiana St Sycamores,1.69,
 basketball_ncaab,d84df342fee6eae4c2d07fc672280703,Indiana St Sycamores vs Utah Utes,BetMGM,h2h,Utah Utes,2.2,
-basketball_ncaab,d84df342fee6eae4c2d07fc672280703,Indiana St Sycamores vs Utah Utes,BetMGM,spreads,Indiana St Sycamores,1.91,-2.5
-basketball_ncaab,d84df342fee6eae4c2d07fc672280703,Indiana St Sycamores vs Utah Utes,BetMGM,spreads,Utah Utes,1.91,2.5
-basketball_ncaab,d84df342fee6eae4c2d07fc672280703,Indiana St Sycamores vs Utah Utes,BetMGM,totals,Over,1.91,163.5
-basketball_ncaab,d84df342fee6eae4c2d07fc672280703,Indiana St Sycamores vs Utah Utes,BetMGM,totals,Under,1.91,163.5
 basketball_ncaab,36eecc0bec5b1ad37d860086af1edda5,Seton Hall Pirates vs Georgia Bulldogs,FanDuel,h2h,Georgia Bulldogs,2.5,
 basketball_ncaab,36eecc0bec5b1ad37d860086af1edda5,Seton Hall Pirates vs Georgia Bulldogs,FanDuel,h2h,Seton Hall Pirates,1.55,
-basketball_ncaab,36eecc0bec5b1ad37d860086af1edda5,Seton Hall Pirates vs Georgia Bulldogs,FanDuel,spreads,Georgia Bulldogs,1.96,3.5
-basketball_ncaab,36eecc0bec5b1ad37d860086af1edda5,Seton Hall Pirates vs Georgia Bulldogs,FanDuel,spreads,Seton Hall Pirates,1.85,-3.5
-basketball_ncaab,36eecc0bec5b1ad37d860086af1edda5,Seton Hall Pirates vs Georgia Bulldogs,FanDuel,totals,Over,1.87,144.5
-basketball_ncaab,36eecc0bec5b1ad37d860086af1edda5,Seton Hall Pirates vs Georgia Bulldogs,FanDuel,totals,Under,1.95,144.5
 basketball_ncaab,36eecc0bec5b1ad37d860086af1edda5,Seton Hall Pirates vs Georgia Bulldogs,BetMGM,h2h,Georgia Bulldogs,2.55,
 basketball_ncaab,36eecc0bec5b1ad37d860086af1edda5,Seton Hall Pirates vs Georgia Bulldogs,BetMGM,h2h,Seton Hall Pirates,1.53,
-basketball_ncaab,36eecc0bec5b1ad37d860086af1edda5,Seton Hall Pirates vs Georgia Bulldogs,BetMGM,spreads,Georgia Bulldogs,2.0,3.5
-basketball_ncaab,36eecc0bec5b1ad37d860086af1edda5,Seton Hall Pirates vs Georgia Bulldogs,BetMGM,spreads,Seton Hall Pirates,1.83,-3.5
-basketball_ncaab,36eecc0bec5b1ad37d860086af1edda5,Seton Hall Pirates vs Georgia Bulldogs,BetMGM,totals,Over,1.95,145.5
-basketball_ncaab,36eecc0bec5b1ad37d860086af1edda5,Seton Hall Pirates vs Georgia Bulldogs,BetMGM,totals,Under,1.87,145.5
-basketball_ncaab,ea00d81955374d15711bf09c3721afbc,UConn Huskies vs Alabama Crimson Tide,FanDuel,h2h,Alabama Crimson Tide,5.7,
-basketball_ncaab,ea00d81955374d15711bf09c3721afbc,UConn Huskies vs Alabama Crimson Tide,FanDuel,h2h,UConn Huskies,1.15,
-basketball_ncaab,ea00d81955374d15711bf09c3721afbc,UConn Huskies vs Alabama Crimson Tide,FanDuel,spreads,Alabama Crimson Tide,1.87,11.5
-basketball_ncaab,ea00d81955374d15711bf09c3721afbc,UConn Huskies vs Alabama Crimson Tide,FanDuel,spreads,UConn Huskies,1.95,-11.5
-basketball_ncaab,ea00d81955374d15711bf09c3721afbc,UConn Huskies vs Alabama Crimson Tide,FanDuel,totals,Over,1.94,161.5
-basketball_ncaab,ea00d81955374d15711bf09c3721afbc,UConn Huskies vs Alabama Crimson Tide,FanDuel,totals,Under,1.88,161.5
-basketball_ncaab,ea00d81955374d15711bf09c3721afbc,UConn Huskies vs Alabama Crimson Tide,DraftKings,h2h,Alabama Crimson Tide,6.0,
-basketball_ncaab,ea00d81955374d15711bf09c3721afbc,UConn Huskies vs Alabama Crimson Tide,DraftKings,h2h,UConn Huskies,1.14,
-basketball_ncaab,ea00d81955374d15711bf09c3721afbc,UConn Huskies vs Alabama Crimson Tide,DraftKings,spreads,Alabama Crimson Tide,1.89,11.5
-basketball_ncaab,ea00d81955374d15711bf09c3721afbc,UConn Huskies vs Alabama Crimson Tide,DraftKings,spreads,UConn Huskies,1.93,-11.5
-basketball_ncaab,ea00d81955374d15711bf09c3721afbc,UConn Huskies vs Alabama Crimson Tide,DraftKings,totals,Over,1.93,161.5
-basketball_ncaab,ea00d81955374d15711bf09c3721afbc,UConn Huskies vs Alabama Crimson Tide,DraftKings,totals,Under,1.89,161.5
-basketball_ncaab,ea00d81955374d15711bf09c3721afbc,UConn Huskies vs Alabama Crimson Tide,BetMGM,h2h,Alabama Crimson Tide,6.25,
-basketball_ncaab,ea00d81955374d15711bf09c3721afbc,UConn Huskies vs Alabama Crimson Tide,BetMGM,h2h,UConn Huskies,1.13,
-basketball_ncaab,ea00d81955374d15711bf09c3721afbc,UConn Huskies vs Alabama Crimson Tide,BetMGM,spreads,Alabama Crimson Tide,1.91,11.5
-basketball_ncaab,ea00d81955374d15711bf09c3721afbc,UConn Huskies vs Alabama Crimson Tide,BetMGM,spreads,UConn Huskies,1.91,-11.5
-basketball_ncaab,ea00d81955374d15711bf09c3721afbc,UConn Huskies vs Alabama Crimson Tide,BetMGM,totals,Over,1.91,161.5
-basketball_ncaab,ea00d81955374d15711bf09c3721afbc,UConn Huskies vs Alabama Crimson Tide,BetMGM,totals,Under,1.91,161.5
+basketball_ncaab,ea00d81955374d15711bf09c3721afbc,UConn Huskies vs Alabama Crimson Tide,FanDuel,h2h,Alabama Crimson Tide,5.9,
+basketball_ncaab,ea00d81955374d15711bf09c3721afbc,UConn Huskies vs Alabama Crimson Tide,FanDuel,h2h,UConn Huskies,1.14,
+basketball_ncaab,ea00d81955374d15711bf09c3721afbc,UConn Huskies vs Alabama Crimson Tide,DraftKings,h2h,Alabama Crimson Tide,6.25,
+basketball_ncaab,ea00d81955374d15711bf09c3721afbc,UConn Huskies vs Alabama Crimson Tide,DraftKings,h2h,UConn Huskies,1.13,
+basketball_ncaab,ea00d81955374d15711bf09c3721afbc,UConn Huskies vs Alabama Crimson Tide,BetMGM,h2h,Alabama Crimson Tide,6.5,
+basketball_ncaab,ea00d81955374d15711bf09c3721afbc,UConn Huskies vs Alabama Crimson Tide,BetMGM,h2h,UConn Huskies,1.12,
 basketball_ncaab,ea00d81955374d15711bf09c3721afbc,UConn Huskies vs Alabama Crimson Tide,Caesars,h2h,Alabama Crimson Tide,6.0,
 basketball_ncaab,ea00d81955374d15711bf09c3721afbc,UConn Huskies vs Alabama Crimson Tide,Caesars,h2h,UConn Huskies,1.14,
-basketball_ncaab,ea00d81955374d15711bf09c3721afbc,UConn Huskies vs Alabama Crimson Tide,Caesars,spreads,Alabama Crimson Tide,1.91,11.0
-basketball_ncaab,ea00d81955374d15711bf09c3721afbc,UConn Huskies vs Alabama Crimson Tide,Caesars,spreads,UConn Huskies,1.91,-11.0
-basketball_ncaab,ea00d81955374d15711bf09c3721afbc,UConn Huskies vs Alabama Crimson Tide,Caesars,totals,Over,1.91,161.5
-basketball_ncaab,ea00d81955374d15711bf09c3721afbc,UConn Huskies vs Alabama Crimson Tide,Caesars,totals,Under,1.91,161.5
-basketball_ncaab,631e9182b6a71068046e9d071343dfb3,Purdue Boilermakers vs Alabama Crimson Tide,FanDuel,spreads,Alabama Crimson Tide,1.91,5.5
-basketball_ncaab,631e9182b6a71068046e9d071343dfb3,Purdue Boilermakers vs Alabama Crimson Tide,FanDuel,spreads,Purdue Boilermakers,1.91,-5.5
-basketball_ncaab,0d4b34b43ac6b2c09c758b1daf89a022,UConn Huskies vs Duke Blue Devils,FanDuel,spreads,Duke Blue Devils,1.98,9.5
-basketball_ncaab,0d4b34b43ac6b2c09c758b1daf89a022,UConn Huskies vs Duke Blue Devils,FanDuel,spreads,UConn Huskies,1.83,-9.5
-basketball_ncaab,c5c7ff0721cfc7828205000ca90f3d09,UConn Huskies vs Tennessee Volunteers,FanDuel,spreads,Tennessee Volunteers,1.98,7.5
-basketball_ncaab,c5c7ff0721cfc7828205000ca90f3d09,UConn Huskies vs Tennessee Volunteers,FanDuel,spreads,UConn Huskies,1.83,-7.5
-basketball_ncaab,747d05d8f2e7064bb3f4ad1e448e36b9,Duke Blue Devils vs Alabama Crimson Tide,FanDuel,spreads,Alabama Crimson Tide,1.85,1.5
-basketball_ncaab,747d05d8f2e7064bb3f4ad1e448e36b9,Duke Blue Devils vs Alabama Crimson Tide,FanDuel,spreads,Duke Blue Devils,1.96,-1.5
-basketball_ncaab,eb5f80436f9441a0af1091268d01a91a,Alabama Crimson Tide vs NC State Wolfpack,FanDuel,spreads,Alabama Crimson Tide,1.91,-4.5
-basketball_ncaab,eb5f80436f9441a0af1091268d01a91a,Alabama Crimson Tide vs NC State Wolfpack,FanDuel,spreads,NC State Wolfpack,1.91,4.5
-basketball_ncaab,47a2909ed0a063d5af561e2efe42f5ac,UConn Huskies vs NC State Wolfpack,FanDuel,spreads,NC State Wolfpack,1.91,15.5
-basketball_ncaab,47a2909ed0a063d5af561e2efe42f5ac,UConn Huskies vs NC State Wolfpack,FanDuel,spreads,UConn Huskies,1.91,-15.5
-basketball_ncaab,858a360d5fb9952a69dfdf73524288aa,UConn Huskies vs Purdue Boilermakers,FanDuel,spreads,Purdue Boilermakers,1.83,5.5
-basketball_ncaab,858a360d5fb9952a69dfdf73524288aa,UConn Huskies vs Purdue Boilermakers,FanDuel,spreads,UConn Huskies,1.98,-5.5
-basketball_ncaab,dc34cd564dc6dcf0c447c8beb77bd5cd,Tennessee Volunteers vs Alabama Crimson Tide,FanDuel,spreads,Alabama Crimson Tide,1.87,4.5
-basketball_ncaab,dc34cd564dc6dcf0c447c8beb77bd5cd,Tennessee Volunteers vs Alabama Crimson Tide,FanDuel,spreads,Tennessee Volunteers,1.95,-4.5
+icehockey_nhl,3c66130c01f3100c716c2db9ca6fe49c,Columbus Blue Jackets vs Colorado Avalanche,FanDuel,h2h,Colorado Avalanche,1.29,
+icehockey_nhl,3c66130c01f3100c716c2db9ca6fe49c,Columbus Blue Jackets vs Colorado Avalanche,FanDuel,h2h,Columbus Blue Jackets,3.65,
+icehockey_nhl,3c66130c01f3100c716c2db9ca6fe49c,Columbus Blue Jackets vs Colorado Avalanche,DraftKings,h2h,Colorado Avalanche,1.29,
+icehockey_nhl,3c66130c01f3100c716c2db9ca6fe49c,Columbus Blue Jackets vs Colorado Avalanche,DraftKings,h2h,Columbus Blue Jackets,3.75,
+icehockey_nhl,3c66130c01f3100c716c2db9ca6fe49c,Columbus Blue Jackets vs Colorado Avalanche,BetMGM,h2h,Colorado Avalanche,1.29,
+icehockey_nhl,3c66130c01f3100c716c2db9ca6fe49c,Columbus Blue Jackets vs Colorado Avalanche,BetMGM,h2h,Columbus Blue Jackets,3.8,
+icehockey_nhl,3c66130c01f3100c716c2db9ca6fe49c,Columbus Blue Jackets vs Colorado Avalanche,Caesars,h2h,Colorado Avalanche,1.29,
+icehockey_nhl,3c66130c01f3100c716c2db9ca6fe49c,Columbus Blue Jackets vs Colorado Avalanche,Caesars,h2h,Columbus Blue Jackets,3.75,
+icehockey_nhl,f0c2d2ff50a48ad7294248255221bf68,Tampa Bay Lightning vs Detroit Red Wings,FanDuel,h2h,Detroit Red Wings,2.52,
+icehockey_nhl,f0c2d2ff50a48ad7294248255221bf68,Tampa Bay Lightning vs Detroit Red Wings,FanDuel,h2h,Tampa Bay Lightning,1.54,
+icehockey_nhl,f0c2d2ff50a48ad7294248255221bf68,Tampa Bay Lightning vs Detroit Red Wings,DraftKings,h2h,Detroit Red Wings,2.6,
+icehockey_nhl,f0c2d2ff50a48ad7294248255221bf68,Tampa Bay Lightning vs Detroit Red Wings,DraftKings,h2h,Tampa Bay Lightning,1.52,
+icehockey_nhl,f0c2d2ff50a48ad7294248255221bf68,Tampa Bay Lightning vs Detroit Red Wings,BetMGM,h2h,Detroit Red Wings,2.55,
+icehockey_nhl,f0c2d2ff50a48ad7294248255221bf68,Tampa Bay Lightning vs Detroit Red Wings,BetMGM,h2h,Tampa Bay Lightning,1.53,
+icehockey_nhl,f0c2d2ff50a48ad7294248255221bf68,Tampa Bay Lightning vs Detroit Red Wings,Caesars,h2h,Detroit Red Wings,2.58,
+icehockey_nhl,f0c2d2ff50a48ad7294248255221bf68,Tampa Bay Lightning vs Detroit Red Wings,Caesars,h2h,Tampa Bay Lightning,1.53,
+icehockey_nhl,4f69e9976385a4a506672d3fa73b22a1,Toronto Maple Leafs vs Florida Panthers,FanDuel,h2h,Florida Panthers,1.83,
+icehockey_nhl,4f69e9976385a4a506672d3fa73b22a1,Toronto Maple Leafs vs Florida Panthers,FanDuel,h2h,Toronto Maple Leafs,2.0,
+icehockey_nhl,4f69e9976385a4a506672d3fa73b22a1,Toronto Maple Leafs vs Florida Panthers,DraftKings,h2h,Florida Panthers,1.83,
+icehockey_nhl,4f69e9976385a4a506672d3fa73b22a1,Toronto Maple Leafs vs Florida Panthers,DraftKings,h2h,Toronto Maple Leafs,2.0,
+icehockey_nhl,4f69e9976385a4a506672d3fa73b22a1,Toronto Maple Leafs vs Florida Panthers,BetMGM,h2h,Florida Panthers,1.83,
+icehockey_nhl,4f69e9976385a4a506672d3fa73b22a1,Toronto Maple Leafs vs Florida Panthers,BetMGM,h2h,Toronto Maple Leafs,2.0,
+icehockey_nhl,4f69e9976385a4a506672d3fa73b22a1,Toronto Maple Leafs vs Florida Panthers,Caesars,h2h,Florida Panthers,1.83,
+icehockey_nhl,4f69e9976385a4a506672d3fa73b22a1,Toronto Maple Leafs vs Florida Panthers,Caesars,h2h,Toronto Maple Leafs,2.0,
+icehockey_nhl,2bc3ebb2ae837da895d509d72f792aee,Philadelphia Flyers vs New York Islanders,FanDuel,h2h,New York Islanders,2.0,
+icehockey_nhl,2bc3ebb2ae837da895d509d72f792aee,Philadelphia Flyers vs New York Islanders,FanDuel,h2h,Philadelphia Flyers,1.83,
+icehockey_nhl,2bc3ebb2ae837da895d509d72f792aee,Philadelphia Flyers vs New York Islanders,DraftKings,h2h,New York Islanders,1.95,
+icehockey_nhl,2bc3ebb2ae837da895d509d72f792aee,Philadelphia Flyers vs New York Islanders,DraftKings,h2h,Philadelphia Flyers,1.87,
+icehockey_nhl,2bc3ebb2ae837da895d509d72f792aee,Philadelphia Flyers vs New York Islanders,BetMGM,h2h,New York Islanders,1.95,
+icehockey_nhl,2bc3ebb2ae837da895d509d72f792aee,Philadelphia Flyers vs New York Islanders,BetMGM,h2h,Philadelphia Flyers,1.87,
+icehockey_nhl,2bc3ebb2ae837da895d509d72f792aee,Philadelphia Flyers vs New York Islanders,Caesars,h2h,New York Islanders,2.0,
+icehockey_nhl,2bc3ebb2ae837da895d509d72f792aee,Philadelphia Flyers vs New York Islanders,Caesars,h2h,Philadelphia Flyers,1.83,
+icehockey_nhl,88973656bff09527ea4ef984ad3f5f4b,New York Rangers vs Pittsburgh Penguins,FanDuel,h2h,New York Rangers,1.5,
+icehockey_nhl,88973656bff09527ea4ef984ad3f5f4b,New York Rangers vs Pittsburgh Penguins,FanDuel,h2h,Pittsburgh Penguins,2.62,
+icehockey_nhl,88973656bff09527ea4ef984ad3f5f4b,New York Rangers vs Pittsburgh Penguins,DraftKings,h2h,New York Rangers,1.51,
+icehockey_nhl,88973656bff09527ea4ef984ad3f5f4b,New York Rangers vs Pittsburgh Penguins,DraftKings,h2h,Pittsburgh Penguins,2.64,
+icehockey_nhl,88973656bff09527ea4ef984ad3f5f4b,New York Rangers vs Pittsburgh Penguins,BetMGM,h2h,New York Rangers,1.5,
+icehockey_nhl,88973656bff09527ea4ef984ad3f5f4b,New York Rangers vs Pittsburgh Penguins,BetMGM,h2h,Pittsburgh Penguins,2.65,
+icehockey_nhl,88973656bff09527ea4ef984ad3f5f4b,New York Rangers vs Pittsburgh Penguins,Caesars,h2h,New York Rangers,1.51,
+icehockey_nhl,88973656bff09527ea4ef984ad3f5f4b,New York Rangers vs Pittsburgh Penguins,Caesars,h2h,Pittsburgh Penguins,2.62,
+icehockey_nhl,feb4d61dcccc05bcd40edf6c0f127062,St Louis Blues vs Edmonton Oilers,FanDuel,h2h,Edmonton Oilers,1.52,
+icehockey_nhl,feb4d61dcccc05bcd40edf6c0f127062,St Louis Blues vs Edmonton Oilers,FanDuel,h2h,St Louis Blues,2.6,
+icehockey_nhl,feb4d61dcccc05bcd40edf6c0f127062,St Louis Blues vs Edmonton Oilers,DraftKings,h2h,Edmonton Oilers,1.51,
+icehockey_nhl,feb4d61dcccc05bcd40edf6c0f127062,St Louis Blues vs Edmonton Oilers,DraftKings,h2h,St Louis Blues,2.64,
+icehockey_nhl,feb4d61dcccc05bcd40edf6c0f127062,St Louis Blues vs Edmonton Oilers,BetMGM,h2h,Edmonton Oilers,1.5,
+icehockey_nhl,feb4d61dcccc05bcd40edf6c0f127062,St Louis Blues vs Edmonton Oilers,BetMGM,h2h,St Louis Blues,2.65,
+icehockey_nhl,feb4d61dcccc05bcd40edf6c0f127062,St Louis Blues vs Edmonton Oilers,Caesars,h2h,Edmonton Oilers,1.49,
+icehockey_nhl,feb4d61dcccc05bcd40edf6c0f127062,St Louis Blues vs Edmonton Oilers,Caesars,h2h,St Louis Blues,2.7,
+icehockey_nhl,3c66b6b6d05701b10cb2279cd02504b8,Winnipeg Jets vs Los Angeles Kings,FanDuel,h2h,Los Angeles Kings,2.05,
+icehockey_nhl,3c66b6b6d05701b10cb2279cd02504b8,Winnipeg Jets vs Los Angeles Kings,FanDuel,h2h,Winnipeg Jets,1.79,
+icehockey_nhl,3c66b6b6d05701b10cb2279cd02504b8,Winnipeg Jets vs Los Angeles Kings,DraftKings,h2h,Los Angeles Kings,2.05,
+icehockey_nhl,3c66b6b6d05701b10cb2279cd02504b8,Winnipeg Jets vs Los Angeles Kings,DraftKings,h2h,Winnipeg Jets,1.8,
+icehockey_nhl,3c66b6b6d05701b10cb2279cd02504b8,Winnipeg Jets vs Los Angeles Kings,BetMGM,h2h,Los Angeles Kings,2.05,
+icehockey_nhl,3c66b6b6d05701b10cb2279cd02504b8,Winnipeg Jets vs Los Angeles Kings,BetMGM,h2h,Winnipeg Jets,1.8,
+icehockey_nhl,3c66b6b6d05701b10cb2279cd02504b8,Winnipeg Jets vs Los Angeles Kings,Caesars,h2h,Los Angeles Kings,2.05,
+icehockey_nhl,3c66b6b6d05701b10cb2279cd02504b8,Winnipeg Jets vs Los Angeles Kings,Caesars,h2h,Winnipeg Jets,1.8,
+icehockey_nhl,e0a0a1778e9f6ab82abb25d5bf8438de,San Jose Sharks vs Seattle Kraken,FanDuel,h2h,San Jose Sharks,2.8,
+icehockey_nhl,e0a0a1778e9f6ab82abb25d5bf8438de,San Jose Sharks vs Seattle Kraken,FanDuel,h2h,Seattle Kraken,1.45,
+icehockey_nhl,e0a0a1778e9f6ab82abb25d5bf8438de,San Jose Sharks vs Seattle Kraken,DraftKings,h2h,San Jose Sharks,2.85,
+icehockey_nhl,e0a0a1778e9f6ab82abb25d5bf8438de,San Jose Sharks vs Seattle Kraken,DraftKings,h2h,Seattle Kraken,1.44,
+icehockey_nhl,e0a0a1778e9f6ab82abb25d5bf8438de,San Jose Sharks vs Seattle Kraken,BetMGM,h2h,San Jose Sharks,2.8,
+icehockey_nhl,e0a0a1778e9f6ab82abb25d5bf8438de,San Jose Sharks vs Seattle Kraken,BetMGM,h2h,Seattle Kraken,1.44,
+icehockey_nhl,e0a0a1778e9f6ab82abb25d5bf8438de,San Jose Sharks vs Seattle Kraken,Caesars,h2h,San Jose Sharks,2.85,
+icehockey_nhl,e0a0a1778e9f6ab82abb25d5bf8438de,San Jose Sharks vs Seattle Kraken,Caesars,h2h,Seattle Kraken,1.44,
+icehockey_sweden_hockey_league,9408e6107546e0ad4a805bbc40660a7d,Leksands IF vs Frölunda HC,DraftKings,h2h,Frölunda HC,2.05,
+icehockey_sweden_hockey_league,9408e6107546e0ad4a805bbc40660a7d,Leksands IF vs Frölunda HC,DraftKings,h2h,Leksands IF,1.77,

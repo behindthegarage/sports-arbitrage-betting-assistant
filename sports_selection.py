@@ -16,7 +16,7 @@ def fetch_sports():
     )
     if sports_response.status_code == 200:
         sports_data = sports_response.json()
-        print(sports_data)
+        # print(sports_data)
         # Example categorization (further refinement needed based on actual API response structure)
         categorized_sports = categorize_sports(sports_data)
         return categorized_sports
@@ -51,13 +51,26 @@ def categorize_sports(sports_data):
     return categories
 
 def user_select_sports(categorized_sports):
-    """Prompt user to select sports for odds fetching."""
+    """Prompt user to select multiple sports categories by numbers."""
     print("Available Sports Categories:")
-    for category, sports in categorized_sports.items():
-        print(f"{category}: {len(sports)} sports")
+    categories = list(categorized_sports.keys())
     
-    selected_category = input("Enter a category to fetch odds for: ")
-    # You can extend this logic to allow selection of multiple categories or specific sports within a category
+    # Display categories with corresponding numbers
+    for index, category in enumerate(categories, start=1):
+        print(f"{index}. {category}: {len(categorized_sports[category])} sports")
     
-    return categorized_sports.get(selected_category, [])
+    # Get user input
+    selected_indices = input("Enter the numbers of the categories to fetch odds for (separated by commas): ")
+    
+    # Process user input
+    selected_indices = [int(index.strip()) for index in selected_indices.split(',')]
+    
+    # Collect selected sports based on user input
+    selected_sports = []
+    for index in selected_indices:
+        if 1 <= index <= len(categories):
+            selected_sports.extend(categorized_sports[categories[index - 1]])
+    
+    return selected_sports
+
 

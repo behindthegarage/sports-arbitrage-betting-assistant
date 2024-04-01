@@ -22,7 +22,7 @@ def present_data(odds_data, selected_sports, combined_df):
                 bookmaker_name = bookmaker.get('title')
                 for market in bookmaker.get('markets', []):
                     market_key = market.get('key')
-                    if market_key in ['h2h', 'spreads', 'totals']:
+                    if market_key in ['h2h']: # , 'spreads', 'totals'
                         for outcome in market.get('outcomes', []):
                             data = {
                                 'sport': sport_key,
@@ -90,7 +90,7 @@ def main():
         print(f"Fetching odds for {sport_key}...")
         # define regions
         regions = 'us,us2'
-        markets = 'h2h,spreads,totals'
+        markets = 'h2h' # ,'totals'
         odds_format = 'decimal'
         date_format = 'iso'
         
@@ -105,8 +105,8 @@ def main():
         bookmakers_list = "betmgm,draftkings,fanduel,williamhill_us" ## betparx,betrivers,espnbet to be added
         
         # Fetch odds data
-        odds_data = fetch_odds(sport=sport_key, regions=regions, markets='h2h,spreads,totals', odds_format=odds_format, date_format=date_format, bookmakers=bookmakers_list)
-        # odds_data = fetch_odds(sport=sport_key)
+        odds_data = fetch_odds(sport=sport_key, regions=regions, markets='h2h', odds_format=odds_format, date_format=date_format, bookmakers=bookmakers_list)
+ 
         if odds_data:
             combined_df = present_data({sport_key: odds_data}, selected_sports, combined_df)
             opportunities = find_arbitrage_opportunities(odds_data)

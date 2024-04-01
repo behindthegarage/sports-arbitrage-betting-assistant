@@ -26,7 +26,7 @@ def fetch_odds(sport, regions='us,us2', markets='h2h', odds_format='decimal', da
     if 'championship_winner' in sport:
         markets = 'outrights'
     else:
-        markets = 'h2h,spreads,totals'
+        markets = 'h2h' # ,totals
         
     params = {
         'api_key': API_KEY,
