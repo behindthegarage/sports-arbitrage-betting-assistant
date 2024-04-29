@@ -1,199 +1,793 @@
 sport,event_id,event_name,bookmaker,market_type,team,price,point
-baseball_milb,010d096b32ccefdfeb263749f3b2ed67,Tacoma Rainiers vs El Paso Chihuahuas,FanDuel,h2h,El Paso Chihuahuas,2.5,
-baseball_milb,010d096b32ccefdfeb263749f3b2ed67,Tacoma Rainiers vs El Paso Chihuahuas,FanDuel,h2h,Tacoma Rainiers,1.52,
-baseball_mlb,8ce7ae7579c45b492e6d308da8d328f2,Atlanta Braves vs Cleveland Guardians,DraftKings,h2h,Atlanta Braves,1.24,
-baseball_mlb,8ce7ae7579c45b492e6d308da8d328f2,Atlanta Braves vs Cleveland Guardians,DraftKings,h2h,Cleveland Guardians,3.9,
-baseball_mlb,8ce7ae7579c45b492e6d308da8d328f2,Atlanta Braves vs Cleveland Guardians,Caesars,h2h,Atlanta Braves,1.26,
-baseball_mlb,8ce7ae7579c45b492e6d308da8d328f2,Atlanta Braves vs Cleveland Guardians,Caesars,h2h,Cleveland Guardians,3.8,
-baseball_mlb,8ce7ae7579c45b492e6d308da8d328f2,Atlanta Braves vs Cleveland Guardians,FanDuel,h2h,Atlanta Braves,1.23,
-baseball_mlb,8ce7ae7579c45b492e6d308da8d328f2,Atlanta Braves vs Cleveland Guardians,FanDuel,h2h,Cleveland Guardians,3.9,
-baseball_mlb,8ce7ae7579c45b492e6d308da8d328f2,Atlanta Braves vs Cleveland Guardians,BetMGM,h2h,Atlanta Braves,1.44,
-baseball_mlb,8ce7ae7579c45b492e6d308da8d328f2,Atlanta Braves vs Cleveland Guardians,BetMGM,h2h,Cleveland Guardians,2.8,
-baseball_mlb,4b78269d847fc4fb3836ba51821ce900,Baltimore Orioles vs Oakland Athletics,DraftKings,h2h,Baltimore Orioles,3.5,
-baseball_mlb,4b78269d847fc4fb3836ba51821ce900,Baltimore Orioles vs Oakland Athletics,DraftKings,h2h,Oakland Athletics,1.29,
-baseball_mlb,4b78269d847fc4fb3836ba51821ce900,Baltimore Orioles vs Oakland Athletics,Caesars,h2h,Baltimore Orioles,3.9,
-baseball_mlb,4b78269d847fc4fb3836ba51821ce900,Baltimore Orioles vs Oakland Athletics,Caesars,h2h,Oakland Athletics,1.25,
-baseball_mlb,4b78269d847fc4fb3836ba51821ce900,Baltimore Orioles vs Oakland Athletics,FanDuel,h2h,Baltimore Orioles,3.6,
-baseball_mlb,4b78269d847fc4fb3836ba51821ce900,Baltimore Orioles vs Oakland Athletics,FanDuel,h2h,Oakland Athletics,1.27,
-baseball_mlb,4b78269d847fc4fb3836ba51821ce900,Baltimore Orioles vs Oakland Athletics,BetMGM,h2h,Baltimore Orioles,4.0,
-baseball_mlb,4b78269d847fc4fb3836ba51821ce900,Baltimore Orioles vs Oakland Athletics,BetMGM,h2h,Oakland Athletics,1.25,
-baseball_mlb,a7dd725d6027c0243fdf478964e68755,Miami Marlins vs Washington Nationals,DraftKings,h2h,Miami Marlins,3.6,
-baseball_mlb,a7dd725d6027c0243fdf478964e68755,Miami Marlins vs Washington Nationals,DraftKings,h2h,Washington Nationals,1.28,
-baseball_mlb,a7dd725d6027c0243fdf478964e68755,Miami Marlins vs Washington Nationals,Caesars,h2h,Miami Marlins,3.6,
-baseball_mlb,a7dd725d6027c0243fdf478964e68755,Miami Marlins vs Washington Nationals,Caesars,h2h,Washington Nationals,1.29,
-baseball_mlb,a7dd725d6027c0243fdf478964e68755,Miami Marlins vs Washington Nationals,FanDuel,h2h,Miami Marlins,3.9,
-baseball_mlb,a7dd725d6027c0243fdf478964e68755,Miami Marlins vs Washington Nationals,FanDuel,h2h,Washington Nationals,1.24,
-baseball_mlb,a7dd725d6027c0243fdf478964e68755,Miami Marlins vs Washington Nationals,BetMGM,h2h,Miami Marlins,3.1,
-baseball_mlb,a7dd725d6027c0243fdf478964e68755,Miami Marlins vs Washington Nationals,BetMGM,h2h,Washington Nationals,1.36,
-baseball_mlb,8dd791badcbc7164ee41bd454a1a1ae5,New York Mets vs St. Louis Cardinals,DraftKings,h2h,New York Mets,1.21,
-baseball_mlb,8dd791badcbc7164ee41bd454a1a1ae5,New York Mets vs St. Louis Cardinals,DraftKings,h2h,St. Louis Cardinals,4.25,
-baseball_mlb,8dd791badcbc7164ee41bd454a1a1ae5,New York Mets vs St. Louis Cardinals,FanDuel,h2h,New York Mets,1.21,
-baseball_mlb,8dd791badcbc7164ee41bd454a1a1ae5,New York Mets vs St. Louis Cardinals,FanDuel,h2h,St. Louis Cardinals,4.3,
-baseball_mlb,8dd791badcbc7164ee41bd454a1a1ae5,New York Mets vs St. Louis Cardinals,Caesars,h2h,New York Mets,1.22,
-baseball_mlb,8dd791badcbc7164ee41bd454a1a1ae5,New York Mets vs St. Louis Cardinals,Caesars,h2h,St. Louis Cardinals,4.2,
-baseball_mlb,8dd791badcbc7164ee41bd454a1a1ae5,New York Mets vs St. Louis Cardinals,BetMGM,h2h,New York Mets,1.22,
-baseball_mlb,8dd791badcbc7164ee41bd454a1a1ae5,New York Mets vs St. Louis Cardinals,BetMGM,h2h,St. Louis Cardinals,4.33,
-baseball_mlb,1b2ec4ace33a165dc62ccc9a9d77a41f,Chicago White Sox vs Tampa Bay Rays,DraftKings,h2h,Chicago White Sox,1.02,
-baseball_mlb,1b2ec4ace33a165dc62ccc9a9d77a41f,Chicago White Sox vs Tampa Bay Rays,DraftKings,h2h,Tampa Bay Rays,16.0,
-baseball_mlb,1b2ec4ace33a165dc62ccc9a9d77a41f,Chicago White Sox vs Tampa Bay Rays,FanDuel,h2h,Chicago White Sox,1.05,
-baseball_mlb,1b2ec4ace33a165dc62ccc9a9d77a41f,Chicago White Sox vs Tampa Bay Rays,FanDuel,h2h,Tampa Bay Rays,11.0,
-baseball_mlb,1b2ec4ace33a165dc62ccc9a9d77a41f,Chicago White Sox vs Tampa Bay Rays,Caesars,h2h,Chicago White Sox,1.09,
-baseball_mlb,1b2ec4ace33a165dc62ccc9a9d77a41f,Chicago White Sox vs Tampa Bay Rays,Caesars,h2h,Tampa Bay Rays,7.4,
-baseball_mlb,1b2ec4ace33a165dc62ccc9a9d77a41f,Chicago White Sox vs Tampa Bay Rays,BetMGM,h2h,Chicago White Sox,1.05,
-baseball_mlb,1b2ec4ace33a165dc62ccc9a9d77a41f,Chicago White Sox vs Tampa Bay Rays,BetMGM,h2h,Tampa Bay Rays,9.75,
-baseball_mlb,b7556134b71ca891e058a3c793334532,Texas Rangers vs Cincinnati Reds,DraftKings,h2h,Cincinnati Reds,4.0,
-baseball_mlb,b7556134b71ca891e058a3c793334532,Texas Rangers vs Cincinnati Reds,DraftKings,h2h,Texas Rangers,1.24,
-baseball_mlb,b7556134b71ca891e058a3c793334532,Texas Rangers vs Cincinnati Reds,FanDuel,h2h,Cincinnati Reds,3.7,
-baseball_mlb,b7556134b71ca891e058a3c793334532,Texas Rangers vs Cincinnati Reds,FanDuel,h2h,Texas Rangers,1.25,
-baseball_mlb,b7556134b71ca891e058a3c793334532,Texas Rangers vs Cincinnati Reds,Caesars,h2h,Cincinnati Reds,4.2,
-baseball_mlb,b7556134b71ca891e058a3c793334532,Texas Rangers vs Cincinnati Reds,Caesars,h2h,Texas Rangers,1.22,
-baseball_mlb,b7556134b71ca891e058a3c793334532,Texas Rangers vs Cincinnati Reds,BetMGM,h2h,Cincinnati Reds,4.0,
-baseball_mlb,b7556134b71ca891e058a3c793334532,Texas Rangers vs Cincinnati Reds,BetMGM,h2h,Texas Rangers,1.25,
-baseball_mlb,22030962895d5172c28c42742a4b5a8d,Colorado Rockies vs Houston Astros,DraftKings,h2h,Colorado Rockies,3.3,
-baseball_mlb,22030962895d5172c28c42742a4b5a8d,Colorado Rockies vs Houston Astros,DraftKings,h2h,Houston Astros,1.32,
-baseball_mlb,22030962895d5172c28c42742a4b5a8d,Colorado Rockies vs Houston Astros,Caesars,h2h,Colorado Rockies,3.9,
-baseball_mlb,22030962895d5172c28c42742a4b5a8d,Colorado Rockies vs Houston Astros,Caesars,h2h,Houston Astros,1.25,
-baseball_mlb,22030962895d5172c28c42742a4b5a8d,Colorado Rockies vs Houston Astros,BetMGM,h2h,Colorado Rockies,2.95,
-baseball_mlb,22030962895d5172c28c42742a4b5a8d,Colorado Rockies vs Houston Astros,BetMGM,h2h,Houston Astros,1.4,
-baseball_mlb,22030962895d5172c28c42742a4b5a8d,Colorado Rockies vs Houston Astros,FanDuel,h2h,Colorado Rockies,4.4,
-baseball_mlb,22030962895d5172c28c42742a4b5a8d,Colorado Rockies vs Houston Astros,FanDuel,h2h,Houston Astros,1.18,
-baseball_mlb,bb10ffc230c7f4ce1c6ad6e72551b537,San Francisco Giants vs Pittsburgh Pirates,DraftKings,h2h,Pittsburgh Pirates,1.74,
-baseball_mlb,bb10ffc230c7f4ce1c6ad6e72551b537,San Francisco Giants vs Pittsburgh Pirates,DraftKings,h2h,San Francisco Giants,2.05,
-baseball_mlb,bb10ffc230c7f4ce1c6ad6e72551b537,San Francisco Giants vs Pittsburgh Pirates,Caesars,h2h,Pittsburgh Pirates,1.67,
-baseball_mlb,bb10ffc230c7f4ce1c6ad6e72551b537,San Francisco Giants vs Pittsburgh Pirates,Caesars,h2h,San Francisco Giants,2.2,
-baseball_mlb,bb10ffc230c7f4ce1c6ad6e72551b537,San Francisco Giants vs Pittsburgh Pirates,FanDuel,h2h,Pittsburgh Pirates,1.69,
-baseball_mlb,bb10ffc230c7f4ce1c6ad6e72551b537,San Francisco Giants vs Pittsburgh Pirates,FanDuel,h2h,San Francisco Giants,2.14,
-baseball_mlb,bb10ffc230c7f4ce1c6ad6e72551b537,San Francisco Giants vs Pittsburgh Pirates,BetMGM,h2h,Pittsburgh Pirates,1.8,
-baseball_mlb,bb10ffc230c7f4ce1c6ad6e72551b537,San Francisco Giants vs Pittsburgh Pirates,BetMGM,h2h,San Francisco Giants,2.0,
-baseball_mlb,5762775262003c2e5fc263e22450ba44,Los Angeles Angels vs Minnesota Twins,DraftKings,h2h,Los Angeles Angels,1.8,
-baseball_mlb,5762775262003c2e5fc263e22450ba44,Los Angeles Angels vs Minnesota Twins,DraftKings,h2h,Minnesota Twins,1.95,
-baseball_mlb,5762775262003c2e5fc263e22450ba44,Los Angeles Angels vs Minnesota Twins,Caesars,h2h,Los Angeles Angels,1.83,
-baseball_mlb,5762775262003c2e5fc263e22450ba44,Los Angeles Angels vs Minnesota Twins,Caesars,h2h,Minnesota Twins,1.91,
-baseball_mlb,5762775262003c2e5fc263e22450ba44,Los Angeles Angels vs Minnesota Twins,FanDuel,h2h,Los Angeles Angels,1.79,
-baseball_mlb,5762775262003c2e5fc263e22450ba44,Los Angeles Angels vs Minnesota Twins,FanDuel,h2h,Minnesota Twins,1.98,
-baseball_mlb,5762775262003c2e5fc263e22450ba44,Los Angeles Angels vs Minnesota Twins,BetMGM,h2h,Los Angeles Angels,1.95,
-baseball_mlb,5762775262003c2e5fc263e22450ba44,Los Angeles Angels vs Minnesota Twins,BetMGM,h2h,Minnesota Twins,1.83,
-baseball_mlb,78743e6767eda67699e8c8443fedb05d,Seattle Mariners vs Arizona Diamondbacks,DraftKings,h2h,Arizona Diamondbacks,3.0,
-baseball_mlb,78743e6767eda67699e8c8443fedb05d,Seattle Mariners vs Arizona Diamondbacks,DraftKings,h2h,Seattle Mariners,1.37,
-baseball_mlb,78743e6767eda67699e8c8443fedb05d,Seattle Mariners vs Arizona Diamondbacks,Caesars,h2h,Arizona Diamondbacks,3.0,
-baseball_mlb,78743e6767eda67699e8c8443fedb05d,Seattle Mariners vs Arizona Diamondbacks,Caesars,h2h,Seattle Mariners,1.38,
-baseball_mlb,78743e6767eda67699e8c8443fedb05d,Seattle Mariners vs Arizona Diamondbacks,FanDuel,h2h,Arizona Diamondbacks,2.82,
-baseball_mlb,78743e6767eda67699e8c8443fedb05d,Seattle Mariners vs Arizona Diamondbacks,FanDuel,h2h,Seattle Mariners,1.42,
-baseball_mlb,78743e6767eda67699e8c8443fedb05d,Seattle Mariners vs Arizona Diamondbacks,BetMGM,h2h,Arizona Diamondbacks,2.9,
-baseball_mlb,78743e6767eda67699e8c8443fedb05d,Seattle Mariners vs Arizona Diamondbacks,BetMGM,h2h,Seattle Mariners,1.4,
-baseball_mlb,cc2e43ae2f1eb0a88ada58db941f6bcc,San Diego Padres vs Philadelphia Phillies,DraftKings,h2h,Philadelphia Phillies,2.7,
-baseball_mlb,cc2e43ae2f1eb0a88ada58db941f6bcc,San Diego Padres vs Philadelphia Phillies,DraftKings,h2h,San Diego Padres,1.45,
-baseball_mlb,cc2e43ae2f1eb0a88ada58db941f6bcc,San Diego Padres vs Philadelphia Phillies,Caesars,h2h,Philadelphia Phillies,2.6,
-baseball_mlb,cc2e43ae2f1eb0a88ada58db941f6bcc,San Diego Padres vs Philadelphia Phillies,Caesars,h2h,San Diego Padres,1.5,
-baseball_mlb,cc2e43ae2f1eb0a88ada58db941f6bcc,San Diego Padres vs Philadelphia Phillies,FanDuel,h2h,Philadelphia Phillies,2.74,
-baseball_mlb,cc2e43ae2f1eb0a88ada58db941f6bcc,San Diego Padres vs Philadelphia Phillies,FanDuel,h2h,San Diego Padres,1.44,
-baseball_mlb,cc2e43ae2f1eb0a88ada58db941f6bcc,San Diego Padres vs Philadelphia Phillies,BetMGM,h2h,Philadelphia Phillies,2.5,
-baseball_mlb,cc2e43ae2f1eb0a88ada58db941f6bcc,San Diego Padres vs Philadelphia Phillies,BetMGM,h2h,San Diego Padres,1.53,
-baseball_mlb,198012eb6ac4ff5ddbd1a819bdfa12b6,Boston Red Sox vs Chicago Cubs,DraftKings,h2h,Boston Red Sox,1.68,
-baseball_mlb,198012eb6ac4ff5ddbd1a819bdfa12b6,Boston Red Sox vs Chicago Cubs,DraftKings,h2h,Chicago Cubs,2.24,
-baseball_mlb,198012eb6ac4ff5ddbd1a819bdfa12b6,Boston Red Sox vs Chicago Cubs,Caesars,h2h,Boston Red Sox,1.69,
-baseball_mlb,198012eb6ac4ff5ddbd1a819bdfa12b6,Boston Red Sox vs Chicago Cubs,Caesars,h2h,Chicago Cubs,2.22,
-baseball_mlb,198012eb6ac4ff5ddbd1a819bdfa12b6,Boston Red Sox vs Chicago Cubs,FanDuel,h2h,Boston Red Sox,1.68,
-baseball_mlb,198012eb6ac4ff5ddbd1a819bdfa12b6,Boston Red Sox vs Chicago Cubs,FanDuel,h2h,Chicago Cubs,2.24,
-baseball_mlb,198012eb6ac4ff5ddbd1a819bdfa12b6,Boston Red Sox vs Chicago Cubs,BetMGM,h2h,Boston Red Sox,1.74,
-baseball_mlb,198012eb6ac4ff5ddbd1a819bdfa12b6,Boston Red Sox vs Chicago Cubs,BetMGM,h2h,Chicago Cubs,2.1,
+basketball_euroleague,7a2b16a4142434f930ae7ea07e90b16b,Maccabi Tel Aviv vs Panathinaikos,DraftKings,h2h,Maccabi Tel Aviv,2.14,
+basketball_euroleague,7a2b16a4142434f930ae7ea07e90b16b,Maccabi Tel Aviv vs Panathinaikos,DraftKings,h2h,Panathinaikos,1.74,
+basketball_euroleague,c56862968e5bdbeba304094b627d8ae9,Olympiacos vs FC Barcelona Bàsquet,DraftKings,h2h,FC Barcelona Bàsquet,2.54,
+basketball_euroleague,c56862968e5bdbeba304094b627d8ae9,Olympiacos vs FC Barcelona Bàsquet,DraftKings,h2h,Olympiacos,1.54,
+basketball_euroleague,4271889d00ab18c3bade174f1191eb06,Fenerbahce SK vs AS Monaco,DraftKings,h2h,AS Monaco,2.6,
+basketball_euroleague,4271889d00ab18c3bade174f1191eb06,Fenerbahce SK vs AS Monaco,DraftKings,h2h,Fenerbahce SK,1.52,
+basketball_euroleague,b1d77006da08617ea4c936d83b67f484,Saski Baskonia vs Real Madrid,DraftKings,h2h,Real Madrid,1.41,
+basketball_euroleague,b1d77006da08617ea4c936d83b67f484,Saski Baskonia vs Real Madrid,DraftKings,h2h,Saski Baskonia,3.0,
+basketball_euroleague,7a2b16a4142434f930ae7ea07e90b16b,Maccabi Tel Aviv vs Panathinaikos,DraftKings,totals,Over,1.89,168.0
+basketball_euroleague,7a2b16a4142434f930ae7ea07e90b16b,Maccabi Tel Aviv vs Panathinaikos,DraftKings,totals,Under,1.93,168.0
+basketball_euroleague,c56862968e5bdbeba304094b627d8ae9,Olympiacos vs FC Barcelona Bàsquet,DraftKings,totals,Over,1.89,154.0
+basketball_euroleague,c56862968e5bdbeba304094b627d8ae9,Olympiacos vs FC Barcelona Bàsquet,DraftKings,totals,Under,1.93,154.0
+basketball_euroleague,4271889d00ab18c3bade174f1191eb06,Fenerbahce SK vs AS Monaco,DraftKings,totals,Over,1.91,166.5
+basketball_euroleague,4271889d00ab18c3bade174f1191eb06,Fenerbahce SK vs AS Monaco,DraftKings,totals,Under,1.91,166.5
+basketball_euroleague,b1d77006da08617ea4c936d83b67f484,Saski Baskonia vs Real Madrid,DraftKings,totals,Over,1.91,171.5
+basketball_euroleague,b1d77006da08617ea4c936d83b67f484,Saski Baskonia vs Real Madrid,DraftKings,totals,Under,1.91,171.5
+basketball_euroleague,7a2b16a4142434f930ae7ea07e90b16b,Maccabi Tel Aviv vs Panathinaikos,DraftKings,spreads,Maccabi Tel Aviv,1.89,2.0
+basketball_euroleague,7a2b16a4142434f930ae7ea07e90b16b,Maccabi Tel Aviv vs Panathinaikos,DraftKings,spreads,Panathinaikos,1.93,-2.0
+basketball_euroleague,c56862968e5bdbeba304094b627d8ae9,Olympiacos vs FC Barcelona Bàsquet,DraftKings,spreads,FC Barcelona Bàsquet,1.93,4.0
+basketball_euroleague,c56862968e5bdbeba304094b627d8ae9,Olympiacos vs FC Barcelona Bàsquet,DraftKings,spreads,Olympiacos,1.89,-4.0
+basketball_euroleague,4271889d00ab18c3bade174f1191eb06,Fenerbahce SK vs AS Monaco,DraftKings,spreads,AS Monaco,1.93,4.5
+basketball_euroleague,4271889d00ab18c3bade174f1191eb06,Fenerbahce SK vs AS Monaco,DraftKings,spreads,Fenerbahce SK,1.89,-4.5
+basketball_euroleague,b1d77006da08617ea4c936d83b67f484,Saski Baskonia vs Real Madrid,DraftKings,spreads,Real Madrid,1.93,-6.0
+basketball_euroleague,b1d77006da08617ea4c936d83b67f484,Saski Baskonia vs Real Madrid,DraftKings,spreads,Saski Baskonia,1.89,6.0
+basketball_nba,8aab98d6daa476d3193bbb719da9416b,Phoenix Suns vs Minnesota Timberwolves,DraftKings,h2h,Minnesota Timberwolves,1.71,
+basketball_nba,8aab98d6daa476d3193bbb719da9416b,Phoenix Suns vs Minnesota Timberwolves,DraftKings,h2h,Phoenix Suns,2.1,
+basketball_nba,8aab98d6daa476d3193bbb719da9416b,Phoenix Suns vs Minnesota Timberwolves,FanDuel,h2h,Minnesota Timberwolves,1.78,
+basketball_nba,8aab98d6daa476d3193bbb719da9416b,Phoenix Suns vs Minnesota Timberwolves,FanDuel,h2h,Phoenix Suns,2.0,
+basketball_nba,8aab98d6daa476d3193bbb719da9416b,Phoenix Suns vs Minnesota Timberwolves,BetMGM,h2h,Minnesota Timberwolves,1.71,
+basketball_nba,8aab98d6daa476d3193bbb719da9416b,Phoenix Suns vs Minnesota Timberwolves,BetMGM,h2h,Phoenix Suns,2.1,
+basketball_nba,8aab98d6daa476d3193bbb719da9416b,Phoenix Suns vs Minnesota Timberwolves,Caesars,h2h,Minnesota Timberwolves,2.05,
+basketball_nba,8aab98d6daa476d3193bbb719da9416b,Phoenix Suns vs Minnesota Timberwolves,Caesars,h2h,Phoenix Suns,1.74,
+basketball_nba,93a5e74d77a580a883db50356942d1bb,Miami Heat vs Boston Celtics,DraftKings,h2h,Boston Celtics,1.18,
+basketball_nba,93a5e74d77a580a883db50356942d1bb,Miami Heat vs Boston Celtics,DraftKings,h2h,Miami Heat,5.1,
+basketball_nba,93a5e74d77a580a883db50356942d1bb,Miami Heat vs Boston Celtics,FanDuel,h2h,Boston Celtics,1.2,
+basketball_nba,93a5e74d77a580a883db50356942d1bb,Miami Heat vs Boston Celtics,FanDuel,h2h,Miami Heat,4.8,
+basketball_nba,93a5e74d77a580a883db50356942d1bb,Miami Heat vs Boston Celtics,Caesars,h2h,Boston Celtics,1.18,
+basketball_nba,93a5e74d77a580a883db50356942d1bb,Miami Heat vs Boston Celtics,Caesars,h2h,Miami Heat,5.0,
+basketball_nba,93a5e74d77a580a883db50356942d1bb,Miami Heat vs Boston Celtics,BetMGM,h2h,Boston Celtics,1.18,
+basketball_nba,93a5e74d77a580a883db50356942d1bb,Miami Heat vs Boston Celtics,BetMGM,h2h,Miami Heat,5.0,
+basketball_nba,ac27db5d315325e73022958c1ea260e6,New Orleans Pelicans vs Oklahoma City Thunder,DraftKings,h2h,New Orleans Pelicans,2.54,
+basketball_nba,ac27db5d315325e73022958c1ea260e6,New Orleans Pelicans vs Oklahoma City Thunder,DraftKings,h2h,Oklahoma City Thunder,1.54,
+basketball_nba,ac27db5d315325e73022958c1ea260e6,New Orleans Pelicans vs Oklahoma City Thunder,FanDuel,h2h,New Orleans Pelicans,2.5,
+basketball_nba,ac27db5d315325e73022958c1ea260e6,New Orleans Pelicans vs Oklahoma City Thunder,FanDuel,h2h,Oklahoma City Thunder,1.56,
+basketball_nba,ac27db5d315325e73022958c1ea260e6,New Orleans Pelicans vs Oklahoma City Thunder,Caesars,h2h,New Orleans Pelicans,2.58,
+basketball_nba,ac27db5d315325e73022958c1ea260e6,New Orleans Pelicans vs Oklahoma City Thunder,Caesars,h2h,Oklahoma City Thunder,1.53,
+basketball_nba,ac27db5d315325e73022958c1ea260e6,New Orleans Pelicans vs Oklahoma City Thunder,BetMGM,h2h,New Orleans Pelicans,2.55,
+basketball_nba,ac27db5d315325e73022958c1ea260e6,New Orleans Pelicans vs Oklahoma City Thunder,BetMGM,h2h,Oklahoma City Thunder,1.53,
+basketball_nba,900b6f8f97586fad84924444141eb446,Denver Nuggets vs Los Angeles Lakers,DraftKings,h2h,Denver Nuggets,1.31,
+basketball_nba,900b6f8f97586fad84924444141eb446,Denver Nuggets vs Los Angeles Lakers,DraftKings,h2h,Los Angeles Lakers,3.6,
+basketball_nba,900b6f8f97586fad84924444141eb446,Denver Nuggets vs Los Angeles Lakers,FanDuel,h2h,Denver Nuggets,1.33,
+basketball_nba,900b6f8f97586fad84924444141eb446,Denver Nuggets vs Los Angeles Lakers,FanDuel,h2h,Los Angeles Lakers,3.45,
+basketball_nba,900b6f8f97586fad84924444141eb446,Denver Nuggets vs Los Angeles Lakers,BetMGM,h2h,Denver Nuggets,1.33,
+basketball_nba,900b6f8f97586fad84924444141eb446,Denver Nuggets vs Los Angeles Lakers,BetMGM,h2h,Los Angeles Lakers,3.4,
+basketball_nba,900b6f8f97586fad84924444141eb446,Denver Nuggets vs Los Angeles Lakers,Caesars,h2h,Denver Nuggets,1.33,
+basketball_nba,900b6f8f97586fad84924444141eb446,Denver Nuggets vs Los Angeles Lakers,Caesars,h2h,Los Angeles Lakers,3.4,
+basketball_nba,34e52255b99bd6c1128b776d599724df,New York Knicks vs Philadelphia 76ers,DraftKings,h2h,New York Knicks,1.57,
+basketball_nba,34e52255b99bd6c1128b776d599724df,New York Knicks vs Philadelphia 76ers,DraftKings,h2h,Philadelphia 76ers,2.45,
+basketball_nba,34e52255b99bd6c1128b776d599724df,New York Knicks vs Philadelphia 76ers,FanDuel,h2h,New York Knicks,1.54,
+basketball_nba,34e52255b99bd6c1128b776d599724df,New York Knicks vs Philadelphia 76ers,FanDuel,h2h,Philadelphia 76ers,2.54,
+basketball_nba,34e52255b99bd6c1128b776d599724df,New York Knicks vs Philadelphia 76ers,BetMGM,h2h,New York Knicks,1.57,
+basketball_nba,34e52255b99bd6c1128b776d599724df,New York Knicks vs Philadelphia 76ers,BetMGM,h2h,Philadelphia 76ers,2.45,
+basketball_nba,34e52255b99bd6c1128b776d599724df,New York Knicks vs Philadelphia 76ers,Caesars,h2h,New York Knicks,1.59,
+basketball_nba,34e52255b99bd6c1128b776d599724df,New York Knicks vs Philadelphia 76ers,Caesars,h2h,Philadelphia 76ers,2.43,
+basketball_nba,a0daebe969273c9f0061bd8be453885d,Cleveland Cavaliers vs Orlando Magic,DraftKings,h2h,Cleveland Cavaliers,1.54,
+basketball_nba,a0daebe969273c9f0061bd8be453885d,Cleveland Cavaliers vs Orlando Magic,DraftKings,h2h,Orlando Magic,2.54,
+basketball_nba,a0daebe969273c9f0061bd8be453885d,Cleveland Cavaliers vs Orlando Magic,FanDuel,h2h,Cleveland Cavaliers,1.5,
+basketball_nba,a0daebe969273c9f0061bd8be453885d,Cleveland Cavaliers vs Orlando Magic,FanDuel,h2h,Orlando Magic,2.68,
+basketball_nba,a0daebe969273c9f0061bd8be453885d,Cleveland Cavaliers vs Orlando Magic,Caesars,h2h,Cleveland Cavaliers,1.51,
+basketball_nba,a0daebe969273c9f0061bd8be453885d,Cleveland Cavaliers vs Orlando Magic,Caesars,h2h,Orlando Magic,2.62,
+basketball_nba,a0daebe969273c9f0061bd8be453885d,Cleveland Cavaliers vs Orlando Magic,BetMGM,h2h,Cleveland Cavaliers,1.53,
+basketball_nba,a0daebe969273c9f0061bd8be453885d,Cleveland Cavaliers vs Orlando Magic,BetMGM,h2h,Orlando Magic,2.55,
+basketball_nba,18948c82b98f31b84916c4b8b2128d70,Milwaukee Bucks vs Indiana Pacers,DraftKings,h2h,Indiana Pacers,1.62,
+basketball_nba,18948c82b98f31b84916c4b8b2128d70,Milwaukee Bucks vs Indiana Pacers,DraftKings,h2h,Milwaukee Bucks,2.36,
+basketball_nba,18948c82b98f31b84916c4b8b2128d70,Milwaukee Bucks vs Indiana Pacers,FanDuel,h2h,Indiana Pacers,1.66,
+basketball_nba,18948c82b98f31b84916c4b8b2128d70,Milwaukee Bucks vs Indiana Pacers,FanDuel,h2h,Milwaukee Bucks,2.28,
+basketball_nba,18948c82b98f31b84916c4b8b2128d70,Milwaukee Bucks vs Indiana Pacers,BetMGM,h2h,Indiana Pacers,1.61,
+basketball_nba,18948c82b98f31b84916c4b8b2128d70,Milwaukee Bucks vs Indiana Pacers,BetMGM,h2h,Milwaukee Bucks,2.35,
+basketball_nba,18948c82b98f31b84916c4b8b2128d70,Milwaukee Bucks vs Indiana Pacers,Caesars,h2h,Indiana Pacers,1.61,
+basketball_nba,18948c82b98f31b84916c4b8b2128d70,Milwaukee Bucks vs Indiana Pacers,Caesars,h2h,Milwaukee Bucks,2.4,
+basketball_nba,d0a2bbf7c26026c4008203a62b2cb077,Los Angeles Clippers vs Dallas Mavericks,DraftKings,h2h,Dallas Mavericks,1.77,
+basketball_nba,d0a2bbf7c26026c4008203a62b2cb077,Los Angeles Clippers vs Dallas Mavericks,DraftKings,h2h,Los Angeles Clippers,2.1,
+basketball_nba,d0a2bbf7c26026c4008203a62b2cb077,Los Angeles Clippers vs Dallas Mavericks,FanDuel,h2h,Dallas Mavericks,1.75,
+basketball_nba,d0a2bbf7c26026c4008203a62b2cb077,Los Angeles Clippers vs Dallas Mavericks,FanDuel,h2h,Los Angeles Clippers,2.14,
+basketball_nba,d0a2bbf7c26026c4008203a62b2cb077,Los Angeles Clippers vs Dallas Mavericks,Caesars,h2h,Dallas Mavericks,1.74,
+basketball_nba,d0a2bbf7c26026c4008203a62b2cb077,Los Angeles Clippers vs Dallas Mavericks,Caesars,h2h,Los Angeles Clippers,2.15,
+basketball_nba,d0a2bbf7c26026c4008203a62b2cb077,Los Angeles Clippers vs Dallas Mavericks,BetMGM,h2h,Dallas Mavericks,1.71,
+basketball_nba,d0a2bbf7c26026c4008203a62b2cb077,Los Angeles Clippers vs Dallas Mavericks,BetMGM,h2h,Los Angeles Clippers,2.15,
+basketball_nba,8aab98d6daa476d3193bbb719da9416b,Phoenix Suns vs Minnesota Timberwolves,DraftKings,totals,Over,1.83,228.5
+basketball_nba,8aab98d6daa476d3193bbb719da9416b,Phoenix Suns vs Minnesota Timberwolves,DraftKings,totals,Under,1.91,228.5
+basketball_nba,8aab98d6daa476d3193bbb719da9416b,Phoenix Suns vs Minnesota Timberwolves,FanDuel,totals,Over,1.93,229.5
+basketball_nba,8aab98d6daa476d3193bbb719da9416b,Phoenix Suns vs Minnesota Timberwolves,FanDuel,totals,Under,1.83,229.5
+basketball_nba,8aab98d6daa476d3193bbb719da9416b,Phoenix Suns vs Minnesota Timberwolves,BetMGM,totals,Over,1.91,229.5
+basketball_nba,8aab98d6daa476d3193bbb719da9416b,Phoenix Suns vs Minnesota Timberwolves,BetMGM,totals,Under,1.83,229.5
+basketball_nba,8aab98d6daa476d3193bbb719da9416b,Phoenix Suns vs Minnesota Timberwolves,Caesars,totals,Over,1.91,228.5
+basketball_nba,8aab98d6daa476d3193bbb719da9416b,Phoenix Suns vs Minnesota Timberwolves,Caesars,totals,Under,1.83,228.5
+basketball_nba,93a5e74d77a580a883db50356942d1bb,Miami Heat vs Boston Celtics,DraftKings,totals,Over,1.91,203.0
+basketball_nba,93a5e74d77a580a883db50356942d1bb,Miami Heat vs Boston Celtics,DraftKings,totals,Under,1.91,203.0
+basketball_nba,93a5e74d77a580a883db50356942d1bb,Miami Heat vs Boston Celtics,FanDuel,totals,Over,1.91,203.5
+basketball_nba,93a5e74d77a580a883db50356942d1bb,Miami Heat vs Boston Celtics,FanDuel,totals,Under,1.91,203.5
+basketball_nba,93a5e74d77a580a883db50356942d1bb,Miami Heat vs Boston Celtics,Caesars,totals,Over,1.87,203.0
+basketball_nba,93a5e74d77a580a883db50356942d1bb,Miami Heat vs Boston Celtics,Caesars,totals,Under,1.95,203.0
+basketball_nba,93a5e74d77a580a883db50356942d1bb,Miami Heat vs Boston Celtics,BetMGM,totals,Over,1.95,203.5
+basketball_nba,93a5e74d77a580a883db50356942d1bb,Miami Heat vs Boston Celtics,BetMGM,totals,Under,1.87,203.5
+basketball_nba,ac27db5d315325e73022958c1ea260e6,New Orleans Pelicans vs Oklahoma City Thunder,DraftKings,totals,Over,1.91,204.5
+basketball_nba,ac27db5d315325e73022958c1ea260e6,New Orleans Pelicans vs Oklahoma City Thunder,DraftKings,totals,Under,1.91,204.5
+basketball_nba,ac27db5d315325e73022958c1ea260e6,New Orleans Pelicans vs Oklahoma City Thunder,FanDuel,totals,Over,1.91,204.5
+basketball_nba,ac27db5d315325e73022958c1ea260e6,New Orleans Pelicans vs Oklahoma City Thunder,FanDuel,totals,Under,1.91,204.5
+basketball_nba,ac27db5d315325e73022958c1ea260e6,New Orleans Pelicans vs Oklahoma City Thunder,Caesars,totals,Over,1.91,204.5
+basketball_nba,ac27db5d315325e73022958c1ea260e6,New Orleans Pelicans vs Oklahoma City Thunder,Caesars,totals,Under,1.91,204.5
+basketball_nba,ac27db5d315325e73022958c1ea260e6,New Orleans Pelicans vs Oklahoma City Thunder,BetMGM,totals,Over,1.91,204.5
+basketball_nba,ac27db5d315325e73022958c1ea260e6,New Orleans Pelicans vs Oklahoma City Thunder,BetMGM,totals,Under,1.91,204.5
+basketball_nba,900b6f8f97586fad84924444141eb446,Denver Nuggets vs Los Angeles Lakers,DraftKings,totals,Over,1.91,217.0
+basketball_nba,900b6f8f97586fad84924444141eb446,Denver Nuggets vs Los Angeles Lakers,DraftKings,totals,Under,1.91,217.0
+basketball_nba,900b6f8f97586fad84924444141eb446,Denver Nuggets vs Los Angeles Lakers,FanDuel,totals,Over,1.93,217.0
+basketball_nba,900b6f8f97586fad84924444141eb446,Denver Nuggets vs Los Angeles Lakers,FanDuel,totals,Under,1.89,217.0
+basketball_nba,900b6f8f97586fad84924444141eb446,Denver Nuggets vs Los Angeles Lakers,BetMGM,totals,Over,1.87,216.5
+basketball_nba,900b6f8f97586fad84924444141eb446,Denver Nuggets vs Los Angeles Lakers,BetMGM,totals,Under,1.95,216.5
+basketball_nba,900b6f8f97586fad84924444141eb446,Denver Nuggets vs Los Angeles Lakers,Caesars,totals,Over,1.91,217.0
+basketball_nba,900b6f8f97586fad84924444141eb446,Denver Nuggets vs Los Angeles Lakers,Caesars,totals,Under,1.91,217.0
+basketball_nba,34e52255b99bd6c1128b776d599724df,New York Knicks vs Philadelphia 76ers,DraftKings,totals,Over,1.91,204.0
+basketball_nba,34e52255b99bd6c1128b776d599724df,New York Knicks vs Philadelphia 76ers,DraftKings,totals,Under,1.91,204.0
+basketball_nba,34e52255b99bd6c1128b776d599724df,New York Knicks vs Philadelphia 76ers,FanDuel,totals,Over,1.91,204.0
+basketball_nba,34e52255b99bd6c1128b776d599724df,New York Knicks vs Philadelphia 76ers,FanDuel,totals,Under,1.91,204.0
+basketball_nba,34e52255b99bd6c1128b776d599724df,New York Knicks vs Philadelphia 76ers,BetMGM,totals,Over,1.87,203.5
+basketball_nba,34e52255b99bd6c1128b776d599724df,New York Knicks vs Philadelphia 76ers,BetMGM,totals,Under,1.95,203.5
+basketball_nba,34e52255b99bd6c1128b776d599724df,New York Knicks vs Philadelphia 76ers,Caesars,totals,Over,1.91,203.5
+basketball_nba,34e52255b99bd6c1128b776d599724df,New York Knicks vs Philadelphia 76ers,Caesars,totals,Under,1.91,203.5
+basketball_nba,a0daebe969273c9f0061bd8be453885d,Cleveland Cavaliers vs Orlando Magic,DraftKings,totals,Over,1.91,200.5
+basketball_nba,a0daebe969273c9f0061bd8be453885d,Cleveland Cavaliers vs Orlando Magic,DraftKings,totals,Under,1.91,200.5
+basketball_nba,a0daebe969273c9f0061bd8be453885d,Cleveland Cavaliers vs Orlando Magic,FanDuel,totals,Over,1.91,201.0
+basketball_nba,a0daebe969273c9f0061bd8be453885d,Cleveland Cavaliers vs Orlando Magic,FanDuel,totals,Under,1.91,201.0
+basketball_nba,a0daebe969273c9f0061bd8be453885d,Cleveland Cavaliers vs Orlando Magic,Caesars,totals,Over,1.91,200.5
+basketball_nba,a0daebe969273c9f0061bd8be453885d,Cleveland Cavaliers vs Orlando Magic,Caesars,totals,Under,1.91,200.5
+basketball_nba,a0daebe969273c9f0061bd8be453885d,Cleveland Cavaliers vs Orlando Magic,BetMGM,totals,Over,1.91,200.5
+basketball_nba,a0daebe969273c9f0061bd8be453885d,Cleveland Cavaliers vs Orlando Magic,BetMGM,totals,Under,1.91,200.5
+basketball_nba,18948c82b98f31b84916c4b8b2128d70,Milwaukee Bucks vs Indiana Pacers,DraftKings,totals,Over,1.91,216.5
+basketball_nba,18948c82b98f31b84916c4b8b2128d70,Milwaukee Bucks vs Indiana Pacers,DraftKings,totals,Under,1.91,216.5
+basketball_nba,18948c82b98f31b84916c4b8b2128d70,Milwaukee Bucks vs Indiana Pacers,FanDuel,totals,Over,1.91,215.5
+basketball_nba,18948c82b98f31b84916c4b8b2128d70,Milwaukee Bucks vs Indiana Pacers,FanDuel,totals,Under,1.91,215.5
+basketball_nba,18948c82b98f31b84916c4b8b2128d70,Milwaukee Bucks vs Indiana Pacers,BetMGM,totals,Over,1.91,216.5
+basketball_nba,18948c82b98f31b84916c4b8b2128d70,Milwaukee Bucks vs Indiana Pacers,BetMGM,totals,Under,1.91,216.5
+basketball_nba,18948c82b98f31b84916c4b8b2128d70,Milwaukee Bucks vs Indiana Pacers,Caesars,totals,Over,1.91,216.0
+basketball_nba,18948c82b98f31b84916c4b8b2128d70,Milwaukee Bucks vs Indiana Pacers,Caesars,totals,Under,1.91,216.0
+basketball_nba,d0a2bbf7c26026c4008203a62b2cb077,Los Angeles Clippers vs Dallas Mavericks,DraftKings,totals,Over,1.91,209.5
+basketball_nba,d0a2bbf7c26026c4008203a62b2cb077,Los Angeles Clippers vs Dallas Mavericks,DraftKings,totals,Under,1.91,209.5
+basketball_nba,d0a2bbf7c26026c4008203a62b2cb077,Los Angeles Clippers vs Dallas Mavericks,FanDuel,totals,Over,1.93,209.5
+basketball_nba,d0a2bbf7c26026c4008203a62b2cb077,Los Angeles Clippers vs Dallas Mavericks,FanDuel,totals,Under,1.89,209.5
+basketball_nba,d0a2bbf7c26026c4008203a62b2cb077,Los Angeles Clippers vs Dallas Mavericks,Caesars,totals,Over,1.91,209.0
+basketball_nba,d0a2bbf7c26026c4008203a62b2cb077,Los Angeles Clippers vs Dallas Mavericks,Caesars,totals,Under,1.91,209.0
+basketball_nba,d0a2bbf7c26026c4008203a62b2cb077,Los Angeles Clippers vs Dallas Mavericks,BetMGM,totals,Over,1.95,209.5
+basketball_nba,d0a2bbf7c26026c4008203a62b2cb077,Los Angeles Clippers vs Dallas Mavericks,BetMGM,totals,Under,1.87,209.5
+basketball_nba,8aab98d6daa476d3193bbb719da9416b,Phoenix Suns vs Minnesota Timberwolves,DraftKings,spreads,Minnesota Timberwolves,1.91,-2.5
+basketball_nba,8aab98d6daa476d3193bbb719da9416b,Phoenix Suns vs Minnesota Timberwolves,DraftKings,spreads,Phoenix Suns,1.83,2.5
+basketball_nba,8aab98d6daa476d3193bbb719da9416b,Phoenix Suns vs Minnesota Timberwolves,FanDuel,spreads,Minnesota Timberwolves,1.88,-1.5
+basketball_nba,8aab98d6daa476d3193bbb719da9416b,Phoenix Suns vs Minnesota Timberwolves,FanDuel,spreads,Phoenix Suns,1.88,1.5
+basketball_nba,8aab98d6daa476d3193bbb719da9416b,Phoenix Suns vs Minnesota Timberwolves,BetMGM,spreads,Minnesota Timberwolves,1.87,-1.5
+basketball_nba,8aab98d6daa476d3193bbb719da9416b,Phoenix Suns vs Minnesota Timberwolves,BetMGM,spreads,Phoenix Suns,1.91,1.5
+basketball_nba,8aab98d6daa476d3193bbb719da9416b,Phoenix Suns vs Minnesota Timberwolves,Caesars,spreads,Minnesota Timberwolves,1.91,1.5
+basketball_nba,8aab98d6daa476d3193bbb719da9416b,Phoenix Suns vs Minnesota Timberwolves,Caesars,spreads,Phoenix Suns,1.83,-1.5
+basketball_nba,93a5e74d77a580a883db50356942d1bb,Miami Heat vs Boston Celtics,DraftKings,spreads,Boston Celtics,1.91,-10.5
+basketball_nba,93a5e74d77a580a883db50356942d1bb,Miami Heat vs Boston Celtics,DraftKings,spreads,Miami Heat,1.91,10.5
+basketball_nba,93a5e74d77a580a883db50356942d1bb,Miami Heat vs Boston Celtics,FanDuel,spreads,Boston Celtics,1.91,-10.5
+basketball_nba,93a5e74d77a580a883db50356942d1bb,Miami Heat vs Boston Celtics,FanDuel,spreads,Miami Heat,1.91,10.5
+basketball_nba,93a5e74d77a580a883db50356942d1bb,Miami Heat vs Boston Celtics,Caesars,spreads,Boston Celtics,1.91,-10.0
+basketball_nba,93a5e74d77a580a883db50356942d1bb,Miami Heat vs Boston Celtics,Caesars,spreads,Miami Heat,1.91,10.0
+basketball_nba,93a5e74d77a580a883db50356942d1bb,Miami Heat vs Boston Celtics,BetMGM,spreads,Boston Celtics,1.91,-10.5
+basketball_nba,93a5e74d77a580a883db50356942d1bb,Miami Heat vs Boston Celtics,BetMGM,spreads,Miami Heat,1.91,10.5
+basketball_nba,ac27db5d315325e73022958c1ea260e6,New Orleans Pelicans vs Oklahoma City Thunder,DraftKings,spreads,New Orleans Pelicans,1.91,4.5
+basketball_nba,ac27db5d315325e73022958c1ea260e6,New Orleans Pelicans vs Oklahoma City Thunder,DraftKings,spreads,Oklahoma City Thunder,1.91,-4.5
+basketball_nba,ac27db5d315325e73022958c1ea260e6,New Orleans Pelicans vs Oklahoma City Thunder,FanDuel,spreads,New Orleans Pelicans,1.93,4.5
+basketball_nba,ac27db5d315325e73022958c1ea260e6,New Orleans Pelicans vs Oklahoma City Thunder,FanDuel,spreads,Oklahoma City Thunder,1.89,-4.5
+basketball_nba,ac27db5d315325e73022958c1ea260e6,New Orleans Pelicans vs Oklahoma City Thunder,Caesars,spreads,New Orleans Pelicans,1.91,4.5
+basketball_nba,ac27db5d315325e73022958c1ea260e6,New Orleans Pelicans vs Oklahoma City Thunder,Caesars,spreads,Oklahoma City Thunder,1.91,-4.5
+basketball_nba,ac27db5d315325e73022958c1ea260e6,New Orleans Pelicans vs Oklahoma City Thunder,BetMGM,spreads,New Orleans Pelicans,1.91,4.5
+basketball_nba,ac27db5d315325e73022958c1ea260e6,New Orleans Pelicans vs Oklahoma City Thunder,BetMGM,spreads,Oklahoma City Thunder,1.91,-4.5
+basketball_nba,900b6f8f97586fad84924444141eb446,Denver Nuggets vs Los Angeles Lakers,DraftKings,spreads,Denver Nuggets,1.91,-7.5
+basketball_nba,900b6f8f97586fad84924444141eb446,Denver Nuggets vs Los Angeles Lakers,DraftKings,spreads,Los Angeles Lakers,1.91,7.5
+basketball_nba,900b6f8f97586fad84924444141eb446,Denver Nuggets vs Los Angeles Lakers,FanDuel,spreads,Denver Nuggets,1.94,-7.5
+basketball_nba,900b6f8f97586fad84924444141eb446,Denver Nuggets vs Los Angeles Lakers,FanDuel,spreads,Los Angeles Lakers,1.88,7.5
+basketball_nba,900b6f8f97586fad84924444141eb446,Denver Nuggets vs Los Angeles Lakers,BetMGM,spreads,Denver Nuggets,1.91,-7.5
+basketball_nba,900b6f8f97586fad84924444141eb446,Denver Nuggets vs Los Angeles Lakers,BetMGM,spreads,Los Angeles Lakers,1.91,7.5
+basketball_nba,900b6f8f97586fad84924444141eb446,Denver Nuggets vs Los Angeles Lakers,Caesars,spreads,Denver Nuggets,1.91,-7.0
+basketball_nba,900b6f8f97586fad84924444141eb446,Denver Nuggets vs Los Angeles Lakers,Caesars,spreads,Los Angeles Lakers,1.91,7.0
+basketball_nba,34e52255b99bd6c1128b776d599724df,New York Knicks vs Philadelphia 76ers,DraftKings,spreads,New York Knicks,1.91,-4.0
+basketball_nba,34e52255b99bd6c1128b776d599724df,New York Knicks vs Philadelphia 76ers,DraftKings,spreads,Philadelphia 76ers,1.91,4.0
+basketball_nba,34e52255b99bd6c1128b776d599724df,New York Knicks vs Philadelphia 76ers,FanDuel,spreads,New York Knicks,1.91,-4.5
+basketball_nba,34e52255b99bd6c1128b776d599724df,New York Knicks vs Philadelphia 76ers,FanDuel,spreads,Philadelphia 76ers,1.91,4.5
+basketball_nba,34e52255b99bd6c1128b776d599724df,New York Knicks vs Philadelphia 76ers,BetMGM,spreads,New York Knicks,1.95,-4.5
+basketball_nba,34e52255b99bd6c1128b776d599724df,New York Knicks vs Philadelphia 76ers,BetMGM,spreads,Philadelphia 76ers,1.87,4.5
+basketball_nba,34e52255b99bd6c1128b776d599724df,New York Knicks vs Philadelphia 76ers,Caesars,spreads,New York Knicks,1.87,-4.0
+basketball_nba,34e52255b99bd6c1128b776d599724df,New York Knicks vs Philadelphia 76ers,Caesars,spreads,Philadelphia 76ers,1.95,4.0
+basketball_nba,a0daebe969273c9f0061bd8be453885d,Cleveland Cavaliers vs Orlando Magic,DraftKings,spreads,Cleveland Cavaliers,1.91,-4.5
+basketball_nba,a0daebe969273c9f0061bd8be453885d,Cleveland Cavaliers vs Orlando Magic,DraftKings,spreads,Orlando Magic,1.91,4.5
+basketball_nba,a0daebe969273c9f0061bd8be453885d,Cleveland Cavaliers vs Orlando Magic,FanDuel,spreads,Cleveland Cavaliers,1.87,-4.5
+basketball_nba,a0daebe969273c9f0061bd8be453885d,Cleveland Cavaliers vs Orlando Magic,FanDuel,spreads,Orlando Magic,1.95,4.5
+basketball_nba,a0daebe969273c9f0061bd8be453885d,Cleveland Cavaliers vs Orlando Magic,Caesars,spreads,Cleveland Cavaliers,1.91,-4.5
+basketball_nba,a0daebe969273c9f0061bd8be453885d,Cleveland Cavaliers vs Orlando Magic,Caesars,spreads,Orlando Magic,1.91,4.5
+basketball_nba,a0daebe969273c9f0061bd8be453885d,Cleveland Cavaliers vs Orlando Magic,BetMGM,spreads,Cleveland Cavaliers,1.87,-4.5
+basketball_nba,a0daebe969273c9f0061bd8be453885d,Cleveland Cavaliers vs Orlando Magic,BetMGM,spreads,Orlando Magic,1.95,4.5
+basketball_nba,18948c82b98f31b84916c4b8b2128d70,Milwaukee Bucks vs Indiana Pacers,DraftKings,spreads,Indiana Pacers,1.91,-3.5
+basketball_nba,18948c82b98f31b84916c4b8b2128d70,Milwaukee Bucks vs Indiana Pacers,DraftKings,spreads,Milwaukee Bucks,1.91,3.5
+basketball_nba,18948c82b98f31b84916c4b8b2128d70,Milwaukee Bucks vs Indiana Pacers,FanDuel,spreads,Indiana Pacers,1.93,-3.5
+basketball_nba,18948c82b98f31b84916c4b8b2128d70,Milwaukee Bucks vs Indiana Pacers,FanDuel,spreads,Milwaukee Bucks,1.89,3.5
+basketball_nba,18948c82b98f31b84916c4b8b2128d70,Milwaukee Bucks vs Indiana Pacers,BetMGM,spreads,Indiana Pacers,1.91,-3.5
+basketball_nba,18948c82b98f31b84916c4b8b2128d70,Milwaukee Bucks vs Indiana Pacers,BetMGM,spreads,Milwaukee Bucks,1.91,3.5
+basketball_nba,18948c82b98f31b84916c4b8b2128d70,Milwaukee Bucks vs Indiana Pacers,Caesars,spreads,Indiana Pacers,1.91,-3.5
+basketball_nba,18948c82b98f31b84916c4b8b2128d70,Milwaukee Bucks vs Indiana Pacers,Caesars,spreads,Milwaukee Bucks,1.91,3.5
+basketball_nba,d0a2bbf7c26026c4008203a62b2cb077,Los Angeles Clippers vs Dallas Mavericks,DraftKings,spreads,Dallas Mavericks,1.91,-2.0
+basketball_nba,d0a2bbf7c26026c4008203a62b2cb077,Los Angeles Clippers vs Dallas Mavericks,DraftKings,spreads,Los Angeles Clippers,1.91,2.0
+basketball_nba,d0a2bbf7c26026c4008203a62b2cb077,Los Angeles Clippers vs Dallas Mavericks,FanDuel,spreads,Dallas Mavericks,1.93,-2.5
+basketball_nba,d0a2bbf7c26026c4008203a62b2cb077,Los Angeles Clippers vs Dallas Mavericks,FanDuel,spreads,Los Angeles Clippers,1.89,2.5
+basketball_nba,d0a2bbf7c26026c4008203a62b2cb077,Los Angeles Clippers vs Dallas Mavericks,Caesars,spreads,Dallas Mavericks,1.91,-2.5
+basketball_nba,d0a2bbf7c26026c4008203a62b2cb077,Los Angeles Clippers vs Dallas Mavericks,Caesars,spreads,Los Angeles Clippers,1.91,2.5
+basketball_nba,d0a2bbf7c26026c4008203a62b2cb077,Los Angeles Clippers vs Dallas Mavericks,BetMGM,spreads,Dallas Mavericks,1.91,-2.5
+basketball_nba,d0a2bbf7c26026c4008203a62b2cb077,Los Angeles Clippers vs Dallas Mavericks,BetMGM,spreads,Los Angeles Clippers,1.91,2.5
+basketball_wnba,86e39858fc20ae5b7854dcae9bcd6a24,Washington Mystics vs New York Liberty,FanDuel,h2h,New York Liberty,1.09,
+basketball_wnba,86e39858fc20ae5b7854dcae9bcd6a24,Washington Mystics vs New York Liberty,FanDuel,h2h,Washington Mystics,8.0,
+basketball_wnba,86e39858fc20ae5b7854dcae9bcd6a24,Washington Mystics vs New York Liberty,DraftKings,h2h,New York Liberty,1.08,
+basketball_wnba,86e39858fc20ae5b7854dcae9bcd6a24,Washington Mystics vs New York Liberty,DraftKings,h2h,Washington Mystics,8.5,
+basketball_wnba,a0904e7b081d94c0495c5fc580e99eac,Connecticut Sun vs Indiana Fever,FanDuel,h2h,Connecticut Sun,1.41,
+basketball_wnba,a0904e7b081d94c0495c5fc580e99eac,Connecticut Sun vs Indiana Fever,FanDuel,h2h,Indiana Fever,3.0,
+basketball_wnba,a0904e7b081d94c0495c5fc580e99eac,Connecticut Sun vs Indiana Fever,DraftKings,h2h,Connecticut Sun,1.43,
+basketball_wnba,a0904e7b081d94c0495c5fc580e99eac,Connecticut Sun vs Indiana Fever,DraftKings,h2h,Indiana Fever,2.9,
+basketball_wnba,930115fd2f07f30b4defed71fdd03a05,Las Vegas Aces vs Phoenix Mercury,FanDuel,h2h,Las Vegas Aces,1.07,
+basketball_wnba,930115fd2f07f30b4defed71fdd03a05,Las Vegas Aces vs Phoenix Mercury,FanDuel,h2h,Phoenix Mercury,9.7,
+basketball_wnba,930115fd2f07f30b4defed71fdd03a05,Las Vegas Aces vs Phoenix Mercury,DraftKings,h2h,Las Vegas Aces,1.08,
+basketball_wnba,930115fd2f07f30b4defed71fdd03a05,Las Vegas Aces vs Phoenix Mercury,DraftKings,h2h,Phoenix Mercury,8.5,
+basketball_wnba,080ac81ab632275e8e393d9bc2aa08a7,Seattle Storm vs Minnesota Lynx,FanDuel,h2h,Minnesota Lynx,5.6,
+basketball_wnba,080ac81ab632275e8e393d9bc2aa08a7,Seattle Storm vs Minnesota Lynx,FanDuel,h2h,Seattle Storm,1.16,
+basketball_wnba,080ac81ab632275e8e393d9bc2aa08a7,Seattle Storm vs Minnesota Lynx,DraftKings,h2h,Minnesota Lynx,5.4,
+basketball_wnba,080ac81ab632275e8e393d9bc2aa08a7,Seattle Storm vs Minnesota Lynx,DraftKings,h2h,Seattle Storm,1.17,
+basketball_wnba,bbe7723950b3cbe635a5a3d8054a7ed6,Dallas Wings vs Chicago Sky,FanDuel,h2h,Chicago Sky,7.1,
+basketball_wnba,bbe7723950b3cbe635a5a3d8054a7ed6,Dallas Wings vs Chicago Sky,FanDuel,h2h,Dallas Wings,1.11,
+basketball_wnba,bbe7723950b3cbe635a5a3d8054a7ed6,Dallas Wings vs Chicago Sky,DraftKings,h2h,Chicago Sky,7.25,
+basketball_wnba,bbe7723950b3cbe635a5a3d8054a7ed6,Dallas Wings vs Chicago Sky,DraftKings,h2h,Dallas Wings,1.11,
+basketball_wnba,214a88bfc05114e0c00156504e7216f8,Los Angeles Sparks vs Atlanta Dream,FanDuel,h2h,Atlanta Dream,1.43,
+basketball_wnba,214a88bfc05114e0c00156504e7216f8,Los Angeles Sparks vs Atlanta Dream,FanDuel,h2h,Los Angeles Sparks,2.94,
+basketball_wnba,214a88bfc05114e0c00156504e7216f8,Los Angeles Sparks vs Atlanta Dream,DraftKings,h2h,Atlanta Dream,1.49,
+basketball_wnba,214a88bfc05114e0c00156504e7216f8,Los Angeles Sparks vs Atlanta Dream,DraftKings,h2h,Los Angeles Sparks,2.7,
+basketball_wnba,2a92b8ab2e3962a59648b23b482e1641,Indiana Fever vs New York Liberty,FanDuel,h2h,Indiana Fever,3.2,
+basketball_wnba,2a92b8ab2e3962a59648b23b482e1641,Indiana Fever vs New York Liberty,FanDuel,h2h,New York Liberty,1.37,
+basketball_wnba,2a92b8ab2e3962a59648b23b482e1641,Indiana Fever vs New York Liberty,DraftKings,h2h,Indiana Fever,2.9,
+basketball_wnba,2a92b8ab2e3962a59648b23b482e1641,Indiana Fever vs New York Liberty,DraftKings,h2h,New York Liberty,1.43,
+basketball_wnba,86e39858fc20ae5b7854dcae9bcd6a24,Washington Mystics vs New York Liberty,FanDuel,spreads,New York Liberty,1.91,-13.5
+basketball_wnba,86e39858fc20ae5b7854dcae9bcd6a24,Washington Mystics vs New York Liberty,FanDuel,spreads,Washington Mystics,1.91,13.5
+basketball_wnba,86e39858fc20ae5b7854dcae9bcd6a24,Washington Mystics vs New York Liberty,DraftKings,spreads,New York Liberty,1.91,-14.0
+basketball_wnba,86e39858fc20ae5b7854dcae9bcd6a24,Washington Mystics vs New York Liberty,DraftKings,spreads,Washington Mystics,1.91,14.0
+basketball_wnba,86e39858fc20ae5b7854dcae9bcd6a24,Washington Mystics vs New York Liberty,BetMGM,spreads,New York Liberty,1.91,-13.5
+basketball_wnba,86e39858fc20ae5b7854dcae9bcd6a24,Washington Mystics vs New York Liberty,BetMGM,spreads,Washington Mystics,1.91,13.5
+basketball_wnba,a0904e7b081d94c0495c5fc580e99eac,Connecticut Sun vs Indiana Fever,FanDuel,spreads,Connecticut Sun,1.91,-5.5
+basketball_wnba,a0904e7b081d94c0495c5fc580e99eac,Connecticut Sun vs Indiana Fever,FanDuel,spreads,Indiana Fever,1.91,5.5
+basketball_wnba,a0904e7b081d94c0495c5fc580e99eac,Connecticut Sun vs Indiana Fever,DraftKings,spreads,Connecticut Sun,1.91,-5.5
+basketball_wnba,a0904e7b081d94c0495c5fc580e99eac,Connecticut Sun vs Indiana Fever,DraftKings,spreads,Indiana Fever,1.91,5.5
+basketball_wnba,a0904e7b081d94c0495c5fc580e99eac,Connecticut Sun vs Indiana Fever,BetMGM,spreads,Connecticut Sun,1.91,-5.5
+basketball_wnba,a0904e7b081d94c0495c5fc580e99eac,Connecticut Sun vs Indiana Fever,BetMGM,spreads,Indiana Fever,1.91,5.5
+basketball_wnba,930115fd2f07f30b4defed71fdd03a05,Las Vegas Aces vs Phoenix Mercury,FanDuel,spreads,Las Vegas Aces,1.91,-13.5
+basketball_wnba,930115fd2f07f30b4defed71fdd03a05,Las Vegas Aces vs Phoenix Mercury,FanDuel,spreads,Phoenix Mercury,1.91,13.5
+basketball_wnba,930115fd2f07f30b4defed71fdd03a05,Las Vegas Aces vs Phoenix Mercury,DraftKings,spreads,Las Vegas Aces,1.91,-14.0
+basketball_wnba,930115fd2f07f30b4defed71fdd03a05,Las Vegas Aces vs Phoenix Mercury,DraftKings,spreads,Phoenix Mercury,1.91,14.0
+basketball_wnba,930115fd2f07f30b4defed71fdd03a05,Las Vegas Aces vs Phoenix Mercury,BetMGM,spreads,Las Vegas Aces,1.91,-13.5
+basketball_wnba,930115fd2f07f30b4defed71fdd03a05,Las Vegas Aces vs Phoenix Mercury,BetMGM,spreads,Phoenix Mercury,1.91,13.5
+basketball_wnba,080ac81ab632275e8e393d9bc2aa08a7,Seattle Storm vs Minnesota Lynx,FanDuel,spreads,Minnesota Lynx,1.87,11.5
+basketball_wnba,080ac81ab632275e8e393d9bc2aa08a7,Seattle Storm vs Minnesota Lynx,FanDuel,spreads,Seattle Storm,1.95,-11.5
+basketball_wnba,080ac81ab632275e8e393d9bc2aa08a7,Seattle Storm vs Minnesota Lynx,DraftKings,spreads,Minnesota Lynx,1.91,10.5
+basketball_wnba,080ac81ab632275e8e393d9bc2aa08a7,Seattle Storm vs Minnesota Lynx,DraftKings,spreads,Seattle Storm,1.91,-10.5
+basketball_wnba,080ac81ab632275e8e393d9bc2aa08a7,Seattle Storm vs Minnesota Lynx,BetMGM,spreads,Minnesota Lynx,1.91,10.5
+basketball_wnba,080ac81ab632275e8e393d9bc2aa08a7,Seattle Storm vs Minnesota Lynx,BetMGM,spreads,Seattle Storm,1.91,-10.5
+basketball_wnba,bbe7723950b3cbe635a5a3d8054a7ed6,Dallas Wings vs Chicago Sky,FanDuel,spreads,Chicago Sky,1.94,12.5
+basketball_wnba,bbe7723950b3cbe635a5a3d8054a7ed6,Dallas Wings vs Chicago Sky,FanDuel,spreads,Dallas Wings,1.88,-12.5
+basketball_wnba,bbe7723950b3cbe635a5a3d8054a7ed6,Dallas Wings vs Chicago Sky,DraftKings,spreads,Chicago Sky,1.91,12.5
+basketball_wnba,bbe7723950b3cbe635a5a3d8054a7ed6,Dallas Wings vs Chicago Sky,DraftKings,spreads,Dallas Wings,1.91,-12.5
+basketball_wnba,bbe7723950b3cbe635a5a3d8054a7ed6,Dallas Wings vs Chicago Sky,BetMGM,spreads,Chicago Sky,1.91,12.5
+basketball_wnba,bbe7723950b3cbe635a5a3d8054a7ed6,Dallas Wings vs Chicago Sky,BetMGM,spreads,Dallas Wings,1.91,-12.5
+basketball_wnba,214a88bfc05114e0c00156504e7216f8,Los Angeles Sparks vs Atlanta Dream,FanDuel,spreads,Atlanta Dream,1.95,-6.5
+basketball_wnba,214a88bfc05114e0c00156504e7216f8,Los Angeles Sparks vs Atlanta Dream,FanDuel,spreads,Los Angeles Sparks,1.87,6.5
+basketball_wnba,214a88bfc05114e0c00156504e7216f8,Los Angeles Sparks vs Atlanta Dream,DraftKings,spreads,Atlanta Dream,1.91,-5.0
+basketball_wnba,214a88bfc05114e0c00156504e7216f8,Los Angeles Sparks vs Atlanta Dream,DraftKings,spreads,Los Angeles Sparks,1.91,5.0
+basketball_wnba,214a88bfc05114e0c00156504e7216f8,Los Angeles Sparks vs Atlanta Dream,BetMGM,spreads,Atlanta Dream,1.91,-6.5
+basketball_wnba,214a88bfc05114e0c00156504e7216f8,Los Angeles Sparks vs Atlanta Dream,BetMGM,spreads,Los Angeles Sparks,1.91,6.5
+basketball_wnba,2a92b8ab2e3962a59648b23b482e1641,Indiana Fever vs New York Liberty,FanDuel,spreads,Indiana Fever,1.91,6.5
+basketball_wnba,2a92b8ab2e3962a59648b23b482e1641,Indiana Fever vs New York Liberty,FanDuel,spreads,New York Liberty,1.91,-6.5
+basketball_wnba,2a92b8ab2e3962a59648b23b482e1641,Indiana Fever vs New York Liberty,DraftKings,spreads,Indiana Fever,1.91,5.5
+basketball_wnba,2a92b8ab2e3962a59648b23b482e1641,Indiana Fever vs New York Liberty,DraftKings,spreads,New York Liberty,1.91,-5.5
 baseball_mlb,f945b4fc2a3ba9d6f7c4fccca9f1521a,Baltimore Orioles vs New York Yankees,DraftKings,h2h,Baltimore Orioles,1.74,
 baseball_mlb,f945b4fc2a3ba9d6f7c4fccca9f1521a,Baltimore Orioles vs New York Yankees,DraftKings,h2h,New York Yankees,2.14,
-baseball_mlb,f945b4fc2a3ba9d6f7c4fccca9f1521a,Baltimore Orioles vs New York Yankees,FanDuel,h2h,Baltimore Orioles,1.74,
-baseball_mlb,f945b4fc2a3ba9d6f7c4fccca9f1521a,Baltimore Orioles vs New York Yankees,FanDuel,h2h,New York Yankees,2.16,
-baseball_mlb,649ad82dac37a64e347cdbb34c7d73e7,Detroit Tigers vs St. Louis Cardinals,DraftKings,h2h,Detroit Tigers,1.93,
-baseball_mlb,649ad82dac37a64e347cdbb34c7d73e7,Detroit Tigers vs St. Louis Cardinals,DraftKings,h2h,St. Louis Cardinals,1.89,
+baseball_mlb,f945b4fc2a3ba9d6f7c4fccca9f1521a,Baltimore Orioles vs New York Yankees,FanDuel,h2h,Baltimore Orioles,1.79,
+baseball_mlb,f945b4fc2a3ba9d6f7c4fccca9f1521a,Baltimore Orioles vs New York Yankees,FanDuel,h2h,New York Yankees,2.08,
+baseball_mlb,f945b4fc2a3ba9d6f7c4fccca9f1521a,Baltimore Orioles vs New York Yankees,Caesars,h2h,Baltimore Orioles,1.74,
+baseball_mlb,f945b4fc2a3ba9d6f7c4fccca9f1521a,Baltimore Orioles vs New York Yankees,Caesars,h2h,New York Yankees,2.15,
+baseball_mlb,f945b4fc2a3ba9d6f7c4fccca9f1521a,Baltimore Orioles vs New York Yankees,BetMGM,h2h,Baltimore Orioles,1.71,
+baseball_mlb,f945b4fc2a3ba9d6f7c4fccca9f1521a,Baltimore Orioles vs New York Yankees,BetMGM,h2h,New York Yankees,2.15,
+baseball_mlb,649ad82dac37a64e347cdbb34c7d73e7,Detroit Tigers vs St. Louis Cardinals,DraftKings,h2h,Detroit Tigers,1.95,
+baseball_mlb,649ad82dac37a64e347cdbb34c7d73e7,Detroit Tigers vs St. Louis Cardinals,DraftKings,h2h,St. Louis Cardinals,1.87,
 baseball_mlb,649ad82dac37a64e347cdbb34c7d73e7,Detroit Tigers vs St. Louis Cardinals,FanDuel,h2h,Detroit Tigers,1.98,
 baseball_mlb,649ad82dac37a64e347cdbb34c7d73e7,Detroit Tigers vs St. Louis Cardinals,FanDuel,h2h,St. Louis Cardinals,1.86,
-baseball_mlb,3e0dfd7b457d213c20286ff918a63ec6,Miami Marlins vs Washington Nationals,DraftKings,h2h,Miami Marlins,1.65,
-baseball_mlb,3e0dfd7b457d213c20286ff918a63ec6,Miami Marlins vs Washington Nationals,DraftKings,h2h,Washington Nationals,2.3,
-baseball_mlb,3e0dfd7b457d213c20286ff918a63ec6,Miami Marlins vs Washington Nationals,FanDuel,h2h,Miami Marlins,1.68,
-baseball_mlb,3e0dfd7b457d213c20286ff918a63ec6,Miami Marlins vs Washington Nationals,FanDuel,h2h,Washington Nationals,2.24,
-baseball_mlb,dd9fbb5f84720d21755f3fa543fafa7c,Toronto Blue Jays vs Kansas City Royals,DraftKings,h2h,Kansas City Royals,2.3,
-baseball_mlb,dd9fbb5f84720d21755f3fa543fafa7c,Toronto Blue Jays vs Kansas City Royals,DraftKings,h2h,Toronto Blue Jays,1.65,
-baseball_mlb,dd9fbb5f84720d21755f3fa543fafa7c,Toronto Blue Jays vs Kansas City Royals,FanDuel,h2h,Kansas City Royals,2.26,
-baseball_mlb,dd9fbb5f84720d21755f3fa543fafa7c,Toronto Blue Jays vs Kansas City Royals,FanDuel,h2h,Toronto Blue Jays,1.68,
+baseball_mlb,649ad82dac37a64e347cdbb34c7d73e7,Detroit Tigers vs St. Louis Cardinals,Caesars,h2h,Detroit Tigers,1.95,
+baseball_mlb,649ad82dac37a64e347cdbb34c7d73e7,Detroit Tigers vs St. Louis Cardinals,Caesars,h2h,St. Louis Cardinals,1.87,
+baseball_mlb,649ad82dac37a64e347cdbb34c7d73e7,Detroit Tigers vs St. Louis Cardinals,BetMGM,h2h,Detroit Tigers,1.95,
+baseball_mlb,649ad82dac37a64e347cdbb34c7d73e7,Detroit Tigers vs St. Louis Cardinals,BetMGM,h2h,St. Louis Cardinals,1.87,
+baseball_mlb,3e0dfd7b457d213c20286ff918a63ec6,Miami Marlins vs Washington Nationals,DraftKings,h2h,Miami Marlins,1.68,
+baseball_mlb,3e0dfd7b457d213c20286ff918a63ec6,Miami Marlins vs Washington Nationals,DraftKings,h2h,Washington Nationals,2.24,
+baseball_mlb,3e0dfd7b457d213c20286ff918a63ec6,Miami Marlins vs Washington Nationals,FanDuel,h2h,Miami Marlins,1.65,
+baseball_mlb,3e0dfd7b457d213c20286ff918a63ec6,Miami Marlins vs Washington Nationals,FanDuel,h2h,Washington Nationals,2.3,
+baseball_mlb,3e0dfd7b457d213c20286ff918a63ec6,Miami Marlins vs Washington Nationals,Caesars,h2h,Miami Marlins,1.65,
+baseball_mlb,3e0dfd7b457d213c20286ff918a63ec6,Miami Marlins vs Washington Nationals,Caesars,h2h,Washington Nationals,2.3,
+baseball_mlb,3e0dfd7b457d213c20286ff918a63ec6,Miami Marlins vs Washington Nationals,BetMGM,h2h,Miami Marlins,1.62,
+baseball_mlb,3e0dfd7b457d213c20286ff918a63ec6,Miami Marlins vs Washington Nationals,BetMGM,h2h,Washington Nationals,2.35,
+baseball_mlb,dd9fbb5f84720d21755f3fa543fafa7c,Toronto Blue Jays vs Kansas City Royals,DraftKings,h2h,Kansas City Royals,2.2,
+baseball_mlb,dd9fbb5f84720d21755f3fa543fafa7c,Toronto Blue Jays vs Kansas City Royals,DraftKings,h2h,Toronto Blue Jays,1.7,
+baseball_mlb,dd9fbb5f84720d21755f3fa543fafa7c,Toronto Blue Jays vs Kansas City Royals,FanDuel,h2h,Kansas City Royals,2.2,
+baseball_mlb,dd9fbb5f84720d21755f3fa543fafa7c,Toronto Blue Jays vs Kansas City Royals,FanDuel,h2h,Toronto Blue Jays,1.7,
+baseball_mlb,dd9fbb5f84720d21755f3fa543fafa7c,Toronto Blue Jays vs Kansas City Royals,Caesars,h2h,Kansas City Royals,2.22,
+baseball_mlb,dd9fbb5f84720d21755f3fa543fafa7c,Toronto Blue Jays vs Kansas City Royals,Caesars,h2h,Toronto Blue Jays,1.69,
+baseball_mlb,dd9fbb5f84720d21755f3fa543fafa7c,Toronto Blue Jays vs Kansas City Royals,BetMGM,h2h,Kansas City Royals,2.25,
+baseball_mlb,dd9fbb5f84720d21755f3fa543fafa7c,Toronto Blue Jays vs Kansas City Royals,BetMGM,h2h,Toronto Blue Jays,1.67,
+baseball_mlb,5e5871f137cdb33bf0798bbc1f67d5bc,Chicago White Sox vs Minnesota Twins,DraftKings,h2h,Chicago White Sox,2.4,
+baseball_mlb,5e5871f137cdb33bf0798bbc1f67d5bc,Chicago White Sox vs Minnesota Twins,DraftKings,h2h,Minnesota Twins,1.6,
 baseball_mlb,5e5871f137cdb33bf0798bbc1f67d5bc,Chicago White Sox vs Minnesota Twins,FanDuel,h2h,Chicago White Sox,2.36,
 baseball_mlb,5e5871f137cdb33bf0798bbc1f67d5bc,Chicago White Sox vs Minnesota Twins,FanDuel,h2h,Minnesota Twins,1.62,
-baseball_mlb,e1d2fa3966c211146fb82a520214a33f,Milwaukee Brewers vs Tampa Bay Rays,DraftKings,h2h,Milwaukee Brewers,1.87,
-baseball_mlb,e1d2fa3966c211146fb82a520214a33f,Milwaukee Brewers vs Tampa Bay Rays,DraftKings,h2h,Tampa Bay Rays,1.95,
-baseball_mlb,e1d2fa3966c211146fb82a520214a33f,Milwaukee Brewers vs Tampa Bay Rays,FanDuel,h2h,Milwaukee Brewers,1.89,
-baseball_mlb,e1d2fa3966c211146fb82a520214a33f,Milwaukee Brewers vs Tampa Bay Rays,FanDuel,h2h,Tampa Bay Rays,1.96,
+baseball_mlb,5e5871f137cdb33bf0798bbc1f67d5bc,Chicago White Sox vs Minnesota Twins,Caesars,h2h,Chicago White Sox,2.4,
+baseball_mlb,5e5871f137cdb33bf0798bbc1f67d5bc,Chicago White Sox vs Minnesota Twins,Caesars,h2h,Minnesota Twins,1.61,
+baseball_mlb,5e5871f137cdb33bf0798bbc1f67d5bc,Chicago White Sox vs Minnesota Twins,BetMGM,h2h,Chicago White Sox,2.4,
+baseball_mlb,5e5871f137cdb33bf0798bbc1f67d5bc,Chicago White Sox vs Minnesota Twins,BetMGM,h2h,Minnesota Twins,1.61,
+baseball_mlb,e1d2fa3966c211146fb82a520214a33f,Milwaukee Brewers vs Tampa Bay Rays,DraftKings,h2h,Milwaukee Brewers,1.85,
+baseball_mlb,e1d2fa3966c211146fb82a520214a33f,Milwaukee Brewers vs Tampa Bay Rays,DraftKings,h2h,Tampa Bay Rays,1.98,
+baseball_mlb,e1d2fa3966c211146fb82a520214a33f,Milwaukee Brewers vs Tampa Bay Rays,FanDuel,h2h,Milwaukee Brewers,1.93,
+baseball_mlb,e1d2fa3966c211146fb82a520214a33f,Milwaukee Brewers vs Tampa Bay Rays,FanDuel,h2h,Tampa Bay Rays,1.93,
+baseball_mlb,e1d2fa3966c211146fb82a520214a33f,Milwaukee Brewers vs Tampa Bay Rays,Caesars,h2h,Milwaukee Brewers,1.87,
+baseball_mlb,e1d2fa3966c211146fb82a520214a33f,Milwaukee Brewers vs Tampa Bay Rays,Caesars,h2h,Tampa Bay Rays,1.95,
+baseball_mlb,e1d2fa3966c211146fb82a520214a33f,Milwaukee Brewers vs Tampa Bay Rays,BetMGM,h2h,Milwaukee Brewers,1.87,
+baseball_mlb,e1d2fa3966c211146fb82a520214a33f,Milwaukee Brewers vs Tampa Bay Rays,BetMGM,h2h,Tampa Bay Rays,1.95,
 baseball_mlb,57d42400ea5a362a2e96758bae65ae13,Los Angeles Angels vs Philadelphia Phillies,DraftKings,h2h,Los Angeles Angels,2.2,
 baseball_mlb,57d42400ea5a362a2e96758bae65ae13,Los Angeles Angels vs Philadelphia Phillies,DraftKings,h2h,Philadelphia Phillies,1.7,
-baseball_mlb,57d42400ea5a362a2e96758bae65ae13,Los Angeles Angels vs Philadelphia Phillies,FanDuel,h2h,Los Angeles Angels,2.16,
-baseball_mlb,57d42400ea5a362a2e96758bae65ae13,Los Angeles Angels vs Philadelphia Phillies,FanDuel,h2h,Philadelphia Phillies,1.74,
+baseball_mlb,57d42400ea5a362a2e96758bae65ae13,Los Angeles Angels vs Philadelphia Phillies,FanDuel,h2h,Los Angeles Angels,2.14,
+baseball_mlb,57d42400ea5a362a2e96758bae65ae13,Los Angeles Angels vs Philadelphia Phillies,FanDuel,h2h,Philadelphia Phillies,1.75,
+baseball_mlb,57d42400ea5a362a2e96758bae65ae13,Los Angeles Angels vs Philadelphia Phillies,Caesars,h2h,Los Angeles Angels,2.22,
+baseball_mlb,57d42400ea5a362a2e96758bae65ae13,Los Angeles Angels vs Philadelphia Phillies,Caesars,h2h,Philadelphia Phillies,1.69,
+baseball_mlb,57d42400ea5a362a2e96758bae65ae13,Los Angeles Angels vs Philadelphia Phillies,BetMGM,h2h,Los Angeles Angels,2.2,
+baseball_mlb,57d42400ea5a362a2e96758bae65ae13,Los Angeles Angels vs Philadelphia Phillies,BetMGM,h2h,Philadelphia Phillies,1.69,
 baseball_mlb,8307afe26210b8f7398d9a94e767904a,Arizona Diamondbacks vs Los Angeles Dodgers,DraftKings,h2h,Arizona Diamondbacks,2.24,
 baseball_mlb,8307afe26210b8f7398d9a94e767904a,Arizona Diamondbacks vs Los Angeles Dodgers,DraftKings,h2h,Los Angeles Dodgers,1.68,
-baseball_mlb,8307afe26210b8f7398d9a94e767904a,Arizona Diamondbacks vs Los Angeles Dodgers,FanDuel,h2h,Arizona Diamondbacks,2.2,
-baseball_mlb,8307afe26210b8f7398d9a94e767904a,Arizona Diamondbacks vs Los Angeles Dodgers,FanDuel,h2h,Los Angeles Dodgers,1.7,
+baseball_mlb,8307afe26210b8f7398d9a94e767904a,Arizona Diamondbacks vs Los Angeles Dodgers,FanDuel,h2h,Arizona Diamondbacks,2.26,
+baseball_mlb,8307afe26210b8f7398d9a94e767904a,Arizona Diamondbacks vs Los Angeles Dodgers,FanDuel,h2h,Los Angeles Dodgers,1.68,
+baseball_mlb,8307afe26210b8f7398d9a94e767904a,Arizona Diamondbacks vs Los Angeles Dodgers,Caesars,h2h,Arizona Diamondbacks,2.22,
+baseball_mlb,8307afe26210b8f7398d9a94e767904a,Arizona Diamondbacks vs Los Angeles Dodgers,Caesars,h2h,Los Angeles Dodgers,1.69,
+baseball_mlb,8307afe26210b8f7398d9a94e767904a,Arizona Diamondbacks vs Los Angeles Dodgers,BetMGM,h2h,Arizona Diamondbacks,2.25,
+baseball_mlb,8307afe26210b8f7398d9a94e767904a,Arizona Diamondbacks vs Los Angeles Dodgers,BetMGM,h2h,Los Angeles Dodgers,1.67,
 baseball_mlb,a927c93ad18150e8e2ac071a11810087,Seattle Mariners vs Atlanta Braves,DraftKings,h2h,Atlanta Braves,1.65,
 baseball_mlb,a927c93ad18150e8e2ac071a11810087,Seattle Mariners vs Atlanta Braves,DraftKings,h2h,Seattle Mariners,2.3,
-baseball_mlb,a927c93ad18150e8e2ac071a11810087,Seattle Mariners vs Atlanta Braves,FanDuel,h2h,Atlanta Braves,1.65,
-baseball_mlb,a927c93ad18150e8e2ac071a11810087,Seattle Mariners vs Atlanta Braves,FanDuel,h2h,Seattle Mariners,2.3,
+baseball_mlb,a927c93ad18150e8e2ac071a11810087,Seattle Mariners vs Atlanta Braves,FanDuel,h2h,Atlanta Braves,1.64,
+baseball_mlb,a927c93ad18150e8e2ac071a11810087,Seattle Mariners vs Atlanta Braves,FanDuel,h2h,Seattle Mariners,2.32,
+baseball_mlb,a927c93ad18150e8e2ac071a11810087,Seattle Mariners vs Atlanta Braves,Caesars,h2h,Atlanta Braves,1.65,
+baseball_mlb,a927c93ad18150e8e2ac071a11810087,Seattle Mariners vs Atlanta Braves,Caesars,h2h,Seattle Mariners,2.3,
+baseball_mlb,a927c93ad18150e8e2ac071a11810087,Seattle Mariners vs Atlanta Braves,BetMGM,h2h,Atlanta Braves,1.67,
+baseball_mlb,a927c93ad18150e8e2ac071a11810087,Seattle Mariners vs Atlanta Braves,BetMGM,h2h,Seattle Mariners,2.25,
 baseball_mlb,4f6a1311997482f3e7ab21eb4ad3d1fe,San Diego Padres vs Cincinnati Reds,DraftKings,h2h,Cincinnati Reds,1.91,
 baseball_mlb,4f6a1311997482f3e7ab21eb4ad3d1fe,San Diego Padres vs Cincinnati Reds,DraftKings,h2h,San Diego Padres,1.91,
-baseball_mlb,4f6a1311997482f3e7ab21eb4ad3d1fe,San Diego Padres vs Cincinnati Reds,FanDuel,h2h,Cincinnati Reds,1.98,
-baseball_mlb,4f6a1311997482f3e7ab21eb4ad3d1fe,San Diego Padres vs Cincinnati Reds,FanDuel,h2h,San Diego Padres,1.86,
-baseball_mlb,438c3e92abced075ef6d39296f95c1e4,Oakland Athletics vs Pittsburgh Pirates,DraftKings,h2h,Oakland Athletics,2.1,
-baseball_mlb,438c3e92abced075ef6d39296f95c1e4,Oakland Athletics vs Pittsburgh Pirates,DraftKings,h2h,Pittsburgh Pirates,1.77,
-baseball_mlb,438c3e92abced075ef6d39296f95c1e4,Oakland Athletics vs Pittsburgh Pirates,FanDuel,h2h,Oakland Athletics,2.12,
-baseball_mlb,438c3e92abced075ef6d39296f95c1e4,Oakland Athletics vs Pittsburgh Pirates,FanDuel,h2h,Pittsburgh Pirates,1.76,
-baseball_ncaa,2e7aa44ab94125f2fc2f5123d16bbd6c,Georgia St Panthers vs Appalachian St Mountaineers,FanDuel,h2h,Appalachian St Mountaineers,1.02,
-baseball_ncaa,2e7aa44ab94125f2fc2f5123d16bbd6c,Georgia St Panthers vs Appalachian St Mountaineers,FanDuel,h2h,Georgia St Panthers,11.0,
-baseball_ncaa,2e7aa44ab94125f2fc2f5123d16bbd6c,Georgia St Panthers vs Appalachian St Mountaineers,BetMGM,h2h,Appalachian St Mountaineers,1.05,
-baseball_ncaa,2e7aa44ab94125f2fc2f5123d16bbd6c,Georgia St Panthers vs Appalachian St Mountaineers,BetMGM,h2h,Georgia St Panthers,8.0,
-baseball_ncaa,ce3fdb4ef6da057beb7163d8ec8a057d,UCF Knights vs Cincinnati Bearcats,FanDuel,h2h,Cincinnati Bearcats,1.0,
-baseball_ncaa,ce3fdb4ef6da057beb7163d8ec8a057d,UCF Knights vs Cincinnati Bearcats,FanDuel,h2h,UCF Knights,23.0,
-baseball_ncaa,a1ea730e3fb79b0ab8dd18a0dbe799da,UConn Huskies vs Villanova Wildcats,FanDuel,h2h,UConn Huskies,1.06,
-baseball_ncaa,a1ea730e3fb79b0ab8dd18a0dbe799da,UConn Huskies vs Villanova Wildcats,FanDuel,h2h,Villanova Wildcats,8.0,
-baseball_ncaa,db648f4f06214cfa5fb4349e2817e786,SIU-Edwardsville Cougars vs Arkansas-Little Rock Trojans,FanDuel,h2h,Arkansas-Little Rock Trojans,1.13,
-baseball_ncaa,db648f4f06214cfa5fb4349e2817e786,SIU-Edwardsville Cougars vs Arkansas-Little Rock Trojans,FanDuel,h2h,SIU-Edwardsville Cougars,5.3,
-baseball_ncaa,8bd5b3a15ed07b7cd402cec88b5380d8,LSU Tigers vs Auburn Tigers,BetMGM,h2h,Auburn Tigers,1.4,
-baseball_ncaa,8bd5b3a15ed07b7cd402cec88b5380d8,LSU Tigers vs Auburn Tigers,BetMGM,h2h,LSU Tigers,2.75,
-baseball_ncaa,8bd5b3a15ed07b7cd402cec88b5380d8,LSU Tigers vs Auburn Tigers,FanDuel,h2h,Auburn Tigers,1.42,
-baseball_ncaa,8bd5b3a15ed07b7cd402cec88b5380d8,LSU Tigers vs Auburn Tigers,FanDuel,h2h,LSU Tigers,2.74,
-baseball_ncaa,ce8286c93d84ea7ef24a228a744f39df,Belmont Bruins vs Bradley Braves,FanDuel,h2h,Belmont Bruins,2.06,
-baseball_ncaa,ce8286c93d84ea7ef24a228a744f39df,Belmont Bruins vs Bradley Braves,FanDuel,h2h,Bradley Braves,1.71,
-baseball_ncaa,3d62b3dc64def05bf8dba7e1f8823644,Seattle Redhawks vs Grand Canyon Antelopes,FanDuel,h2h,Grand Canyon Antelopes,1.0,
-baseball_ncaa,3d62b3dc64def05bf8dba7e1f8823644,Seattle Redhawks vs Grand Canyon Antelopes,FanDuel,h2h,Seattle Redhawks,26.0,
-baseball_ncaa,2aa54b36eabdf8c19963789c1d2e690b,Louisiana Ragin' Cajuns vs Southern Miss Golden Eagles,FanDuel,h2h,Louisiana Ragin' Cajuns,1.02,
-baseball_ncaa,2aa54b36eabdf8c19963789c1d2e690b,Louisiana Ragin' Cajuns vs Southern Miss Golden Eagles,FanDuel,h2h,Southern Miss Golden Eagles,13.6,
-baseball_ncaa,5eb536b0db63f5239404f0f9f031aa7e,Presbyterian Blue Hose vs South Carolina Upstate Spartans,FanDuel,h2h,Presbyterian Blue Hose,1.98,
-baseball_ncaa,5eb536b0db63f5239404f0f9f031aa7e,Presbyterian Blue Hose vs South Carolina Upstate Spartans,FanDuel,h2h,South Carolina Upstate Spartans,1.77,
-baseball_ncaa,11dd3b570eeb9fb1e564601dbad794ce,Cal Baptist Lancers vs Utah Valley Wolverines,FanDuel,h2h,Cal Baptist Lancers,1.8,
-baseball_ncaa,11dd3b570eeb9fb1e564601dbad794ce,Cal Baptist Lancers vs Utah Valley Wolverines,FanDuel,h2h,Utah Valley Wolverines,1.94,
-baseball_ncaa,11dd3b570eeb9fb1e564601dbad794ce,Cal Baptist Lancers vs Utah Valley Wolverines,BetMGM,h2h,Cal Baptist Lancers,1.83,
-baseball_ncaa,11dd3b570eeb9fb1e564601dbad794ce,Cal Baptist Lancers vs Utah Valley Wolverines,BetMGM,h2h,Utah Valley Wolverines,1.87,
-baseball_ncaa,6199f9bc8bba565ddf922e3d09552521,South Carolina Gamecocks vs Kentucky Wildcats,BetMGM,h2h,Kentucky Wildcats,5.75,
-baseball_ncaa,6199f9bc8bba565ddf922e3d09552521,South Carolina Gamecocks vs Kentucky Wildcats,BetMGM,h2h,South Carolina Gamecocks,1.1,
-baseball_ncaa,6199f9bc8bba565ddf922e3d09552521,South Carolina Gamecocks vs Kentucky Wildcats,FanDuel,h2h,Kentucky Wildcats,9.5,
-baseball_ncaa,6199f9bc8bba565ddf922e3d09552521,South Carolina Gamecocks vs Kentucky Wildcats,FanDuel,h2h,South Carolina Gamecocks,1.04,
-baseball_ncaa,51a000469484fc3d17ab17afbf3daae2,Utah Utes vs UCLA Bruins,FanDuel,h2h,UCLA Bruins,12.0,
-baseball_ncaa,51a000469484fc3d17ab17afbf3daae2,Utah Utes vs UCLA Bruins,FanDuel,h2h,Utah Utes,1.02,
-baseball_ncaa,d3bc4f5e3ee7842fb129c0d1304e76e7,Arizona St Sun Devils vs USC Trojans,BetMGM,h2h,Arizona St Sun Devils,2.05,
-baseball_ncaa,d3bc4f5e3ee7842fb129c0d1304e76e7,Arizona St Sun Devils vs USC Trojans,BetMGM,h2h,USC Trojans,1.69,
-baseball_ncaa,d3bc4f5e3ee7842fb129c0d1304e76e7,Arizona St Sun Devils vs USC Trojans,FanDuel,h2h,Arizona St Sun Devils,2.08,
-baseball_ncaa,d3bc4f5e3ee7842fb129c0d1304e76e7,Arizona St Sun Devils vs USC Trojans,FanDuel,h2h,USC Trojans,1.69,
-baseball_ncaa,0cc71489404e39a19975943d15373a01,Cal Poly Mustangs vs UC Davis Aggies,FanDuel,h2h,Cal Poly Mustangs,1.18,
-baseball_ncaa,0cc71489404e39a19975943d15373a01,Cal Poly Mustangs vs UC Davis Aggies,FanDuel,h2h,UC Davis Aggies,4.5,
-baseball_ncaa,0cc71489404e39a19975943d15373a01,Cal Poly Mustangs vs UC Davis Aggies,BetMGM,h2h,Cal Poly Mustangs,1.2,
-baseball_ncaa,0cc71489404e39a19975943d15373a01,Cal Poly Mustangs vs UC Davis Aggies,BetMGM,h2h,UC Davis Aggies,4.0,
-baseball_ncaa,9dc643b5bf62977acd4ca27d662ad113,Louisville Cardinals vs Clemson Tigers,BetMGM,h2h,Clemson Tigers,1.17,
-baseball_ncaa,9dc643b5bf62977acd4ca27d662ad113,Louisville Cardinals vs Clemson Tigers,BetMGM,h2h,Louisville Cardinals,4.4,
-baseball_ncaa,9dc643b5bf62977acd4ca27d662ad113,Louisville Cardinals vs Clemson Tigers,Caesars,h2h,Clemson Tigers,1.22,
-baseball_ncaa,9dc643b5bf62977acd4ca27d662ad113,Louisville Cardinals vs Clemson Tigers,Caesars,h2h,Louisville Cardinals,4.4,
-baseball_ncaa,9dc643b5bf62977acd4ca27d662ad113,Louisville Cardinals vs Clemson Tigers,FanDuel,h2h,Clemson Tigers,1.15,
-baseball_ncaa,9dc643b5bf62977acd4ca27d662ad113,Louisville Cardinals vs Clemson Tigers,FanDuel,h2h,Louisville Cardinals,5.0,
-baseball_ncaa,9cc0f26f3936f2672899aacac43c9b5c,Loyola Marymount Lions vs Portland Pilots,FanDuel,h2h,Loyola Marymount Lions,1.82,
-baseball_ncaa,9cc0f26f3936f2672899aacac43c9b5c,Loyola Marymount Lions vs Portland Pilots,FanDuel,h2h,Portland Pilots,1.93,
-baseball_ncaa,9cc0f26f3936f2672899aacac43c9b5c,Loyola Marymount Lions vs Portland Pilots,BetMGM,h2h,Loyola Marymount Lions,1.8,
-baseball_ncaa,9cc0f26f3936f2672899aacac43c9b5c,Loyola Marymount Lions vs Portland Pilots,BetMGM,h2h,Portland Pilots,1.91,
-baseball_ncaa,76443166c87609ed45bd05a2330ee698,Oregon St Beavers vs Oregon Ducks,DraftKings,h2h,Oregon Ducks,2.8,
-baseball_ncaa,76443166c87609ed45bd05a2330ee698,Oregon St Beavers vs Oregon Ducks,DraftKings,h2h,Oregon St Beavers,1.42,
-baseball_ncaa,76443166c87609ed45bd05a2330ee698,Oregon St Beavers vs Oregon Ducks,BetMGM,h2h,Oregon Ducks,3.0,
-baseball_ncaa,76443166c87609ed45bd05a2330ee698,Oregon St Beavers vs Oregon Ducks,BetMGM,h2h,Oregon St Beavers,1.36,
-baseball_ncaa,76443166c87609ed45bd05a2330ee698,Oregon St Beavers vs Oregon Ducks,Caesars,h2h,Oregon Ducks,3.0,
-baseball_ncaa,76443166c87609ed45bd05a2330ee698,Oregon St Beavers vs Oregon Ducks,Caesars,h2h,Oregon St Beavers,1.4,
-baseball_ncaa,76443166c87609ed45bd05a2330ee698,Oregon St Beavers vs Oregon Ducks,FanDuel,h2h,Oregon Ducks,3.0,
-baseball_ncaa,76443166c87609ed45bd05a2330ee698,Oregon St Beavers vs Oregon Ducks,FanDuel,h2h,Oregon St Beavers,1.38,
+baseball_mlb,4f6a1311997482f3e7ab21eb4ad3d1fe,San Diego Padres vs Cincinnati Reds,FanDuel,h2h,Cincinnati Reds,1.96,
+baseball_mlb,4f6a1311997482f3e7ab21eb4ad3d1fe,San Diego Padres vs Cincinnati Reds,FanDuel,h2h,San Diego Padres,1.89,
+baseball_mlb,4f6a1311997482f3e7ab21eb4ad3d1fe,San Diego Padres vs Cincinnati Reds,Caesars,h2h,Cincinnati Reds,1.91,
+baseball_mlb,4f6a1311997482f3e7ab21eb4ad3d1fe,San Diego Padres vs Cincinnati Reds,Caesars,h2h,San Diego Padres,1.91,
+baseball_mlb,4f6a1311997482f3e7ab21eb4ad3d1fe,San Diego Padres vs Cincinnati Reds,BetMGM,h2h,Cincinnati Reds,1.91,
+baseball_mlb,4f6a1311997482f3e7ab21eb4ad3d1fe,San Diego Padres vs Cincinnati Reds,BetMGM,h2h,San Diego Padres,1.91,
+baseball_mlb,438c3e92abced075ef6d39296f95c1e4,Oakland Athletics vs Pittsburgh Pirates,DraftKings,h2h,Oakland Athletics,2.14,
+baseball_mlb,438c3e92abced075ef6d39296f95c1e4,Oakland Athletics vs Pittsburgh Pirates,DraftKings,h2h,Pittsburgh Pirates,1.74,
+baseball_mlb,438c3e92abced075ef6d39296f95c1e4,Oakland Athletics vs Pittsburgh Pirates,FanDuel,h2h,Oakland Athletics,2.16,
+baseball_mlb,438c3e92abced075ef6d39296f95c1e4,Oakland Athletics vs Pittsburgh Pirates,FanDuel,h2h,Pittsburgh Pirates,1.74,
+baseball_mlb,438c3e92abced075ef6d39296f95c1e4,Oakland Athletics vs Pittsburgh Pirates,Caesars,h2h,Oakland Athletics,2.15,
+baseball_mlb,438c3e92abced075ef6d39296f95c1e4,Oakland Athletics vs Pittsburgh Pirates,Caesars,h2h,Pittsburgh Pirates,1.74,
+baseball_mlb,438c3e92abced075ef6d39296f95c1e4,Oakland Athletics vs Pittsburgh Pirates,BetMGM,h2h,Oakland Athletics,2.1,
+baseball_mlb,438c3e92abced075ef6d39296f95c1e4,Oakland Athletics vs Pittsburgh Pirates,BetMGM,h2h,Pittsburgh Pirates,1.74,
+baseball_mlb,f945b4fc2a3ba9d6f7c4fccca9f1521a,Baltimore Orioles vs New York Yankees,DraftKings,totals,Over,1.85,9.0
+baseball_mlb,f945b4fc2a3ba9d6f7c4fccca9f1521a,Baltimore Orioles vs New York Yankees,DraftKings,totals,Under,1.98,9.0
+baseball_mlb,f945b4fc2a3ba9d6f7c4fccca9f1521a,Baltimore Orioles vs New York Yankees,FanDuel,totals,Over,1.91,9.0
+baseball_mlb,f945b4fc2a3ba9d6f7c4fccca9f1521a,Baltimore Orioles vs New York Yankees,FanDuel,totals,Under,1.91,9.0
+baseball_mlb,f945b4fc2a3ba9d6f7c4fccca9f1521a,Baltimore Orioles vs New York Yankees,Caesars,totals,Over,1.83,9.0
+baseball_mlb,f945b4fc2a3ba9d6f7c4fccca9f1521a,Baltimore Orioles vs New York Yankees,Caesars,totals,Under,2.0,9.0
+baseball_mlb,f945b4fc2a3ba9d6f7c4fccca9f1521a,Baltimore Orioles vs New York Yankees,BetMGM,totals,Over,1.83,9.0
+baseball_mlb,f945b4fc2a3ba9d6f7c4fccca9f1521a,Baltimore Orioles vs New York Yankees,BetMGM,totals,Under,2.0,9.0
+baseball_mlb,649ad82dac37a64e347cdbb34c7d73e7,Detroit Tigers vs St. Louis Cardinals,DraftKings,totals,Over,1.85,8.0
+baseball_mlb,649ad82dac37a64e347cdbb34c7d73e7,Detroit Tigers vs St. Louis Cardinals,DraftKings,totals,Under,1.98,8.0
+baseball_mlb,649ad82dac37a64e347cdbb34c7d73e7,Detroit Tigers vs St. Louis Cardinals,FanDuel,totals,Over,1.95,8.0
+baseball_mlb,649ad82dac37a64e347cdbb34c7d73e7,Detroit Tigers vs St. Louis Cardinals,FanDuel,totals,Under,1.87,8.0
+baseball_mlb,649ad82dac37a64e347cdbb34c7d73e7,Detroit Tigers vs St. Louis Cardinals,Caesars,totals,Over,1.95,8.5
+baseball_mlb,649ad82dac37a64e347cdbb34c7d73e7,Detroit Tigers vs St. Louis Cardinals,Caesars,totals,Under,1.87,8.5
+baseball_mlb,649ad82dac37a64e347cdbb34c7d73e7,Detroit Tigers vs St. Louis Cardinals,BetMGM,totals,Over,1.95,8.5
+baseball_mlb,649ad82dac37a64e347cdbb34c7d73e7,Detroit Tigers vs St. Louis Cardinals,BetMGM,totals,Under,1.8,8.5
+baseball_mlb,3e0dfd7b457d213c20286ff918a63ec6,Miami Marlins vs Washington Nationals,DraftKings,totals,Over,1.98,8.5
+baseball_mlb,3e0dfd7b457d213c20286ff918a63ec6,Miami Marlins vs Washington Nationals,DraftKings,totals,Under,1.85,8.5
+baseball_mlb,3e0dfd7b457d213c20286ff918a63ec6,Miami Marlins vs Washington Nationals,FanDuel,totals,Over,1.91,8.0
+baseball_mlb,3e0dfd7b457d213c20286ff918a63ec6,Miami Marlins vs Washington Nationals,FanDuel,totals,Under,1.91,8.0
+baseball_mlb,3e0dfd7b457d213c20286ff918a63ec6,Miami Marlins vs Washington Nationals,Caesars,totals,Over,2.0,8.5
+baseball_mlb,3e0dfd7b457d213c20286ff918a63ec6,Miami Marlins vs Washington Nationals,Caesars,totals,Under,1.83,8.5
+baseball_mlb,3e0dfd7b457d213c20286ff918a63ec6,Miami Marlins vs Washington Nationals,BetMGM,totals,Over,1.8,8.0
+baseball_mlb,3e0dfd7b457d213c20286ff918a63ec6,Miami Marlins vs Washington Nationals,BetMGM,totals,Under,1.95,8.0
+baseball_mlb,dd9fbb5f84720d21755f3fa543fafa7c,Toronto Blue Jays vs Kansas City Royals,DraftKings,totals,Over,1.83,8.5
+baseball_mlb,dd9fbb5f84720d21755f3fa543fafa7c,Toronto Blue Jays vs Kansas City Royals,DraftKings,totals,Under,2.0,8.5
+baseball_mlb,dd9fbb5f84720d21755f3fa543fafa7c,Toronto Blue Jays vs Kansas City Royals,FanDuel,totals,Over,1.87,8.5
+baseball_mlb,dd9fbb5f84720d21755f3fa543fafa7c,Toronto Blue Jays vs Kansas City Royals,FanDuel,totals,Under,1.95,8.5
+baseball_mlb,dd9fbb5f84720d21755f3fa543fafa7c,Toronto Blue Jays vs Kansas City Royals,Caesars,totals,Over,2.05,9.0
+baseball_mlb,dd9fbb5f84720d21755f3fa543fafa7c,Toronto Blue Jays vs Kansas City Royals,Caesars,totals,Under,1.8,9.0
+baseball_mlb,dd9fbb5f84720d21755f3fa543fafa7c,Toronto Blue Jays vs Kansas City Royals,BetMGM,totals,Over,1.83,8.5
+baseball_mlb,dd9fbb5f84720d21755f3fa543fafa7c,Toronto Blue Jays vs Kansas City Royals,BetMGM,totals,Under,2.0,8.5
+baseball_mlb,5e5871f137cdb33bf0798bbc1f67d5bc,Chicago White Sox vs Minnesota Twins,DraftKings,totals,Over,1.95,7.5
+baseball_mlb,5e5871f137cdb33bf0798bbc1f67d5bc,Chicago White Sox vs Minnesota Twins,DraftKings,totals,Under,1.87,7.5
+baseball_mlb,5e5871f137cdb33bf0798bbc1f67d5bc,Chicago White Sox vs Minnesota Twins,FanDuel,totals,Over,1.91,7.5
+baseball_mlb,5e5871f137cdb33bf0798bbc1f67d5bc,Chicago White Sox vs Minnesota Twins,FanDuel,totals,Under,1.91,7.5
+baseball_mlb,5e5871f137cdb33bf0798bbc1f67d5bc,Chicago White Sox vs Minnesota Twins,Caesars,totals,Over,1.8,7.0
+baseball_mlb,5e5871f137cdb33bf0798bbc1f67d5bc,Chicago White Sox vs Minnesota Twins,Caesars,totals,Under,2.05,7.0
+baseball_mlb,5e5871f137cdb33bf0798bbc1f67d5bc,Chicago White Sox vs Minnesota Twins,BetMGM,totals,Over,2.0,7.5
+baseball_mlb,5e5871f137cdb33bf0798bbc1f67d5bc,Chicago White Sox vs Minnesota Twins,BetMGM,totals,Under,1.77,7.5
+baseball_mlb,e1d2fa3966c211146fb82a520214a33f,Milwaukee Brewers vs Tampa Bay Rays,DraftKings,totals,Over,1.91,8.5
+baseball_mlb,e1d2fa3966c211146fb82a520214a33f,Milwaukee Brewers vs Tampa Bay Rays,DraftKings,totals,Under,1.91,8.5
+baseball_mlb,e1d2fa3966c211146fb82a520214a33f,Milwaukee Brewers vs Tampa Bay Rays,FanDuel,totals,Over,1.98,8.5
+baseball_mlb,e1d2fa3966c211146fb82a520214a33f,Milwaukee Brewers vs Tampa Bay Rays,FanDuel,totals,Under,1.83,8.5
+baseball_mlb,e1d2fa3966c211146fb82a520214a33f,Milwaukee Brewers vs Tampa Bay Rays,Caesars,totals,Over,1.87,8.5
+baseball_mlb,e1d2fa3966c211146fb82a520214a33f,Milwaukee Brewers vs Tampa Bay Rays,Caesars,totals,Under,1.95,8.5
+baseball_mlb,e1d2fa3966c211146fb82a520214a33f,Milwaukee Brewers vs Tampa Bay Rays,BetMGM,totals,Over,1.87,8.5
+baseball_mlb,e1d2fa3966c211146fb82a520214a33f,Milwaukee Brewers vs Tampa Bay Rays,BetMGM,totals,Under,1.95,8.5
+baseball_mlb,57d42400ea5a362a2e96758bae65ae13,Los Angeles Angels vs Philadelphia Phillies,DraftKings,totals,Over,2.0,9.0
+baseball_mlb,57d42400ea5a362a2e96758bae65ae13,Los Angeles Angels vs Philadelphia Phillies,DraftKings,totals,Under,1.83,9.0
+baseball_mlb,57d42400ea5a362a2e96758bae65ae13,Los Angeles Angels vs Philadelphia Phillies,FanDuel,totals,Over,1.91,9.0
+baseball_mlb,57d42400ea5a362a2e96758bae65ae13,Los Angeles Angels vs Philadelphia Phillies,FanDuel,totals,Under,1.91,9.0
+baseball_mlb,57d42400ea5a362a2e96758bae65ae13,Los Angeles Angels vs Philadelphia Phillies,Caesars,totals,Over,1.8,8.5
+baseball_mlb,57d42400ea5a362a2e96758bae65ae13,Los Angeles Angels vs Philadelphia Phillies,Caesars,totals,Under,2.05,8.5
+baseball_mlb,57d42400ea5a362a2e96758bae65ae13,Los Angeles Angels vs Philadelphia Phillies,BetMGM,totals,Over,2.0,9.0
+baseball_mlb,57d42400ea5a362a2e96758bae65ae13,Los Angeles Angels vs Philadelphia Phillies,BetMGM,totals,Under,1.83,9.0
+baseball_mlb,8307afe26210b8f7398d9a94e767904a,Arizona Diamondbacks vs Los Angeles Dodgers,DraftKings,totals,Over,1.95,10.0
+baseball_mlb,8307afe26210b8f7398d9a94e767904a,Arizona Diamondbacks vs Los Angeles Dodgers,DraftKings,totals,Under,1.87,10.0
+baseball_mlb,8307afe26210b8f7398d9a94e767904a,Arizona Diamondbacks vs Los Angeles Dodgers,FanDuel,totals,Over,2.0,10.0
+baseball_mlb,8307afe26210b8f7398d9a94e767904a,Arizona Diamondbacks vs Los Angeles Dodgers,FanDuel,totals,Under,1.82,10.0
+baseball_mlb,8307afe26210b8f7398d9a94e767904a,Arizona Diamondbacks vs Los Angeles Dodgers,Caesars,totals,Over,1.95,10.0
+baseball_mlb,8307afe26210b8f7398d9a94e767904a,Arizona Diamondbacks vs Los Angeles Dodgers,Caesars,totals,Under,1.87,10.0
+baseball_mlb,8307afe26210b8f7398d9a94e767904a,Arizona Diamondbacks vs Los Angeles Dodgers,BetMGM,totals,Over,1.95,10.0
+baseball_mlb,8307afe26210b8f7398d9a94e767904a,Arizona Diamondbacks vs Los Angeles Dodgers,BetMGM,totals,Under,1.87,10.0
+baseball_mlb,a927c93ad18150e8e2ac071a11810087,Seattle Mariners vs Atlanta Braves,DraftKings,totals,Over,1.95,7.5
+baseball_mlb,a927c93ad18150e8e2ac071a11810087,Seattle Mariners vs Atlanta Braves,DraftKings,totals,Under,1.87,7.5
+baseball_mlb,a927c93ad18150e8e2ac071a11810087,Seattle Mariners vs Atlanta Braves,FanDuel,totals,Over,1.95,7.5
+baseball_mlb,a927c93ad18150e8e2ac071a11810087,Seattle Mariners vs Atlanta Braves,FanDuel,totals,Under,1.87,7.5
+baseball_mlb,a927c93ad18150e8e2ac071a11810087,Seattle Mariners vs Atlanta Braves,Caesars,totals,Over,2.0,7.5
+baseball_mlb,a927c93ad18150e8e2ac071a11810087,Seattle Mariners vs Atlanta Braves,Caesars,totals,Under,1.83,7.5
+baseball_mlb,a927c93ad18150e8e2ac071a11810087,Seattle Mariners vs Atlanta Braves,BetMGM,totals,Over,2.0,7.5
+baseball_mlb,a927c93ad18150e8e2ac071a11810087,Seattle Mariners vs Atlanta Braves,BetMGM,totals,Under,1.83,7.5
+baseball_mlb,4f6a1311997482f3e7ab21eb4ad3d1fe,San Diego Padres vs Cincinnati Reds,DraftKings,totals,Over,1.93,8.0
+baseball_mlb,4f6a1311997482f3e7ab21eb4ad3d1fe,San Diego Padres vs Cincinnati Reds,DraftKings,totals,Under,1.89,8.0
+baseball_mlb,4f6a1311997482f3e7ab21eb4ad3d1fe,San Diego Padres vs Cincinnati Reds,FanDuel,totals,Over,1.82,7.5
+baseball_mlb,4f6a1311997482f3e7ab21eb4ad3d1fe,San Diego Padres vs Cincinnati Reds,FanDuel,totals,Under,2.0,7.5
+baseball_mlb,4f6a1311997482f3e7ab21eb4ad3d1fe,San Diego Padres vs Cincinnati Reds,Caesars,totals,Over,1.91,8.0
+baseball_mlb,4f6a1311997482f3e7ab21eb4ad3d1fe,San Diego Padres vs Cincinnati Reds,Caesars,totals,Under,1.91,8.0
+baseball_mlb,4f6a1311997482f3e7ab21eb4ad3d1fe,San Diego Padres vs Cincinnati Reds,BetMGM,totals,Over,1.91,8.0
+baseball_mlb,4f6a1311997482f3e7ab21eb4ad3d1fe,San Diego Padres vs Cincinnati Reds,BetMGM,totals,Under,1.91,8.0
+baseball_mlb,438c3e92abced075ef6d39296f95c1e4,Oakland Athletics vs Pittsburgh Pirates,DraftKings,totals,Over,1.87,8.0
+baseball_mlb,438c3e92abced075ef6d39296f95c1e4,Oakland Athletics vs Pittsburgh Pirates,DraftKings,totals,Under,1.95,8.0
+baseball_mlb,438c3e92abced075ef6d39296f95c1e4,Oakland Athletics vs Pittsburgh Pirates,FanDuel,totals,Over,1.91,8.0
+baseball_mlb,438c3e92abced075ef6d39296f95c1e4,Oakland Athletics vs Pittsburgh Pirates,FanDuel,totals,Under,1.91,8.0
+baseball_mlb,438c3e92abced075ef6d39296f95c1e4,Oakland Athletics vs Pittsburgh Pirates,Caesars,totals,Over,1.87,8.0
+baseball_mlb,438c3e92abced075ef6d39296f95c1e4,Oakland Athletics vs Pittsburgh Pirates,Caesars,totals,Under,1.95,8.0
+baseball_mlb,438c3e92abced075ef6d39296f95c1e4,Oakland Athletics vs Pittsburgh Pirates,BetMGM,totals,Over,1.87,8.0
+baseball_mlb,438c3e92abced075ef6d39296f95c1e4,Oakland Athletics vs Pittsburgh Pirates,BetMGM,totals,Under,1.95,8.0
+baseball_mlb,f945b4fc2a3ba9d6f7c4fccca9f1521a,Baltimore Orioles vs New York Yankees,DraftKings,spreads,Baltimore Orioles,2.5,-1.5
+baseball_mlb,f945b4fc2a3ba9d6f7c4fccca9f1521a,Baltimore Orioles vs New York Yankees,DraftKings,spreads,New York Yankees,1.56,1.5
+baseball_mlb,f945b4fc2a3ba9d6f7c4fccca9f1521a,Baltimore Orioles vs New York Yankees,FanDuel,spreads,Baltimore Orioles,2.52,-1.5
+baseball_mlb,f945b4fc2a3ba9d6f7c4fccca9f1521a,Baltimore Orioles vs New York Yankees,FanDuel,spreads,New York Yankees,1.54,1.5
+baseball_mlb,f945b4fc2a3ba9d6f7c4fccca9f1521a,Baltimore Orioles vs New York Yankees,Caesars,spreads,Baltimore Orioles,2.5,-1.5
+baseball_mlb,f945b4fc2a3ba9d6f7c4fccca9f1521a,Baltimore Orioles vs New York Yankees,Caesars,spreads,New York Yankees,1.56,1.5
+baseball_mlb,f945b4fc2a3ba9d6f7c4fccca9f1521a,Baltimore Orioles vs New York Yankees,BetMGM,spreads,Baltimore Orioles,2.4,-1.5
+baseball_mlb,f945b4fc2a3ba9d6f7c4fccca9f1521a,Baltimore Orioles vs New York Yankees,BetMGM,spreads,New York Yankees,1.61,1.5
+baseball_mlb,649ad82dac37a64e347cdbb34c7d73e7,Detroit Tigers vs St. Louis Cardinals,DraftKings,spreads,Detroit Tigers,1.56,1.5
+baseball_mlb,649ad82dac37a64e347cdbb34c7d73e7,Detroit Tigers vs St. Louis Cardinals,DraftKings,spreads,St. Louis Cardinals,2.5,-1.5
+baseball_mlb,649ad82dac37a64e347cdbb34c7d73e7,Detroit Tigers vs St. Louis Cardinals,FanDuel,spreads,Detroit Tigers,1.59,1.5
+baseball_mlb,649ad82dac37a64e347cdbb34c7d73e7,Detroit Tigers vs St. Louis Cardinals,FanDuel,spreads,St. Louis Cardinals,2.4,-1.5
+baseball_mlb,649ad82dac37a64e347cdbb34c7d73e7,Detroit Tigers vs St. Louis Cardinals,Caesars,spreads,Detroit Tigers,1.56,1.5
+baseball_mlb,649ad82dac37a64e347cdbb34c7d73e7,Detroit Tigers vs St. Louis Cardinals,Caesars,spreads,St. Louis Cardinals,2.5,-1.5
+baseball_mlb,649ad82dac37a64e347cdbb34c7d73e7,Detroit Tigers vs St. Louis Cardinals,BetMGM,spreads,Detroit Tigers,1.54,1.5
+baseball_mlb,649ad82dac37a64e347cdbb34c7d73e7,Detroit Tigers vs St. Louis Cardinals,BetMGM,spreads,St. Louis Cardinals,2.5,-1.5
+baseball_mlb,3e0dfd7b457d213c20286ff918a63ec6,Miami Marlins vs Washington Nationals,DraftKings,spreads,Miami Marlins,2.36,-1.5
+baseball_mlb,3e0dfd7b457d213c20286ff918a63ec6,Miami Marlins vs Washington Nationals,DraftKings,spreads,Washington Nationals,1.62,1.5
+baseball_mlb,3e0dfd7b457d213c20286ff918a63ec6,Miami Marlins vs Washington Nationals,FanDuel,spreads,Miami Marlins,2.36,-1.5
+baseball_mlb,3e0dfd7b457d213c20286ff918a63ec6,Miami Marlins vs Washington Nationals,FanDuel,spreads,Washington Nationals,1.61,1.5
+baseball_mlb,3e0dfd7b457d213c20286ff918a63ec6,Miami Marlins vs Washington Nationals,Caesars,spreads,Miami Marlins,2.35,-1.5
+baseball_mlb,3e0dfd7b457d213c20286ff918a63ec6,Miami Marlins vs Washington Nationals,Caesars,spreads,Washington Nationals,1.62,1.5
+baseball_mlb,3e0dfd7b457d213c20286ff918a63ec6,Miami Marlins vs Washington Nationals,BetMGM,spreads,Miami Marlins,2.35,-1.5
+baseball_mlb,3e0dfd7b457d213c20286ff918a63ec6,Miami Marlins vs Washington Nationals,BetMGM,spreads,Washington Nationals,1.62,1.5
+baseball_mlb,dd9fbb5f84720d21755f3fa543fafa7c,Toronto Blue Jays vs Kansas City Royals,DraftKings,spreads,Kansas City Royals,1.6,1.5
+baseball_mlb,dd9fbb5f84720d21755f3fa543fafa7c,Toronto Blue Jays vs Kansas City Royals,DraftKings,spreads,Toronto Blue Jays,2.4,-1.5
+baseball_mlb,dd9fbb5f84720d21755f3fa543fafa7c,Toronto Blue Jays vs Kansas City Royals,FanDuel,spreads,Kansas City Royals,1.58,1.5
+baseball_mlb,dd9fbb5f84720d21755f3fa543fafa7c,Toronto Blue Jays vs Kansas City Royals,FanDuel,spreads,Toronto Blue Jays,2.42,-1.5
+baseball_mlb,dd9fbb5f84720d21755f3fa543fafa7c,Toronto Blue Jays vs Kansas City Royals,Caesars,spreads,Kansas City Royals,1.61,1.5
+baseball_mlb,dd9fbb5f84720d21755f3fa543fafa7c,Toronto Blue Jays vs Kansas City Royals,Caesars,spreads,Toronto Blue Jays,2.4,-1.5
+baseball_mlb,dd9fbb5f84720d21755f3fa543fafa7c,Toronto Blue Jays vs Kansas City Royals,BetMGM,spreads,Kansas City Royals,1.61,1.5
+baseball_mlb,dd9fbb5f84720d21755f3fa543fafa7c,Toronto Blue Jays vs Kansas City Royals,BetMGM,spreads,Toronto Blue Jays,2.4,-1.5
+baseball_mlb,5e5871f137cdb33bf0798bbc1f67d5bc,Chicago White Sox vs Minnesota Twins,DraftKings,spreads,Chicago White Sox,1.8,1.5
+baseball_mlb,5e5871f137cdb33bf0798bbc1f67d5bc,Chicago White Sox vs Minnesota Twins,DraftKings,spreads,Minnesota Twins,2.05,-1.5
+baseball_mlb,5e5871f137cdb33bf0798bbc1f67d5bc,Chicago White Sox vs Minnesota Twins,FanDuel,spreads,Chicago White Sox,1.77,1.5
+baseball_mlb,5e5871f137cdb33bf0798bbc1f67d5bc,Chicago White Sox vs Minnesota Twins,FanDuel,spreads,Minnesota Twins,2.08,-1.5
+baseball_mlb,5e5871f137cdb33bf0798bbc1f67d5bc,Chicago White Sox vs Minnesota Twins,Caesars,spreads,Chicago White Sox,1.8,1.5
+baseball_mlb,5e5871f137cdb33bf0798bbc1f67d5bc,Chicago White Sox vs Minnesota Twins,Caesars,spreads,Minnesota Twins,2.05,-1.5
+baseball_mlb,5e5871f137cdb33bf0798bbc1f67d5bc,Chicago White Sox vs Minnesota Twins,BetMGM,spreads,Chicago White Sox,1.8,1.5
+baseball_mlb,5e5871f137cdb33bf0798bbc1f67d5bc,Chicago White Sox vs Minnesota Twins,BetMGM,spreads,Minnesota Twins,2.05,-1.5
+baseball_mlb,e1d2fa3966c211146fb82a520214a33f,Milwaukee Brewers vs Tampa Bay Rays,DraftKings,spreads,Milwaukee Brewers,1.54,1.5
+baseball_mlb,e1d2fa3966c211146fb82a520214a33f,Milwaukee Brewers vs Tampa Bay Rays,DraftKings,spreads,Tampa Bay Rays,2.54,-1.5
+baseball_mlb,e1d2fa3966c211146fb82a520214a33f,Milwaukee Brewers vs Tampa Bay Rays,FanDuel,spreads,Milwaukee Brewers,1.55,1.5
+baseball_mlb,e1d2fa3966c211146fb82a520214a33f,Milwaukee Brewers vs Tampa Bay Rays,FanDuel,spreads,Tampa Bay Rays,2.5,-1.5
+baseball_mlb,e1d2fa3966c211146fb82a520214a33f,Milwaukee Brewers vs Tampa Bay Rays,Caesars,spreads,Milwaukee Brewers,2.75,-1.5
+baseball_mlb,e1d2fa3966c211146fb82a520214a33f,Milwaukee Brewers vs Tampa Bay Rays,Caesars,spreads,Tampa Bay Rays,1.48,1.5
+baseball_mlb,e1d2fa3966c211146fb82a520214a33f,Milwaukee Brewers vs Tampa Bay Rays,BetMGM,spreads,Milwaukee Brewers,1.53,1.5
+baseball_mlb,e1d2fa3966c211146fb82a520214a33f,Milwaukee Brewers vs Tampa Bay Rays,BetMGM,spreads,Tampa Bay Rays,2.55,-1.5
+baseball_mlb,57d42400ea5a362a2e96758bae65ae13,Los Angeles Angels vs Philadelphia Phillies,DraftKings,spreads,Los Angeles Angels,1.74,1.5
+baseball_mlb,57d42400ea5a362a2e96758bae65ae13,Los Angeles Angels vs Philadelphia Phillies,DraftKings,spreads,Philadelphia Phillies,2.14,-1.5
+baseball_mlb,57d42400ea5a362a2e96758bae65ae13,Los Angeles Angels vs Philadelphia Phillies,FanDuel,spreads,Los Angeles Angels,1.7,1.5
+baseball_mlb,57d42400ea5a362a2e96758bae65ae13,Los Angeles Angels vs Philadelphia Phillies,FanDuel,spreads,Philadelphia Phillies,2.18,-1.5
+baseball_mlb,57d42400ea5a362a2e96758bae65ae13,Los Angeles Angels vs Philadelphia Phillies,Caesars,spreads,Los Angeles Angels,1.74,1.5
+baseball_mlb,57d42400ea5a362a2e96758bae65ae13,Los Angeles Angels vs Philadelphia Phillies,Caesars,spreads,Philadelphia Phillies,2.15,-1.5
+baseball_mlb,57d42400ea5a362a2e96758bae65ae13,Los Angeles Angels vs Philadelphia Phillies,BetMGM,spreads,Los Angeles Angels,1.74,1.5
+baseball_mlb,57d42400ea5a362a2e96758bae65ae13,Los Angeles Angels vs Philadelphia Phillies,BetMGM,spreads,Philadelphia Phillies,2.1,-1.5
+baseball_mlb,8307afe26210b8f7398d9a94e767904a,Arizona Diamondbacks vs Los Angeles Dodgers,DraftKings,spreads,Arizona Diamondbacks,1.8,1.5
+baseball_mlb,8307afe26210b8f7398d9a94e767904a,Arizona Diamondbacks vs Los Angeles Dodgers,DraftKings,spreads,Los Angeles Dodgers,2.05,-1.5
+baseball_mlb,8307afe26210b8f7398d9a94e767904a,Arizona Diamondbacks vs Los Angeles Dodgers,FanDuel,spreads,Arizona Diamondbacks,1.79,1.5
+baseball_mlb,8307afe26210b8f7398d9a94e767904a,Arizona Diamondbacks vs Los Angeles Dodgers,FanDuel,spreads,Los Angeles Dodgers,2.05,-1.5
+baseball_mlb,8307afe26210b8f7398d9a94e767904a,Arizona Diamondbacks vs Los Angeles Dodgers,Caesars,spreads,Arizona Diamondbacks,1.8,1.5
+baseball_mlb,8307afe26210b8f7398d9a94e767904a,Arizona Diamondbacks vs Los Angeles Dodgers,Caesars,spreads,Los Angeles Dodgers,2.05,-1.5
+baseball_mlb,8307afe26210b8f7398d9a94e767904a,Arizona Diamondbacks vs Los Angeles Dodgers,BetMGM,spreads,Arizona Diamondbacks,1.8,1.5
+baseball_mlb,8307afe26210b8f7398d9a94e767904a,Arizona Diamondbacks vs Los Angeles Dodgers,BetMGM,spreads,Los Angeles Dodgers,2.05,-1.5
+baseball_mlb,a927c93ad18150e8e2ac071a11810087,Seattle Mariners vs Atlanta Braves,DraftKings,spreads,Atlanta Braves,2.14,-1.5
+baseball_mlb,a927c93ad18150e8e2ac071a11810087,Seattle Mariners vs Atlanta Braves,DraftKings,spreads,Seattle Mariners,1.74,1.5
+baseball_mlb,a927c93ad18150e8e2ac071a11810087,Seattle Mariners vs Atlanta Braves,FanDuel,spreads,Atlanta Braves,2.14,-1.5
+baseball_mlb,a927c93ad18150e8e2ac071a11810087,Seattle Mariners vs Atlanta Braves,FanDuel,spreads,Seattle Mariners,1.73,1.5
+baseball_mlb,a927c93ad18150e8e2ac071a11810087,Seattle Mariners vs Atlanta Braves,Caesars,spreads,Atlanta Braves,2.15,-1.5
+baseball_mlb,a927c93ad18150e8e2ac071a11810087,Seattle Mariners vs Atlanta Braves,Caesars,spreads,Seattle Mariners,1.74,1.5
+baseball_mlb,a927c93ad18150e8e2ac071a11810087,Seattle Mariners vs Atlanta Braves,BetMGM,spreads,Atlanta Braves,2.15,-1.5
+baseball_mlb,a927c93ad18150e8e2ac071a11810087,Seattle Mariners vs Atlanta Braves,BetMGM,spreads,Seattle Mariners,1.71,1.5
+baseball_mlb,4f6a1311997482f3e7ab21eb4ad3d1fe,San Diego Padres vs Cincinnati Reds,DraftKings,spreads,Cincinnati Reds,2.64,-1.5
+baseball_mlb,4f6a1311997482f3e7ab21eb4ad3d1fe,San Diego Padres vs Cincinnati Reds,DraftKings,spreads,San Diego Padres,1.51,1.5
+baseball_mlb,4f6a1311997482f3e7ab21eb4ad3d1fe,San Diego Padres vs Cincinnati Reds,FanDuel,spreads,Cincinnati Reds,2.6,-1.5
+baseball_mlb,4f6a1311997482f3e7ab21eb4ad3d1fe,San Diego Padres vs Cincinnati Reds,FanDuel,spreads,San Diego Padres,1.52,1.5
+baseball_mlb,4f6a1311997482f3e7ab21eb4ad3d1fe,San Diego Padres vs Cincinnati Reds,Caesars,spreads,Cincinnati Reds,2.58,-1.5
+baseball_mlb,4f6a1311997482f3e7ab21eb4ad3d1fe,San Diego Padres vs Cincinnati Reds,Caesars,spreads,San Diego Padres,1.53,1.5
+baseball_mlb,4f6a1311997482f3e7ab21eb4ad3d1fe,San Diego Padres vs Cincinnati Reds,BetMGM,spreads,Cincinnati Reds,2.55,-1.5
+baseball_mlb,4f6a1311997482f3e7ab21eb4ad3d1fe,San Diego Padres vs Cincinnati Reds,BetMGM,spreads,San Diego Padres,1.53,1.5
+baseball_mlb,438c3e92abced075ef6d39296f95c1e4,Oakland Athletics vs Pittsburgh Pirates,DraftKings,spreads,Oakland Athletics,1.65,1.5
+baseball_mlb,438c3e92abced075ef6d39296f95c1e4,Oakland Athletics vs Pittsburgh Pirates,DraftKings,spreads,Pittsburgh Pirates,2.3,-1.5
+baseball_mlb,438c3e92abced075ef6d39296f95c1e4,Oakland Athletics vs Pittsburgh Pirates,FanDuel,spreads,Oakland Athletics,1.67,1.5
+baseball_mlb,438c3e92abced075ef6d39296f95c1e4,Oakland Athletics vs Pittsburgh Pirates,FanDuel,spreads,Pittsburgh Pirates,2.25,-1.5
+baseball_mlb,438c3e92abced075ef6d39296f95c1e4,Oakland Athletics vs Pittsburgh Pirates,Caesars,spreads,Oakland Athletics,1.65,1.5
+baseball_mlb,438c3e92abced075ef6d39296f95c1e4,Oakland Athletics vs Pittsburgh Pirates,Caesars,spreads,Pittsburgh Pirates,2.3,-1.5
+baseball_mlb,438c3e92abced075ef6d39296f95c1e4,Oakland Athletics vs Pittsburgh Pirates,BetMGM,spreads,Oakland Athletics,1.65,1.5
+baseball_mlb,438c3e92abced075ef6d39296f95c1e4,Oakland Athletics vs Pittsburgh Pirates,BetMGM,spreads,Pittsburgh Pirates,2.25,-1.5
+baseball_npb,5783f6bcc1a57f46a47056764867775e,Fukuoka SoftBank Hawks vs Saitama Seibu Lions,FanDuel,h2h,Fukuoka SoftBank Hawks,1.55,
+baseball_npb,5783f6bcc1a57f46a47056764867775e,Fukuoka SoftBank Hawks vs Saitama Seibu Lions,FanDuel,h2h,Saitama Seibu Lions,2.42,
+baseball_npb,5783f6bcc1a57f46a47056764867775e,Fukuoka SoftBank Hawks vs Saitama Seibu Lions,Caesars,h2h,Fukuoka SoftBank Hawks,1.53,
+baseball_npb,5783f6bcc1a57f46a47056764867775e,Fukuoka SoftBank Hawks vs Saitama Seibu Lions,Caesars,h2h,Saitama Seibu Lions,2.4,
+baseball_npb,5783f6bcc1a57f46a47056764867775e,Fukuoka SoftBank Hawks vs Saitama Seibu Lions,BetMGM,h2h,Fukuoka SoftBank Hawks,1.62,
+baseball_npb,5783f6bcc1a57f46a47056764867775e,Fukuoka SoftBank Hawks vs Saitama Seibu Lions,BetMGM,h2h,Saitama Seibu Lions,2.35,
+baseball_npb,b4023339018ff6f181268098bd5fe20e,Hokkaido Nippon-Ham Fighters vs Orix Buffaloes,Caesars,h2h,Hokkaido Nippon-Ham Fighters,1.71,
+baseball_npb,b4023339018ff6f181268098bd5fe20e,Hokkaido Nippon-Ham Fighters vs Orix Buffaloes,Caesars,h2h,Orix Buffaloes,2.1,
+baseball_npb,b4023339018ff6f181268098bd5fe20e,Hokkaido Nippon-Ham Fighters vs Orix Buffaloes,FanDuel,h2h,Hokkaido Nippon-Ham Fighters,1.74,
+baseball_npb,b4023339018ff6f181268098bd5fe20e,Hokkaido Nippon-Ham Fighters vs Orix Buffaloes,FanDuel,h2h,Orix Buffaloes,2.08,
+baseball_npb,b4023339018ff6f181268098bd5fe20e,Hokkaido Nippon-Ham Fighters vs Orix Buffaloes,BetMGM,h2h,Hokkaido Nippon-Ham Fighters,1.74,
+baseball_npb,b4023339018ff6f181268098bd5fe20e,Hokkaido Nippon-Ham Fighters vs Orix Buffaloes,BetMGM,h2h,Orix Buffaloes,2.1,
+baseball_npb,8f5263faef7372c5596a27ed26d7f8e9,Chiba Lotte Marines vs Tohoku Rakuten Golden Eagles,BetMGM,h2h,Chiba Lotte Marines,1.83,
+baseball_npb,8f5263faef7372c5596a27ed26d7f8e9,Chiba Lotte Marines vs Tohoku Rakuten Golden Eagles,BetMGM,h2h,Tohoku Rakuten Golden Eagles,2.0,
+baseball_npb,8f5263faef7372c5596a27ed26d7f8e9,Chiba Lotte Marines vs Tohoku Rakuten Golden Eagles,FanDuel,h2h,Chiba Lotte Marines,1.78,
+baseball_npb,8f5263faef7372c5596a27ed26d7f8e9,Chiba Lotte Marines vs Tohoku Rakuten Golden Eagles,FanDuel,h2h,Tohoku Rakuten Golden Eagles,2.0,
+baseball_npb,8f5263faef7372c5596a27ed26d7f8e9,Chiba Lotte Marines vs Tohoku Rakuten Golden Eagles,Caesars,h2h,Chiba Lotte Marines,1.77,
+baseball_npb,8f5263faef7372c5596a27ed26d7f8e9,Chiba Lotte Marines vs Tohoku Rakuten Golden Eagles,Caesars,h2h,Tohoku Rakuten Golden Eagles,2.0,
+baseball_npb,8da567451aea21d985a099237dc55f2b,Chunichi Dragons vs Yokohama DeNA BayStars,FanDuel,h2h,Chunichi Dragons,1.68,
+baseball_npb,8da567451aea21d985a099237dc55f2b,Chunichi Dragons vs Yokohama DeNA BayStars,FanDuel,h2h,Yokohama DeNA BayStars,2.14,
+baseball_npb,8da567451aea21d985a099237dc55f2b,Chunichi Dragons vs Yokohama DeNA BayStars,BetMGM,h2h,Chunichi Dragons,1.69,
+baseball_npb,8da567451aea21d985a099237dc55f2b,Chunichi Dragons vs Yokohama DeNA BayStars,BetMGM,h2h,Yokohama DeNA BayStars,2.2,
+baseball_npb,8da567451aea21d985a099237dc55f2b,Chunichi Dragons vs Yokohama DeNA BayStars,Caesars,h2h,Chunichi Dragons,1.67,
+baseball_npb,8da567451aea21d985a099237dc55f2b,Chunichi Dragons vs Yokohama DeNA BayStars,Caesars,h2h,Yokohama DeNA BayStars,2.2,
+baseball_npb,d5f40e299d0ef5ca04089628230b63fb,Yomiuri Giants vs Tokyo Yakult Swallows,FanDuel,h2h,Tokyo Yakult Swallows,2.46,
+baseball_npb,d5f40e299d0ef5ca04089628230b63fb,Yomiuri Giants vs Tokyo Yakult Swallows,FanDuel,h2h,Yomiuri Giants,1.53,
+baseball_npb,d5f40e299d0ef5ca04089628230b63fb,Yomiuri Giants vs Tokyo Yakult Swallows,Caesars,h2h,Tokyo Yakult Swallows,2.6,
+baseball_npb,d5f40e299d0ef5ca04089628230b63fb,Yomiuri Giants vs Tokyo Yakult Swallows,Caesars,h2h,Yomiuri Giants,1.48,
+baseball_npb,d5f40e299d0ef5ca04089628230b63fb,Yomiuri Giants vs Tokyo Yakult Swallows,BetMGM,h2h,Tokyo Yakult Swallows,2.5,
+baseball_npb,d5f40e299d0ef5ca04089628230b63fb,Yomiuri Giants vs Tokyo Yakult Swallows,BetMGM,h2h,Yomiuri Giants,1.54,
+baseball_npb,5783f6bcc1a57f46a47056764867775e,Fukuoka SoftBank Hawks vs Saitama Seibu Lions,FanDuel,totals,Over,1.77,5.5
+baseball_npb,5783f6bcc1a57f46a47056764867775e,Fukuoka SoftBank Hawks vs Saitama Seibu Lions,FanDuel,totals,Under,2.1,5.5
+baseball_npb,5783f6bcc1a57f46a47056764867775e,Fukuoka SoftBank Hawks vs Saitama Seibu Lions,BetMGM,totals,Over,1.91,6.0
+baseball_npb,5783f6bcc1a57f46a47056764867775e,Fukuoka SoftBank Hawks vs Saitama Seibu Lions,BetMGM,totals,Under,1.91,6.0
+baseball_npb,b4023339018ff6f181268098bd5fe20e,Hokkaido Nippon-Ham Fighters vs Orix Buffaloes,FanDuel,totals,Over,2.0,6.5
+baseball_npb,b4023339018ff6f181268098bd5fe20e,Hokkaido Nippon-Ham Fighters vs Orix Buffaloes,FanDuel,totals,Under,1.83,6.5
+baseball_npb,b4023339018ff6f181268098bd5fe20e,Hokkaido Nippon-Ham Fighters vs Orix Buffaloes,BetMGM,totals,Over,1.95,6.5
+baseball_npb,b4023339018ff6f181268098bd5fe20e,Hokkaido Nippon-Ham Fighters vs Orix Buffaloes,BetMGM,totals,Under,1.87,6.5
+baseball_npb,8f5263faef7372c5596a27ed26d7f8e9,Chiba Lotte Marines vs Tohoku Rakuten Golden Eagles,BetMGM,totals,Over,1.91,7.0
+baseball_npb,8f5263faef7372c5596a27ed26d7f8e9,Chiba Lotte Marines vs Tohoku Rakuten Golden Eagles,BetMGM,totals,Under,1.91,7.0
+baseball_npb,8f5263faef7372c5596a27ed26d7f8e9,Chiba Lotte Marines vs Tohoku Rakuten Golden Eagles,FanDuel,totals,Over,1.74,6.5
+baseball_npb,8f5263faef7372c5596a27ed26d7f8e9,Chiba Lotte Marines vs Tohoku Rakuten Golden Eagles,FanDuel,totals,Under,2.15,6.5
+baseball_npb,8da567451aea21d985a099237dc55f2b,Chunichi Dragons vs Yokohama DeNA BayStars,FanDuel,totals,Over,1.83,5.5
+baseball_npb,8da567451aea21d985a099237dc55f2b,Chunichi Dragons vs Yokohama DeNA BayStars,FanDuel,totals,Under,2.0,5.5
+baseball_npb,8da567451aea21d985a099237dc55f2b,Chunichi Dragons vs Yokohama DeNA BayStars,BetMGM,totals,Over,1.95,6.0
+baseball_npb,8da567451aea21d985a099237dc55f2b,Chunichi Dragons vs Yokohama DeNA BayStars,BetMGM,totals,Under,1.87,6.0
+baseball_npb,d5f40e299d0ef5ca04089628230b63fb,Yomiuri Giants vs Tokyo Yakult Swallows,FanDuel,totals,Over,1.91,6.5
+baseball_npb,d5f40e299d0ef5ca04089628230b63fb,Yomiuri Giants vs Tokyo Yakult Swallows,FanDuel,totals,Under,1.91,6.5
+baseball_npb,d5f40e299d0ef5ca04089628230b63fb,Yomiuri Giants vs Tokyo Yakult Swallows,BetMGM,totals,Over,1.87,6.5
+baseball_npb,d5f40e299d0ef5ca04089628230b63fb,Yomiuri Giants vs Tokyo Yakult Swallows,BetMGM,totals,Under,1.95,6.5
+baseball_npb,5783f6bcc1a57f46a47056764867775e,Fukuoka SoftBank Hawks vs Saitama Seibu Lions,FanDuel,spreads,Fukuoka SoftBank Hawks,2.32,-1.5
+baseball_npb,5783f6bcc1a57f46a47056764867775e,Fukuoka SoftBank Hawks vs Saitama Seibu Lions,FanDuel,spreads,Saitama Seibu Lions,1.6,1.5
+baseball_npb,5783f6bcc1a57f46a47056764867775e,Fukuoka SoftBank Hawks vs Saitama Seibu Lions,BetMGM,spreads,Fukuoka SoftBank Hawks,2.15,-1.5
+baseball_npb,5783f6bcc1a57f46a47056764867775e,Fukuoka SoftBank Hawks vs Saitama Seibu Lions,BetMGM,spreads,Saitama Seibu Lions,1.69,1.5
+baseball_npb,b4023339018ff6f181268098bd5fe20e,Hokkaido Nippon-Ham Fighters vs Orix Buffaloes,FanDuel,spreads,Hokkaido Nippon-Ham Fighters,2.68,-1.5
+baseball_npb,b4023339018ff6f181268098bd5fe20e,Hokkaido Nippon-Ham Fighters vs Orix Buffaloes,FanDuel,spreads,Orix Buffaloes,1.45,1.5
+baseball_npb,b4023339018ff6f181268098bd5fe20e,Hokkaido Nippon-Ham Fighters vs Orix Buffaloes,BetMGM,spreads,Hokkaido Nippon-Ham Fighters,2.55,-1.5
+baseball_npb,b4023339018ff6f181268098bd5fe20e,Hokkaido Nippon-Ham Fighters vs Orix Buffaloes,BetMGM,spreads,Orix Buffaloes,1.53,1.5
+baseball_npb,8f5263faef7372c5596a27ed26d7f8e9,Chiba Lotte Marines vs Tohoku Rakuten Golden Eagles,BetMGM,spreads,Chiba Lotte Marines,2.65,-1.5
+baseball_npb,8f5263faef7372c5596a27ed26d7f8e9,Chiba Lotte Marines vs Tohoku Rakuten Golden Eagles,BetMGM,spreads,Tohoku Rakuten Golden Eagles,1.5,1.5
+baseball_npb,8f5263faef7372c5596a27ed26d7f8e9,Chiba Lotte Marines vs Tohoku Rakuten Golden Eagles,FanDuel,spreads,Chiba Lotte Marines,2.74,-1.5
+baseball_npb,8f5263faef7372c5596a27ed26d7f8e9,Chiba Lotte Marines vs Tohoku Rakuten Golden Eagles,FanDuel,spreads,Tohoku Rakuten Golden Eagles,1.44,1.5
+baseball_npb,8da567451aea21d985a099237dc55f2b,Chunichi Dragons vs Yokohama DeNA BayStars,FanDuel,spreads,Chunichi Dragons,2.64,-1.5
+baseball_npb,8da567451aea21d985a099237dc55f2b,Chunichi Dragons vs Yokohama DeNA BayStars,FanDuel,spreads,Yokohama DeNA BayStars,1.47,1.5
+baseball_npb,8da567451aea21d985a099237dc55f2b,Chunichi Dragons vs Yokohama DeNA BayStars,BetMGM,spreads,Chunichi Dragons,2.55,-1.5
+baseball_npb,8da567451aea21d985a099237dc55f2b,Chunichi Dragons vs Yokohama DeNA BayStars,BetMGM,spreads,Yokohama DeNA BayStars,1.53,1.5
+baseball_npb,d5f40e299d0ef5ca04089628230b63fb,Yomiuri Giants vs Tokyo Yakult Swallows,FanDuel,spreads,Tokyo Yakult Swallows,1.63,1.5
+baseball_npb,d5f40e299d0ef5ca04089628230b63fb,Yomiuri Giants vs Tokyo Yakult Swallows,FanDuel,spreads,Yomiuri Giants,2.24,-1.5
+baseball_npb,d5f40e299d0ef5ca04089628230b63fb,Yomiuri Giants vs Tokyo Yakult Swallows,BetMGM,spreads,Tokyo Yakult Swallows,1.65,1.5
+baseball_npb,d5f40e299d0ef5ca04089628230b63fb,Yomiuri Giants vs Tokyo Yakult Swallows,BetMGM,spreads,Yomiuri Giants,2.25,-1.5
+icehockey_nhl,cf58164dc8040ec471d59f78610f1b22,Los Angeles Kings vs Edmonton Oilers,FanDuel,h2h,Edmonton Oilers,1.59,
+icehockey_nhl,cf58164dc8040ec471d59f78610f1b22,Los Angeles Kings vs Edmonton Oilers,FanDuel,h2h,Los Angeles Kings,2.32,
+icehockey_nhl,cf58164dc8040ec471d59f78610f1b22,Los Angeles Kings vs Edmonton Oilers,DraftKings,h2h,Edmonton Oilers,1.6,
+icehockey_nhl,cf58164dc8040ec471d59f78610f1b22,Los Angeles Kings vs Edmonton Oilers,DraftKings,h2h,Los Angeles Kings,2.3,
+icehockey_nhl,cf58164dc8040ec471d59f78610f1b22,Los Angeles Kings vs Edmonton Oilers,BetMGM,h2h,Edmonton Oilers,1.67,
+icehockey_nhl,cf58164dc8040ec471d59f78610f1b22,Los Angeles Kings vs Edmonton Oilers,BetMGM,h2h,Los Angeles Kings,2.2,
+icehockey_nhl,cf58164dc8040ec471d59f78610f1b22,Los Angeles Kings vs Edmonton Oilers,Caesars,h2h,Edmonton Oilers,1.62,
+icehockey_nhl,cf58164dc8040ec471d59f78610f1b22,Los Angeles Kings vs Edmonton Oilers,Caesars,h2h,Los Angeles Kings,2.25,
+icehockey_nhl,6676d7c5997b4873974582313a45fb0a,Florida Panthers vs Tampa Bay Lightning,DraftKings,h2h,Florida Panthers,1.56,
+icehockey_nhl,6676d7c5997b4873974582313a45fb0a,Florida Panthers vs Tampa Bay Lightning,DraftKings,h2h,Tampa Bay Lightning,2.5,
+icehockey_nhl,6676d7c5997b4873974582313a45fb0a,Florida Panthers vs Tampa Bay Lightning,FanDuel,h2h,Florida Panthers,1.51,
+icehockey_nhl,6676d7c5997b4873974582313a45fb0a,Florida Panthers vs Tampa Bay Lightning,FanDuel,h2h,Tampa Bay Lightning,2.62,
+icehockey_nhl,6676d7c5997b4873974582313a45fb0a,Florida Panthers vs Tampa Bay Lightning,Caesars,h2h,Florida Panthers,1.53,
+icehockey_nhl,6676d7c5997b4873974582313a45fb0a,Florida Panthers vs Tampa Bay Lightning,Caesars,h2h,Tampa Bay Lightning,2.58,
+icehockey_nhl,6676d7c5997b4873974582313a45fb0a,Florida Panthers vs Tampa Bay Lightning,BetMGM,h2h,Florida Panthers,1.57,
+icehockey_nhl,6676d7c5997b4873974582313a45fb0a,Florida Panthers vs Tampa Bay Lightning,BetMGM,h2h,Tampa Bay Lightning,2.45,
+icehockey_nhl,9d8ace7e2a80a89c12349da51e7b02da,Vegas Golden Knights vs Dallas Stars,DraftKings,h2h,Dallas Stars,1.85,
+icehockey_nhl,9d8ace7e2a80a89c12349da51e7b02da,Vegas Golden Knights vs Dallas Stars,DraftKings,h2h,Vegas Golden Knights,1.98,
+icehockey_nhl,9d8ace7e2a80a89c12349da51e7b02da,Vegas Golden Knights vs Dallas Stars,FanDuel,h2h,Dallas Stars,1.87,
+icehockey_nhl,9d8ace7e2a80a89c12349da51e7b02da,Vegas Golden Knights vs Dallas Stars,FanDuel,h2h,Vegas Golden Knights,1.96,
+icehockey_nhl,9d8ace7e2a80a89c12349da51e7b02da,Vegas Golden Knights vs Dallas Stars,BetMGM,h2h,Dallas Stars,1.87,
+icehockey_nhl,9d8ace7e2a80a89c12349da51e7b02da,Vegas Golden Knights vs Dallas Stars,BetMGM,h2h,Vegas Golden Knights,1.95,
+icehockey_nhl,9d8ace7e2a80a89c12349da51e7b02da,Vegas Golden Knights vs Dallas Stars,Caesars,h2h,Dallas Stars,1.87,
+icehockey_nhl,9d8ace7e2a80a89c12349da51e7b02da,Vegas Golden Knights vs Dallas Stars,Caesars,h2h,Vegas Golden Knights,1.95,
+icehockey_nhl,a66486bfd8cfcdd932c04fc4bd743e4f,Boston Bruins vs Toronto Maple Leafs,FanDuel,h2h,Boston Bruins,1.61,
+icehockey_nhl,a66486bfd8cfcdd932c04fc4bd743e4f,Boston Bruins vs Toronto Maple Leafs,FanDuel,h2h,Toronto Maple Leafs,2.36,
+icehockey_nhl,a66486bfd8cfcdd932c04fc4bd743e4f,Boston Bruins vs Toronto Maple Leafs,BetMGM,h2h,Boston Bruins,1.62,
+icehockey_nhl,a66486bfd8cfcdd932c04fc4bd743e4f,Boston Bruins vs Toronto Maple Leafs,BetMGM,h2h,Toronto Maple Leafs,2.35,
+icehockey_nhl,a66486bfd8cfcdd932c04fc4bd743e4f,Boston Bruins vs Toronto Maple Leafs,DraftKings,h2h,Boston Bruins,1.62,
+icehockey_nhl,a66486bfd8cfcdd932c04fc4bd743e4f,Boston Bruins vs Toronto Maple Leafs,DraftKings,h2h,Toronto Maple Leafs,2.36,
+icehockey_nhl,a66486bfd8cfcdd932c04fc4bd743e4f,Boston Bruins vs Toronto Maple Leafs,Caesars,h2h,Boston Bruins,1.62,
+icehockey_nhl,a66486bfd8cfcdd932c04fc4bd743e4f,Boston Bruins vs Toronto Maple Leafs,Caesars,h2h,Toronto Maple Leafs,2.35,
+icehockey_nhl,8e06213ab426fc3c163fac65b71ee776,Carolina Hurricanes vs New York Islanders,DraftKings,h2h,Carolina Hurricanes,1.42,
+icehockey_nhl,8e06213ab426fc3c163fac65b71ee776,Carolina Hurricanes vs New York Islanders,DraftKings,h2h,New York Islanders,2.95,
+icehockey_nhl,8e06213ab426fc3c163fac65b71ee776,Carolina Hurricanes vs New York Islanders,FanDuel,h2h,Carolina Hurricanes,1.39,
+icehockey_nhl,8e06213ab426fc3c163fac65b71ee776,Carolina Hurricanes vs New York Islanders,FanDuel,h2h,New York Islanders,3.05,
+icehockey_nhl,8e06213ab426fc3c163fac65b71ee776,Carolina Hurricanes vs New York Islanders,Caesars,h2h,Carolina Hurricanes,1.4,
+icehockey_nhl,8e06213ab426fc3c163fac65b71ee776,Carolina Hurricanes vs New York Islanders,Caesars,h2h,New York Islanders,3.05,
+icehockey_nhl,8e06213ab426fc3c163fac65b71ee776,Carolina Hurricanes vs New York Islanders,BetMGM,h2h,Carolina Hurricanes,1.4,
+icehockey_nhl,8e06213ab426fc3c163fac65b71ee776,Carolina Hurricanes vs New York Islanders,BetMGM,h2h,New York Islanders,3.0,
+icehockey_nhl,2c54c09ff4b6752439aada298907f650,Winnipeg Jets vs Colorado Avalanche,DraftKings,h2h,Colorado Avalanche,1.82,
+icehockey_nhl,2c54c09ff4b6752439aada298907f650,Winnipeg Jets vs Colorado Avalanche,DraftKings,h2h,Winnipeg Jets,2.02,
+icehockey_nhl,2c54c09ff4b6752439aada298907f650,Winnipeg Jets vs Colorado Avalanche,FanDuel,h2h,Colorado Avalanche,1.87,
+icehockey_nhl,2c54c09ff4b6752439aada298907f650,Winnipeg Jets vs Colorado Avalanche,FanDuel,h2h,Winnipeg Jets,1.96,
+icehockey_nhl,2c54c09ff4b6752439aada298907f650,Winnipeg Jets vs Colorado Avalanche,Caesars,h2h,Colorado Avalanche,1.83,
+icehockey_nhl,2c54c09ff4b6752439aada298907f650,Winnipeg Jets vs Colorado Avalanche,Caesars,h2h,Winnipeg Jets,2.0,
+icehockey_nhl,2c54c09ff4b6752439aada298907f650,Winnipeg Jets vs Colorado Avalanche,BetMGM,h2h,Colorado Avalanche,1.83,
+icehockey_nhl,2c54c09ff4b6752439aada298907f650,Winnipeg Jets vs Colorado Avalanche,BetMGM,h2h,Winnipeg Jets,2.0,
+icehockey_nhl,bf554d780bb6cb0c9eea588eae6c8896,Vancouver Canucks vs Nashville Predators,DraftKings,h2h,Nashville Predators,2.0,
+icehockey_nhl,bf554d780bb6cb0c9eea588eae6c8896,Vancouver Canucks vs Nashville Predators,DraftKings,h2h,Vancouver Canucks,1.83,
+icehockey_nhl,bf554d780bb6cb0c9eea588eae6c8896,Vancouver Canucks vs Nashville Predators,FanDuel,h2h,Nashville Predators,2.0,
+icehockey_nhl,bf554d780bb6cb0c9eea588eae6c8896,Vancouver Canucks vs Nashville Predators,FanDuel,h2h,Vancouver Canucks,1.83,
+icehockey_nhl,bf554d780bb6cb0c9eea588eae6c8896,Vancouver Canucks vs Nashville Predators,Caesars,h2h,Nashville Predators,2.05,
+icehockey_nhl,bf554d780bb6cb0c9eea588eae6c8896,Vancouver Canucks vs Nashville Predators,Caesars,h2h,Vancouver Canucks,1.8,
+icehockey_nhl,bf554d780bb6cb0c9eea588eae6c8896,Vancouver Canucks vs Nashville Predators,BetMGM,h2h,Nashville Predators,2.0,
+icehockey_nhl,bf554d780bb6cb0c9eea588eae6c8896,Vancouver Canucks vs Nashville Predators,BetMGM,h2h,Vancouver Canucks,1.83,
+icehockey_nhl,cf58164dc8040ec471d59f78610f1b22,Los Angeles Kings vs Edmonton Oilers,FanDuel,totals,Over,2.46,5.5
+icehockey_nhl,cf58164dc8040ec471d59f78610f1b22,Los Angeles Kings vs Edmonton Oilers,FanDuel,totals,Under,1.53,5.5
+icehockey_nhl,cf58164dc8040ec471d59f78610f1b22,Los Angeles Kings vs Edmonton Oilers,DraftKings,totals,Over,2.5,5.5
+icehockey_nhl,cf58164dc8040ec471d59f78610f1b22,Los Angeles Kings vs Edmonton Oilers,DraftKings,totals,Under,1.51,5.5
+icehockey_nhl,cf58164dc8040ec471d59f78610f1b22,Los Angeles Kings vs Edmonton Oilers,BetMGM,totals,Over,1.57,4.5
+icehockey_nhl,cf58164dc8040ec471d59f78610f1b22,Los Angeles Kings vs Edmonton Oilers,BetMGM,totals,Under,2.3,4.5
+icehockey_nhl,cf58164dc8040ec471d59f78610f1b22,Los Angeles Kings vs Edmonton Oilers,Caesars,totals,Over,2.35,5.5
+icehockey_nhl,cf58164dc8040ec471d59f78610f1b22,Los Angeles Kings vs Edmonton Oilers,Caesars,totals,Under,1.59,5.5
+icehockey_nhl,6676d7c5997b4873974582313a45fb0a,Florida Panthers vs Tampa Bay Lightning,DraftKings,totals,Over,1.95,6.5
+icehockey_nhl,6676d7c5997b4873974582313a45fb0a,Florida Panthers vs Tampa Bay Lightning,DraftKings,totals,Under,1.87,6.5
+icehockey_nhl,6676d7c5997b4873974582313a45fb0a,Florida Panthers vs Tampa Bay Lightning,FanDuel,totals,Over,1.98,6.5
+icehockey_nhl,6676d7c5997b4873974582313a45fb0a,Florida Panthers vs Tampa Bay Lightning,FanDuel,totals,Under,1.83,6.5
+icehockey_nhl,6676d7c5997b4873974582313a45fb0a,Florida Panthers vs Tampa Bay Lightning,Caesars,totals,Over,1.95,6.5
+icehockey_nhl,6676d7c5997b4873974582313a45fb0a,Florida Panthers vs Tampa Bay Lightning,Caesars,totals,Under,1.87,6.5
+icehockey_nhl,6676d7c5997b4873974582313a45fb0a,Florida Panthers vs Tampa Bay Lightning,BetMGM,totals,Over,1.95,6.5
+icehockey_nhl,6676d7c5997b4873974582313a45fb0a,Florida Panthers vs Tampa Bay Lightning,BetMGM,totals,Under,1.87,6.5
+icehockey_nhl,9d8ace7e2a80a89c12349da51e7b02da,Vegas Golden Knights vs Dallas Stars,DraftKings,totals,Over,2.05,6.0
+icehockey_nhl,9d8ace7e2a80a89c12349da51e7b02da,Vegas Golden Knights vs Dallas Stars,DraftKings,totals,Under,1.8,6.0
+icehockey_nhl,9d8ace7e2a80a89c12349da51e7b02da,Vegas Golden Knights vs Dallas Stars,FanDuel,totals,Over,1.81,5.5
+icehockey_nhl,9d8ace7e2a80a89c12349da51e7b02da,Vegas Golden Knights vs Dallas Stars,FanDuel,totals,Under,2.02,5.5
+icehockey_nhl,9d8ace7e2a80a89c12349da51e7b02da,Vegas Golden Knights vs Dallas Stars,BetMGM,totals,Over,1.83,5.5
+icehockey_nhl,9d8ace7e2a80a89c12349da51e7b02da,Vegas Golden Knights vs Dallas Stars,BetMGM,totals,Under,2.0,5.5
+icehockey_nhl,9d8ace7e2a80a89c12349da51e7b02da,Vegas Golden Knights vs Dallas Stars,Caesars,totals,Over,2.05,6.0
+icehockey_nhl,9d8ace7e2a80a89c12349da51e7b02da,Vegas Golden Knights vs Dallas Stars,Caesars,totals,Under,1.8,6.0
+icehockey_nhl,a66486bfd8cfcdd932c04fc4bd743e4f,Boston Bruins vs Toronto Maple Leafs,FanDuel,totals,Over,1.75,5.5
+icehockey_nhl,a66486bfd8cfcdd932c04fc4bd743e4f,Boston Bruins vs Toronto Maple Leafs,FanDuel,totals,Under,2.1,5.5
+icehockey_nhl,a66486bfd8cfcdd932c04fc4bd743e4f,Boston Bruins vs Toronto Maple Leafs,BetMGM,totals,Over,1.83,5.5
+icehockey_nhl,a66486bfd8cfcdd932c04fc4bd743e4f,Boston Bruins vs Toronto Maple Leafs,BetMGM,totals,Under,2.0,5.5
+icehockey_nhl,a66486bfd8cfcdd932c04fc4bd743e4f,Boston Bruins vs Toronto Maple Leafs,DraftKings,totals,Over,1.82,5.5
+icehockey_nhl,a66486bfd8cfcdd932c04fc4bd743e4f,Boston Bruins vs Toronto Maple Leafs,DraftKings,totals,Under,2.02,5.5
+icehockey_nhl,a66486bfd8cfcdd932c04fc4bd743e4f,Boston Bruins vs Toronto Maple Leafs,Caesars,totals,Over,1.83,5.5
+icehockey_nhl,a66486bfd8cfcdd932c04fc4bd743e4f,Boston Bruins vs Toronto Maple Leafs,Caesars,totals,Under,2.0,5.5
+icehockey_nhl,8e06213ab426fc3c163fac65b71ee776,Carolina Hurricanes vs New York Islanders,DraftKings,totals,Over,2.0,5.5
+icehockey_nhl,8e06213ab426fc3c163fac65b71ee776,Carolina Hurricanes vs New York Islanders,DraftKings,totals,Under,1.83,5.5
+icehockey_nhl,8e06213ab426fc3c163fac65b71ee776,Carolina Hurricanes vs New York Islanders,FanDuel,totals,Over,1.96,5.5
+icehockey_nhl,8e06213ab426fc3c163fac65b71ee776,Carolina Hurricanes vs New York Islanders,FanDuel,totals,Under,1.85,5.5
+icehockey_nhl,8e06213ab426fc3c163fac65b71ee776,Carolina Hurricanes vs New York Islanders,Caesars,totals,Over,2.0,5.5
+icehockey_nhl,8e06213ab426fc3c163fac65b71ee776,Carolina Hurricanes vs New York Islanders,Caesars,totals,Under,1.83,5.5
+icehockey_nhl,8e06213ab426fc3c163fac65b71ee776,Carolina Hurricanes vs New York Islanders,BetMGM,totals,Over,2.0,5.5
+icehockey_nhl,8e06213ab426fc3c163fac65b71ee776,Carolina Hurricanes vs New York Islanders,BetMGM,totals,Under,1.83,5.5
+icehockey_nhl,2c54c09ff4b6752439aada298907f650,Winnipeg Jets vs Colorado Avalanche,DraftKings,totals,Over,1.8,6.5
+icehockey_nhl,2c54c09ff4b6752439aada298907f650,Winnipeg Jets vs Colorado Avalanche,DraftKings,totals,Under,2.05,6.5
+icehockey_nhl,2c54c09ff4b6752439aada298907f650,Winnipeg Jets vs Colorado Avalanche,FanDuel,totals,Over,1.76,6.5
+icehockey_nhl,2c54c09ff4b6752439aada298907f650,Winnipeg Jets vs Colorado Avalanche,FanDuel,totals,Under,2.08,6.5
+icehockey_nhl,2c54c09ff4b6752439aada298907f650,Winnipeg Jets vs Colorado Avalanche,Caesars,totals,Over,1.8,6.5
+icehockey_nhl,2c54c09ff4b6752439aada298907f650,Winnipeg Jets vs Colorado Avalanche,Caesars,totals,Under,2.05,6.5
+icehockey_nhl,2c54c09ff4b6752439aada298907f650,Winnipeg Jets vs Colorado Avalanche,BetMGM,totals,Over,1.8,6.5
+icehockey_nhl,2c54c09ff4b6752439aada298907f650,Winnipeg Jets vs Colorado Avalanche,BetMGM,totals,Under,2.05,6.5
+icehockey_nhl,bf554d780bb6cb0c9eea588eae6c8896,Vancouver Canucks vs Nashville Predators,DraftKings,totals,Over,1.87,5.5
+icehockey_nhl,bf554d780bb6cb0c9eea588eae6c8896,Vancouver Canucks vs Nashville Predators,DraftKings,totals,Under,1.95,5.5
+icehockey_nhl,bf554d780bb6cb0c9eea588eae6c8896,Vancouver Canucks vs Nashville Predators,FanDuel,totals,Over,1.83,5.5
+icehockey_nhl,bf554d780bb6cb0c9eea588eae6c8896,Vancouver Canucks vs Nashville Predators,FanDuel,totals,Under,1.98,5.5
+icehockey_nhl,bf554d780bb6cb0c9eea588eae6c8896,Vancouver Canucks vs Nashville Predators,Caesars,totals,Over,1.87,5.5
+icehockey_nhl,bf554d780bb6cb0c9eea588eae6c8896,Vancouver Canucks vs Nashville Predators,Caesars,totals,Under,1.95,5.5
+icehockey_nhl,bf554d780bb6cb0c9eea588eae6c8896,Vancouver Canucks vs Nashville Predators,BetMGM,totals,Over,1.87,5.5
+icehockey_nhl,bf554d780bb6cb0c9eea588eae6c8896,Vancouver Canucks vs Nashville Predators,BetMGM,totals,Under,1.95,5.5
+icehockey_nhl,cf58164dc8040ec471d59f78610f1b22,Los Angeles Kings vs Edmonton Oilers,FanDuel,spreads,Edmonton Oilers,2.64,-1.5
+icehockey_nhl,cf58164dc8040ec471d59f78610f1b22,Los Angeles Kings vs Edmonton Oilers,FanDuel,spreads,Los Angeles Kings,1.47,1.5
+icehockey_nhl,cf58164dc8040ec471d59f78610f1b22,Los Angeles Kings vs Edmonton Oilers,DraftKings,spreads,Edmonton Oilers,2.75,-1.5
+icehockey_nhl,cf58164dc8040ec471d59f78610f1b22,Los Angeles Kings vs Edmonton Oilers,DraftKings,spreads,Los Angeles Kings,1.43,1.5
+icehockey_nhl,cf58164dc8040ec471d59f78610f1b22,Los Angeles Kings vs Edmonton Oilers,BetMGM,spreads,Edmonton Oilers,2.7,-1.5
+icehockey_nhl,cf58164dc8040ec471d59f78610f1b22,Los Angeles Kings vs Edmonton Oilers,BetMGM,spreads,Los Angeles Kings,1.4,1.5
+icehockey_nhl,cf58164dc8040ec471d59f78610f1b22,Los Angeles Kings vs Edmonton Oilers,Caesars,spreads,Edmonton Oilers,2.65,-1.5
+icehockey_nhl,cf58164dc8040ec471d59f78610f1b22,Los Angeles Kings vs Edmonton Oilers,Caesars,spreads,Los Angeles Kings,1.48,1.5
+icehockey_nhl,6676d7c5997b4873974582313a45fb0a,Florida Panthers vs Tampa Bay Lightning,DraftKings,spreads,Florida Panthers,2.4,-1.5
+icehockey_nhl,6676d7c5997b4873974582313a45fb0a,Florida Panthers vs Tampa Bay Lightning,DraftKings,spreads,Tampa Bay Lightning,1.6,1.5
+icehockey_nhl,6676d7c5997b4873974582313a45fb0a,Florida Panthers vs Tampa Bay Lightning,FanDuel,spreads,Florida Panthers,2.32,-1.5
+icehockey_nhl,6676d7c5997b4873974582313a45fb0a,Florida Panthers vs Tampa Bay Lightning,FanDuel,spreads,Tampa Bay Lightning,1.62,1.5
+icehockey_nhl,6676d7c5997b4873974582313a45fb0a,Florida Panthers vs Tampa Bay Lightning,Caesars,spreads,Florida Panthers,2.4,-1.5
+icehockey_nhl,6676d7c5997b4873974582313a45fb0a,Florida Panthers vs Tampa Bay Lightning,Caesars,spreads,Tampa Bay Lightning,1.61,1.5
+icehockey_nhl,6676d7c5997b4873974582313a45fb0a,Florida Panthers vs Tampa Bay Lightning,BetMGM,spreads,Florida Panthers,2.4,-1.5
+icehockey_nhl,6676d7c5997b4873974582313a45fb0a,Florida Panthers vs Tampa Bay Lightning,BetMGM,spreads,Tampa Bay Lightning,1.61,1.5
+icehockey_nhl,9d8ace7e2a80a89c12349da51e7b02da,Vegas Golden Knights vs Dallas Stars,DraftKings,spreads,Dallas Stars,3.15,-1.5
+icehockey_nhl,9d8ace7e2a80a89c12349da51e7b02da,Vegas Golden Knights vs Dallas Stars,DraftKings,spreads,Vegas Golden Knights,1.38,1.5
+icehockey_nhl,9d8ace7e2a80a89c12349da51e7b02da,Vegas Golden Knights vs Dallas Stars,FanDuel,spreads,Dallas Stars,3.15,-1.5
+icehockey_nhl,9d8ace7e2a80a89c12349da51e7b02da,Vegas Golden Knights vs Dallas Stars,FanDuel,spreads,Vegas Golden Knights,1.38,1.5
+icehockey_nhl,9d8ace7e2a80a89c12349da51e7b02da,Vegas Golden Knights vs Dallas Stars,BetMGM,spreads,Dallas Stars,3.0,-1.5
+icehockey_nhl,9d8ace7e2a80a89c12349da51e7b02da,Vegas Golden Knights vs Dallas Stars,BetMGM,spreads,Vegas Golden Knights,1.4,1.5
+icehockey_nhl,9d8ace7e2a80a89c12349da51e7b02da,Vegas Golden Knights vs Dallas Stars,Caesars,spreads,Dallas Stars,3.15,-1.5
+icehockey_nhl,9d8ace7e2a80a89c12349da51e7b02da,Vegas Golden Knights vs Dallas Stars,Caesars,spreads,Vegas Golden Knights,1.37,1.5
+icehockey_nhl,a66486bfd8cfcdd932c04fc4bd743e4f,Boston Bruins vs Toronto Maple Leafs,FanDuel,spreads,Boston Bruins,2.58,-1.5
+icehockey_nhl,a66486bfd8cfcdd932c04fc4bd743e4f,Boston Bruins vs Toronto Maple Leafs,FanDuel,spreads,Toronto Maple Leafs,1.52,1.5
+icehockey_nhl,a66486bfd8cfcdd932c04fc4bd743e4f,Boston Bruins vs Toronto Maple Leafs,BetMGM,spreads,Boston Bruins,2.55,-1.5
+icehockey_nhl,a66486bfd8cfcdd932c04fc4bd743e4f,Boston Bruins vs Toronto Maple Leafs,BetMGM,spreads,Toronto Maple Leafs,1.53,1.5
+icehockey_nhl,a66486bfd8cfcdd932c04fc4bd743e4f,Boston Bruins vs Toronto Maple Leafs,DraftKings,spreads,Boston Bruins,2.7,-1.5
+icehockey_nhl,a66486bfd8cfcdd932c04fc4bd743e4f,Boston Bruins vs Toronto Maple Leafs,DraftKings,spreads,Toronto Maple Leafs,1.49,1.5
+icehockey_nhl,a66486bfd8cfcdd932c04fc4bd743e4f,Boston Bruins vs Toronto Maple Leafs,Caesars,spreads,Boston Bruins,2.7,-1.5
+icehockey_nhl,a66486bfd8cfcdd932c04fc4bd743e4f,Boston Bruins vs Toronto Maple Leafs,Caesars,spreads,Toronto Maple Leafs,1.49,1.5
+icehockey_nhl,8e06213ab426fc3c163fac65b71ee776,Carolina Hurricanes vs New York Islanders,DraftKings,spreads,Carolina Hurricanes,2.14,-1.5
+icehockey_nhl,8e06213ab426fc3c163fac65b71ee776,Carolina Hurricanes vs New York Islanders,DraftKings,spreads,New York Islanders,1.74,1.5
+icehockey_nhl,8e06213ab426fc3c163fac65b71ee776,Carolina Hurricanes vs New York Islanders,FanDuel,spreads,Carolina Hurricanes,2.14,-1.5
+icehockey_nhl,8e06213ab426fc3c163fac65b71ee776,Carolina Hurricanes vs New York Islanders,FanDuel,spreads,New York Islanders,1.73,1.5
+icehockey_nhl,8e06213ab426fc3c163fac65b71ee776,Carolina Hurricanes vs New York Islanders,Caesars,spreads,Carolina Hurricanes,2.15,-1.5
+icehockey_nhl,8e06213ab426fc3c163fac65b71ee776,Carolina Hurricanes vs New York Islanders,Caesars,spreads,New York Islanders,1.74,1.5
+icehockey_nhl,8e06213ab426fc3c163fac65b71ee776,Carolina Hurricanes vs New York Islanders,BetMGM,spreads,Carolina Hurricanes,2.05,-1.5
+icehockey_nhl,8e06213ab426fc3c163fac65b71ee776,Carolina Hurricanes vs New York Islanders,BetMGM,spreads,New York Islanders,1.77,1.5
+icehockey_nhl,2c54c09ff4b6752439aada298907f650,Winnipeg Jets vs Colorado Avalanche,DraftKings,spreads,Colorado Avalanche,2.95,-1.5
+icehockey_nhl,2c54c09ff4b6752439aada298907f650,Winnipeg Jets vs Colorado Avalanche,DraftKings,spreads,Winnipeg Jets,1.42,1.5
+icehockey_nhl,2c54c09ff4b6752439aada298907f650,Winnipeg Jets vs Colorado Avalanche,FanDuel,spreads,Colorado Avalanche,2.98,-1.5
+icehockey_nhl,2c54c09ff4b6752439aada298907f650,Winnipeg Jets vs Colorado Avalanche,FanDuel,spreads,Winnipeg Jets,1.41,1.5
+icehockey_nhl,2c54c09ff4b6752439aada298907f650,Winnipeg Jets vs Colorado Avalanche,Caesars,spreads,Colorado Avalanche,2.96,-1.5
+icehockey_nhl,2c54c09ff4b6752439aada298907f650,Winnipeg Jets vs Colorado Avalanche,Caesars,spreads,Winnipeg Jets,1.42,1.5
+icehockey_nhl,2c54c09ff4b6752439aada298907f650,Winnipeg Jets vs Colorado Avalanche,BetMGM,spreads,Colorado Avalanche,3.0,-1.5
+icehockey_nhl,2c54c09ff4b6752439aada298907f650,Winnipeg Jets vs Colorado Avalanche,BetMGM,spreads,Winnipeg Jets,1.4,1.5
+icehockey_nhl,bf554d780bb6cb0c9eea588eae6c8896,Vancouver Canucks vs Nashville Predators,DraftKings,spreads,Nashville Predators,1.41,1.5
+icehockey_nhl,bf554d780bb6cb0c9eea588eae6c8896,Vancouver Canucks vs Nashville Predators,DraftKings,spreads,Vancouver Canucks,3.0,-1.5
+icehockey_nhl,bf554d780bb6cb0c9eea588eae6c8896,Vancouver Canucks vs Nashville Predators,FanDuel,spreads,Nashville Predators,1.38,1.5
+icehockey_nhl,bf554d780bb6cb0c9eea588eae6c8896,Vancouver Canucks vs Nashville Predators,FanDuel,spreads,Vancouver Canucks,3.1,-1.5
+icehockey_nhl,bf554d780bb6cb0c9eea588eae6c8896,Vancouver Canucks vs Nashville Predators,Caesars,spreads,Nashville Predators,1.4,1.5
+icehockey_nhl,bf554d780bb6cb0c9eea588eae6c8896,Vancouver Canucks vs Nashville Predators,Caesars,spreads,Vancouver Canucks,3.05,-1.5
+icehockey_nhl,bf554d780bb6cb0c9eea588eae6c8896,Vancouver Canucks vs Nashville Predators,BetMGM,spreads,Nashville Predators,1.4,1.5
+icehockey_nhl,bf554d780bb6cb0c9eea588eae6c8896,Vancouver Canucks vs Nashville Predators,BetMGM,spreads,Vancouver Canucks,3.0,-1.5
+icehockey_sweden_hockey_league,db8e6840a389463350b470d93012cbd0,Skellefteå AIK vs Rögle BK,DraftKings,h2h,Rögle BK,2.1,
+icehockey_sweden_hockey_league,db8e6840a389463350b470d93012cbd0,Skellefteå AIK vs Rögle BK,DraftKings,h2h,Skellefteå AIK,1.74,
+icehockey_sweden_hockey_league,db8e6840a389463350b470d93012cbd0,Skellefteå AIK vs Rögle BK,DraftKings,totals,Over,1.68,4.5
+icehockey_sweden_hockey_league,db8e6840a389463350b470d93012cbd0,Skellefteå AIK vs Rögle BK,DraftKings,totals,Under,2.24,4.5
+icehockey_sweden_hockey_league,db8e6840a389463350b470d93012cbd0,Skellefteå AIK vs Rögle BK,DraftKings,spreads,Rögle BK,1.37,1.5
+icehockey_sweden_hockey_league,db8e6840a389463350b470d93012cbd0,Skellefteå AIK vs Rögle BK,DraftKings,spreads,Skellefteå AIK,3.2,-1.5

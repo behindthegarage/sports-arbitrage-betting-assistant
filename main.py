@@ -2,6 +2,7 @@ from dotenv import load_dotenv
 import os
 from odds_api import fetch_odds, log_error
 from arbitrage_finder import find_arbitrage_opportunities
+from arbitrage_spread import find_spread_arbitrage_opportunities
 from sports_selection import fetch_sports, user_select_sports
 import pandas as pd
 
@@ -15,26 +16,29 @@ def present_data(odds_data, selected_sports, combined_df):
     flattened_data = []
 
     for sport_key in selected_sports:
-        for event in odds_data.get(sport_key, []):
-            event_id = event.get('id')
-            event_name = f"{event.get('home_team')} vs {event.get('away_team')}"
-            for bookmaker in event.get('bookmakers', []):
-                bookmaker_name = bookmaker.get('title')
-                for market in bookmaker.get('markets', []):
-                    market_key = market.get('key')
-                    if market_key in ['h2h']: # , 'spreads', 'totals'
-                        for outcome in market.get('outcomes', []):
-                            data = {
-                                'sport': sport_key,
-                                'event_id': event_id,
-                                'event_name': event_name,
-                                'bookmaker': bookmaker_name,
-                                'market_type': market_key,
-                                'team': outcome.get('name'),
-                                'price': outcome.get('price'),
-                                'point': outcome.get('point', None)  # None if not applicable
-                            }
-                            flattened_data.append(data)
+        sport_data = odds_data.get(sport_key, {})
+        for market_type, events in sport_data.items():
+            if events is None:  # Check if events is None and skip if true
+                continue
+            for event in events:
+                event_id = event.get('id')
+                event_name = f"{event.get('home_team')} vs {event.get('away_team')}"
+                for bookmaker in event.get('bookmakers', []):
+                    bookmaker_name = bookmaker.get('title')
+                    for market in bookmaker.get('markets', []):
+                        if market.get('key') in ['h2h', 'spreads', 'totals']:
+                            for outcome in market.get('outcomes', []):
+                                data = {
+                                    'sport': sport_key,
+                                    'event_id': event_id,
+                                    'event_name': event_name,
+                                    'bookmaker': bookmaker_name,
+                                    'market_type': market.get('key'),
+                                    'team': outcome.get('name'),
+                                    'price': outcome.get('price'),
+                                    'point': outcome.get('point', None)  # None if not applicable
+                                }
+                                flattened_data.append(data)
 
     df = pd.DataFrame(flattened_data)
     if combined_df.empty:
@@ -88,34 +92,35 @@ def main():
     # Fetch odds for selected sports and find arbitrage opportunities
     for sport_key in selected_sports:
         print(f"Fetching odds for {sport_key}...")
-        # define regions
         regions = 'us,us2'
-        markets = 'h2h' # ,'totals'
+        markets = ['h2h', 'totals', 'spreads']  # Specify only these markets
         odds_format = 'decimal'
         date_format = 'iso'
+        bookmakers_list = "betmgm,draftkings,fanduel,williamhill_us"
+
+        # Check if the sport is associated with futures and adjust markets accordingly
+        if 'world_series_winner' in sport_key or 'outright' in sport_key:
+            print(f"Skipping outright markets for {sport_key}")
+            continue  # Skip fetching odds for outright markets
+
+        # Fetch odds data for all markets
+        odds_data = fetch_odds(sport=sport_key, regions=regions, markets=','.join(markets), odds_format=odds_format, date_format=date_format, bookmakers=bookmakers_list)
         
-        # Bookmakers lists
-        # Max bookmakers (limit 40)
-        # bookmakers_list = "betfair_sb_uk,betmgm,betonlineag,betparx,betrivers,betus,betvictor,betway,bovada,boylesports,casumo,coral,draftkings,espnbet,everygame,fanduel,fliff,grosvenor,hardrockbet,ladbrokes_uk,leovegas,livescorebet,lowvig,marathonbet,matchbook,mybookieag,nordicbet,onexbet,paddypower,pointsbetus,sisportsbook,skybet,sport888,superbook,suprabets,tipico_us,virginbet,williamhill_us,windcreek,wynnbet"
-        
-        # Michigan legal bookmakers
-        # bookmakers_list = "betmgm,betrivers,draftkings,fanduel,wynnbet,espnbet,sisportsbook,williamhill_us,pointsbetus,betparx"
-        
-        # Current user funded bookmakers
-        bookmakers_list = "betmgm,draftkings,fanduel,williamhill_us" ## betparx,betrivers,espnbet to be added
-        
-        # Fetch odds data
-        odds_data = fetch_odds(sport=sport_key, regions=regions, markets='h2h', odds_format=odds_format, date_format=date_format, bookmakers=bookmakers_list)
- 
+        # Process fetched data
         if odds_data:
             combined_df = present_data({sport_key: odds_data}, selected_sports, combined_df)
-            opportunities = find_arbitrage_opportunities(odds_data)
-            if opportunities:
-                print(f"Arbitrage Opportunities Found for {sport_key}:")
-                present_opportunities(opportunities)
-                all_opportunities.extend(opportunities)
-            else:
-                print(f"No arbitrage opportunities found for {sport_key}.")
+            for market_type, data in odds_data.items():
+                # Ensure data is not None and is iterable before processing
+                if data and isinstance(data, list) and len(data) > 0:
+                    opportunities = find_arbitrage_opportunities(data)
+                    if opportunities:
+                        print(f"Arbitrage Opportunities Found for {sport_key} in {market_type}:")
+                        present_opportunities(opportunities)
+                        all_opportunities.extend(opportunities)
+                    else:
+                        print(f"No arbitrage opportunities found for {sport_key} in {market_type}.")
+        else:
+            print(f"Failed to fetch odds for {sport_key}.")
     
     # Write the combined DataFrame to a single CSV file after processing all sports
     combined_df.to_csv('odds_data.csv', index=False)

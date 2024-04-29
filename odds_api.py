@@ -21,31 +21,34 @@ def log_error(message):
     with open('error.log', 'a') as log_file:
         log_file.write(log_message)
 
-def fetch_odds(sport, regions='us,us2', markets='h2h', odds_format='decimal', date_format='iso', bookmakers: str = ''):
+def fetch_odds(sport, regions='us,us2', markets=['h2h', 'totals', 'spreads'], odds_format='decimal', date_format='iso', bookmakers: str = ''):
     # Example adjustment for market selection based on sport
     if 'championship_winner' in sport:
         markets = 'outrights'
     else:
-        markets = 'h2h' # ,totals
+        markets = ['h2h', 'totals', 'spreads'] # ,totals
         
-    params = {
-        'api_key': API_KEY,
-        'regions': regions,
-        'markets': markets,
-        'oddsFormat': odds_format,
-        'dateFormat': date_format,
-        'bookmakers': bookmakers
-    }
-    odds_response = requests.get(f'https://api.the-odds-api.com/v4/sports/{sport}/odds', params=params)
-    if odds_response.status_code == 200:
-        odds_data = odds_response.json()
-        print(f"Successfully fetched odds data for {sport}.")  # Debug message
-        return odds_data
-    else:
-        error_message = f"Error fetching odds: {odds_response.status_code}, Response: {odds_response.json().get('message', '')}"
-        log_error(error_message)
-        print(error_message)  # Debug message
-        return None
+    odds_results = {}
+    for market in markets:
+        params = {
+            'api_key': API_KEY,
+            'regions': regions,
+            'markets': market,
+            'oddsFormat': odds_format,
+            'dateFormat': date_format,
+            'bookmakers': bookmakers
+        }
+        odds_response = requests.get(f'https://api.the-odds-api.com/v4/sports/{sport}/odds', params=params)
+        if odds_response.status_code == 200:
+            odds_data = odds_response.json()
+            odds_results[market] = odds_data
+            print(f"Successfully fetched {market} odds data for {sport}.")  # Debug message
+        else:
+            error_message = f"Error fetching {market} odds: {odds_response.status_code}, Response: {odds_response.json().get('message', '')}"
+            log_error(error_message)
+            print(error_message)  # Debug message
+            odds_results[market] = None
+    return odds_results
 
 
 
